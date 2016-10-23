@@ -1,0 +1,203 @@
+ANT   10CD - Cultural Anthropology ANT 10CD - Cultural Anthropology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1002
+010-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+AF 202
+William Donner
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1003
+020-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+AF 202
+William Donner
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1004
+030-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+AF 202
+Kenneth Ehrensal
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1005
+040-LEC
+Regular
+MoWe 4:30PM - 5:50PM
+AF 202
+Kenneth Ehrensal
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1006
+050-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+AF 103
+Kim Shively
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1007
+060-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+AF 201
+Kim Shively
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1008
+070-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+AF 202
+Khori Newlander
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3395
+080-LEC
+Regular
+TuTh 3:00PM - 4:20PM
+AF 202
+Khori Newlander
+08/29/2016 - 12/17/2016
+Open
+ANT   20 - Physical Anthropology ANT 20 - Physical Anthropology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1018
+010-LEC
+Regular
+MoWeFr 8:00AM - 8:50AM
+OM 28
+David Webb
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1012
+020-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+OM 28
+David Webb
+08/29/2016 - 12/17/2016
+Open
+ANT   40CD - Language and Culture ANT 40CD - Language and Culture 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3288
+010-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+OM 123
+Jennifer Schlegel
+08/29/2016 - 12/17/2016
+Open
+ANT  101 - North American Indian ANT 101 - North American Indian 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3396
+010-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+OM 281
+Khori Newlander
+08/29/2016 - 12/17/2016
+Open
+ANT  105CDCT - Classical Archaeology ANT 105CDCT - Classical Archaeology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1013
+010-LEC
+Regular
+TuTh 8:00AM - 9:20AM
+OM 28
+David Webb
+08/29/2016 - 12/17/2016
+Open
+ANT  165CD - The Muslim Middle East ANT 165CD - The Muslim Middle East 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2879
+010-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+OM 21
+Kim Shively
+08/29/2016 - 12/17/2016
+Open
+ANT  202CTQL - Research Methods in Physical Anthropology ANT 202CTQL - Research Methods in Physical Anthropology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2874
+010-LEC
+Regular
+Tu 3:00PM - 5:50PM
+OM 28
+David Webb
+08/29/2016 - 12/17/2016
+Open
+ANT  218 - Culture and Consumption ANT 218 - Culture and Consumption 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2900
+010-LEC
+Regular
+MoWe 3:00PM - 4:20PM
+DF 24
+Kenneth Ehrensal
+08/29/2016 - 12/17/2016
+Open
+ANT  239 - Historical Archaeology ANT 239 - Historical Archaeology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3397
+010-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+OM 28
+Khori Newlander
+08/29/2016 - 12/17/2016
+Open
+ANT  242VLWI - Museums, Festivals and Cultural Events ANT 242VLWI - Museums, Festivals and Cultural Events 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2899
+010-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+OM 28
+William Donner
+08/29/2016 - 12/17/2016
+Closed
+ANT  245 - Language and Identity ANT 245 - Language and Identity 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2877
+010-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+OM 288
+Jennifer Schlegel
+08/29/2016 - 12/17/2016
+Open
+ANT  360CMWI - History and Theory of Anthropology ANT 360CMWI - History and Theory of Anthropology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1011
+010-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+GC 200
+William Donner
+08/29/2016 - 12/17/2016
+Open
+ANT  371 - Selected Topics In Anthropology ANT 371 - Selected Topics In Anthropology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2881
+010-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+OM 22A
+Kim Shively
+08/29/2016 - 12/17/2016
+Open
+Topic: WOMEN AND RELIGION

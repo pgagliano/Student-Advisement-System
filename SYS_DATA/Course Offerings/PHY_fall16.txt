@@ -1,0 +1,230 @@
+PHY   20 - Introduction to Physics PHY 20 - Introduction to Physics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2978
+010-LEC
+Regular
+MoWe 10:00AM - 10:50AM
+BH 105
+Paul Quinn
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2979
+011-LAB
+Regular
+Th 9:00AM - 11:50AM
+BH 411
+Paul Quinn
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2980
+012-LAB
+Regular
+Th 1:00PM - 3:50PM
+BH 411
+Paul Quinn
+08/29/2016 - 12/17/2016
+Open
+PHY   40 - General Physics I PHY 40 - General Physics I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1597
+010-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+BH 261
+Eric Laub
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1598
+011-LAB
+Regular
+Tu 8:00AM - 10:50AM
+BH 411
+Eric Laub
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1606
+012-LAB
+Regular
+Tu 2:00PM - 4:50PM
+BH 411
+Eric Laub
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1599
+313-LAB
+Regular
+Tu 6:00PM - 8:50PM
+BH 411
+Justin Smoyer
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3503
+514-LAB
+Regular
+Th 6:00PM - 8:50PM
+BH 411
+Kunal Das
+08/29/2016 - 12/17/2016
+Open
+PHY  100 - Physics I PHY 100 - Physics I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1600
+010-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+BH 261
+Sudarshan Fernando
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1601
+011-LAB
+Regular
+Mo 2:00PM - 4:50PM
+BH 411
+Justin Smoyer
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1602
+012-LAB
+Regular
+We 2:00PM - 4:50PM
+BH 411
+Sudarshan Fernando
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1607
+214-LAB
+Regular
+Mo 6:00PM - 8:50PM
+BH 411
+Kunal Das
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1612
+415-LAB
+Regular
+We 6:00PM - 8:50PM
+BH 411
+Kunal Das
+08/29/2016 - 12/17/2016
+Open
+PHY  212 - Modern Physics I PHY 212 - Modern Physics I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1604
+010-LEC
+Regular
+MoWe 3:00PM - 4:20PM
+BH 105
+Kunal Das
+08/29/2016 - 12/17/2016
+Open
+PHY  220WI - Electronics PHY 220WI - Electronics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1608
+010-LEC
+Regular
+TuTh 12:00PM - 12:50PM
+BH 262
+Justin Smoyer
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1609
+011-LAB
+Regular
+Th 2:00PM - 4:50PM
+BH 403
+Justin Smoyer
+08/29/2016 - 12/17/2016
+Closed
+PHY  245 - Mathematical Physics I PHY 245 - Mathematical Physics I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1605
+010-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+BH 105
+Sudarshan Fernando
+08/29/2016 - 12/17/2016
+Open
+PHY  316QL - Electricity and Magnetism I PHY 316QL - Electricity and Magnetism I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1610
+010-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+BH 105
+Sudarshan Fernando
+08/29/2016 - 12/17/2016
+Open
+PHY  327 - Thermodynamics and Statistical Mechanics PHY 327 - Thermodynamics and Statistical Mechanics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3641
+990-LEC
+Regular
+TBA
+TBA
+Paul Quinn
+08/29/2016 - 12/17/2016
+Closed
+PHY  340 - Computational Physics PHY 340 - Computational Physics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3051
+010-LEC
+Regular
+Fr 2:00PM - 4:50PM
+GR 301
+Paul Quinn
+08/29/2016 - 12/17/2016
+Closed
+PHY  342 - Astrophysics PHY 342 - Astrophysics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3053
+010-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+GR 301
+Phillip Reed
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+PHY  361 - Quantum Mechanics II PHY 361 - Quantum Mechanics II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3527
+990-LEC
+Regular
+TBA
+TBA
+Sudarshan Fernando
+08/29/2016 - 12/17/2016
+Closed
+PHY  370 - Research in Physics PHY 370 - Research in Physics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3675
+960-LEC
+Regular
+TBA
+TBA
+Paul Quinn
+08/29/2016 - 12/17/2016
+Closed
+PHY  380CMWI - Senior Seminar in Physics PHY 380CMWI - Senior Seminar in Physics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1611
+010-LEC
+Regular
+MoWeFr 8:00AM - 8:50AM
+GR 301
+Paul Quinn
+08/29/2016 - 12/17/2016
+Open

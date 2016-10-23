@@ -1,0 +1,188 @@
+100CDCT
+Introduction to Social Work and Social Welfare
+110
+Swl As Institution
+130CDCT
+Poverty and Social Welfare
+160CD
+Human Behavior and Social Environment
+200CMWI
+The Professional Context of Social Work Practice
+230
+Commun Organ
+240
+Soc Work W/groups
+250
+Social Work With Individuals: Practice I
+255WICD
+Social Welfare Policy
+265
+Social Work Practice With Groups and Families: Practice II
+280
+Social Work Practice With Communities and Organizations: Practice III
+285
+Essential Skills for Helping People
+286
+Social Work and Substance Abuse
+290
+Social Gerontology and Social Welfare
+315
+Human Services Administration and Social Policy
+320
+Case Management - an Interdisciplinary Approach
+328
+Child Welfare and Social Work Practice
+360CTQL
+Methods and Practice of Social Work Research
+370
+Selected Topics in Social Work and Social Welfare
+371
+Selected Topics in Social Work and Social Welfare
+372
+Selected Topics in Social Work and Social Welfare
+373
+Selected Topics in Social Work and Social Welfare
+374
+Selected Topics in Social Work and Social Welfare
+375
+Selected Topics in Social Work and Social Welfare
+376
+Selected Topics in Social Work and Social Welfare
+377
+Selected Topics in Social Work and Social Welfare
+378
+Selected Topics in Social Work and Social Welfare
+379
+Independent Study
+381
+Field Instruction in Social Work I
+382CTWI
+Professional Seminar in Social Work I
+383
+Field Instruction in Social Work II
+384
+Professional Seminar in Social Work II
+395
+Honors Independent Study/Thesis
+398
+Honors Supplementary Research
+400
+Foundations in Human Behavior in the Social Environment
+450
+Foundations of Social Work Practice with Individuals
+455
+Foundations of Social Welfare Policies
+460
+Foundations of Social Work Research Methods
+465
+Foundations of Social Work Practice with Groups and Families
+480
+Foundations of Social Work Practice with Organizat
+481
+Foundation Internship I
+482
+Integrated Generalist Social Work Practice Seminar
+483
+Foundation Internship II
+484
+Integrated Generalist Social Work Practice Seminar
+491
+Internship for Advanced Standing I
+492
+Generalist Social Work Practice for Advanced Stand
+493
+Internship for Advanced Standing II
+494
+Generalist Social Work Practice for Advanced Stand
+500
+Families in the Social Environment
+501
+Treatment Modalities for Social Work with Families
+502
+Social Work Crisis Intervention with Families
+503
+Social Work with Family Groups
+504
+Short-Term Treatment Models in Social Work with Families
+505
+Psychopharmacology for Social Workers
+507
+Differential Assessment Techniques for Social Workers
+508
+Maltreatment in the Family: Social Work Practice
+516
+Social Work in Health Care
+519
+Qualitative Research in Social Work
+520
+Community Social Needs Assessment
+524
+Program Evaluation and Social Work
+525
+Information Technology and Social Work Practice I
+526
+Information Technology and Social Work Practice II
+527
+Social Entrepreneurship and Social Work
+528
+Social Work and Nonprofit Leadership
+529
+Financial Sustainability of Entrepreneurial Social Work
+536
+Skills for Working with the New Immigrant and the Family
+538
+The Organization and Practice of Family Group Decision Making I
+539
+The Organization and Practice of Family Group Decision Making II
+540
+The Organization and Practice of Family Group Decision Making III
+545
+Child Permanence in the Family-in-Environment
+555
+Applied Family Policy and Family Service Programs
+559
+Social Work Intervention with Substance Abusing Populations: A Systems Apprch to Chem Dpndncy Trtmnt
+560
+Applied Methods of Social Work Research
+561
+Motivational Interviewing Skills: Social Work Strategies in Gender Sensitive Addiction Treatment
+562
+Social Work Best Practices in Addiction Treatment
+570
+Selected Topics in Advanced Social Work Practice
+573
+Publishing and Professional Presentations in Social Work
+574
+Family Mediation in Advanced Social Work Practice
+575
+Clinical Supervision in Social Work
+579
+Independent Study in Advanced Generalist Social Work Practice
+581
+Advanced Internship I
+582
+Advanced Theory in Family-Centered Generalist Social Work Practice I
+583
+Advanced Internship II
+584
+Advanced Theory in Family-Centered Generalist Social Work Practice II
+595
+Capstone Experience: Social Work and the Family-In-Environment
+700
+Social Work Leadership I
+701
+Social Work Leadership II
+704
+The Social Work Teacher-Scholar I
+705
+The Social Work Teacher-Scholar II
+710
+Research Methodology
+715
+Multivariate Statistical Analysis
+720
+Leadership/Teaching Praxis I
+721
+Leadership/Teaching Praxis II
+730
+Qualitative Analysis

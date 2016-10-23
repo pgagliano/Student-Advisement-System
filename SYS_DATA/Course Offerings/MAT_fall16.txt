@@ -1,0 +1,823 @@
+MAT   17 - Introduction to Mathematics MAT 17 - Introduction to Mathematics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1309
+010-LEC
+Regular
+MoWeFr 8:00AM - 8:50AM
+LY 226
+Deepak Khanna
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1310
+020-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+LY 226
+Deepak Khanna
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1369
+021-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+BK 243
+Staff
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1371
+030-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+BK 245
+Sera Karahoca
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1311
+050-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+BK 243
+Ju Zhou
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1399
+060-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+BK 243
+Sera Karahoca
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3657
+061-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+LY 203
+Anke Walz
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3619
+070-LEC
+Regular
+MoWeFr 2:00PM - 2:50PM
+BK 243
+Staff
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1347
+110-LEC
+Regular
+TuTh 8:00AM - 9:20AM
+BK 243
+Deepak Khanna
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1367
+111-LEC
+Regular
+TuTh 8:00AM - 9:20AM
+LY 226
+Stephen Fowler
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1313
+121-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+LY 226
+Deepak Khanna
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1407
+123-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+LY 203
+Stephen Fowler
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1315
+140-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+LY 225
+Staff
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1316
+810-LEC
+Regular
+TBA
+TBA
+Kunio Mitsuma
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1365
+811-LEC
+Regular
+TBA
+TBA
+Kunio Mitsuma
+08/29/2016 - 12/17/2016
+Closed
+MAT   40 - Geometry MAT 40 - Geometry 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1372
+030-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+LY 203
+Anke Walz
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1373
+050-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+LY 203
+Anke Walz
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3506
+990-LEC
+Regular
+TBA
+TBA
+Anke Walz
+08/29/2016 - 12/17/2016
+Closed
+MAT   45 - Women In Mathematics MAT 45 - Women In Mathematics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3298
+010-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+BK 241
+Lyn McQuaid
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1317
+810-LEC
+Regular
+TBA
+TBA
+Lyn McQuaid
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1318
+811-LEC
+Regular
+TBA
+TBA
+Lyn McQuaid
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+MAT  103 - Fundamentals of Mathematics I MAT 103 - Fundamentals of Mathematics I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1319
+010-LEC
+Regular
+MoWeFr 8:00AM - 8:50AM
+BK 243
+Dianne McCready
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1320
+020-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+BK 245
+Dianne McCready
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1366
+031-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+BK 101
+Staff
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1322
+050-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+BK 241
+Sera Karahoca
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1361
+060-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+LY 225
+Dianne McCready
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1388
+070-LEC
+Regular
+MoWeFr 2:00PM - 2:50PM
+BK 241
+Michelle Savescu
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1374
+120-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+BK 215
+Karise Mace
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1323
+130-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+BK 215
+Karise Mace
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1324
+140-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+LY 226
+Michelle Savescu
+08/29/2016 - 12/17/2016
+Closed
+MAT  104QL - Fundamentals of Mathematics II MAT 104QL - Fundamentals of Mathematics II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1360
+130-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+BK 213
+Karise Mace
+08/29/2016 - 12/17/2016
+Open
+MAT  105 - College Algebra MAT 105 - College Algebra 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1326
+010-LEC
+Regular
+MoWeFr 8:00AM - 8:50AM
+AF 202
+Sera Karahoca
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3513
+031-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+AF 203
+Stephen Fowler
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3514
+032-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+BK 109
+Perry Lee
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1327
+050-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+AF 203
+Francis Vasko
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3511
+051-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+AF 202
+Dianne McCready
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3515
+052-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+BK 109
+Jonathan Yeakel
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1328
+060-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+AF 203
+Jesse Feller
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1346
+071-LEC
+Regular
+MoWeFr 2:00PM - 2:50PM
+AF 103
+Karise Mace
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1384
+120-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+AF 103
+John Botzum
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1386
+140-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+AF 203
+John Botzum
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1357
+810-LEC
+Regular
+TBA
+TBA
+Yun Lu
+08/29/2016 - 12/17/2016
+Closed
+MAT  106 - Trigonometry MAT 106 - Trigonometry 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1332
+020-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+LY 136
+Jonathan Yeakel
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1356
+050-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+LY 114
+Wing Hong Tony Wong
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1393
+110-LEC
+Regular
+TuTh 8:00AM - 9:20AM
+LY 225
+Jesse Feller
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1333
+120-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+LY 225
+Jesse Feller
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1375
+140-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+BK 218
+Jesse Feller
+08/29/2016 - 12/17/2016
+Open
+MAT  115 - Precalculus Mathematics MAT 115 - Precalculus Mathematics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1377
+020-LEC
+Regular
+MoWeFr 2:00PM - 2:50PM
+LY 108
+Amadou Guisse
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1398
+030-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+BK 241
+Amadou Guisse
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1408
+040-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+LY 203
+Michelle Savescu
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1392
+110-LEC
+Regular
+MoWeFr 8:00AM - 8:50AM
+LY 225
+Wing Hong Tony Wong
+08/29/2016 - 12/17/2016
+Closed
+MAT  121 - Mathematics for Business and Information Science MAT 121 - Mathematics for Business and Information Science 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1335
+030-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+LY 225
+John Botzum
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1334
+050-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+LY 204
+Kunio Mitsuma
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1390
+051-LEC
+Regular
+MoWeFr 8:00AM - 8:50AM
+LY 214
+John Botzum
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1387
+060-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+LY 218
+Amadou Guisse
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1338
+810-LEC
+Regular
+TBA
+TBA
+Francis Vasko
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1336
+811-LEC
+Regular
+TBA
+TBA
+Francis Vasko
+08/29/2016 - 12/17/2016
+Open
+MAT  122 - Applied Calculus MAT 122 - Applied Calculus 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1339
+020-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+LY 120
+Paul Ache
+08/29/2016 - 12/17/2016
+Closed
+MAT  140QL - Applied Statistical Methods MAT 140QL - Applied Statistical Methods 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1363
+020-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+BK 218
+Jonathan Yeakel
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1364
+030-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+BK 240
+Jonathan Yeakel
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3061
+810-LEC
+Regular
+TBA
+TBA
+Yun Lu
+08/29/2016 - 12/17/2016
+Open
+MAT  181 - Calculus I MAT 181 - Calculus I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1397
+020-LEC
+Regular
+MoWeThFr 8:00AM - 8:50AM
+LY 218
+Eric Landquist
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1391
+030-LEC
+Regular
+MoWeThFr 10:00AM - 10:50AM
+LY 214
+Brian Kronenthal
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1348
+050-LEC
+Regular
+MoTuThFr 12:00PM - 12:50PM
+LY 225
+Stephen Fowler
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1380
+051-LEC
+Regular
+MoWeThFr 12:00PM - 12:50PM
+LY 226
+Eric Landquist
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1349
+070-LEC
+Regular
+MoWeThFr 2:00PM - 2:50PM
+LY 214
+Eric Landquist
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1383
+071-LEC
+Regular
+MoWeThFr 2:00PM - 2:50PM
+LY 203
+Brian Kronenthal
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3720
+072-LEC
+Regular
+MoWeThFr 10:00AM - 10:50AM
+BK 243
+Michelle Savescu
+08/29/2016 - 12/17/2016
+Open
+MAT  182 - Calculus II MAT 182 - Calculus II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1353
+030-LEC
+Regular
+MoTuWeFr 10:00AM - 10:50AM
+LY 218
+Yun Lu
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1379
+050-LEC
+Regular
+MoTuWeFr 12:00PM - 12:50PM
+LY 218
+Yun Lu
+08/29/2016 - 12/17/2016
+Open
+MAT  220 - History of Mathematics MAT 220 - History of Mathematics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3529
+990-LEC
+Regular
+TBA
+TBA
+Anke Walz
+08/29/2016 - 12/17/2016
+Closed
+MAT  224WI - Foundations of Higher Mathematics MAT 224WI - Foundations of Higher Mathematics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1385
+030-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+LY 225
+Lyn McQuaid
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1389
+080-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+LY 214
+Brian Kronenthal
+08/29/2016 - 12/17/2016
+Open
+MAT  260 - Linear Algebra I MAT 260 - Linear Algebra I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1341
+020-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+LY 214
+Wing Hong Tony Wong
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1340
+070-LEC
+Regular
+MoWeFr 2:00PM - 2:50PM
+LY 226
+Wing Hong Tony Wong
+08/29/2016 - 12/17/2016
+Closed
+MAT  283 - Calculus III MAT 283 - Calculus III 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1354
+050-LEC
+Regular
+MoTuWeFr 12:00PM - 12:50PM
+LY 214
+Perry Lee
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1355
+070-LEC
+Regular
+MoTuWeFr 2:00PM - 2:50PM
+LY 218
+Perry Lee
+08/29/2016 - 12/17/2016
+Open
+MAT  300 - Problem Solving in Mathematics MAT 300 - Problem Solving in Mathematics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3642
+990-LEC
+Regular
+TBA
+TBA
+Wing Hong Tony Wong
+08/29/2016 - 12/17/2016
+Closed
+MAT  301 - Probability and Statistics I MAT 301 - Probability and Statistics I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3528
+990-LEC
+Regular
+TBA
+TBA
+Ju Zhou
+08/29/2016 - 12/17/2016
+Closed
+MAT  302 - Probability and Statistics II MAT 302 - Probability and Statistics II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1382
+070-LEC
+Regular
+MoWeFr 2:00PM - 2:50PM
+LY 225
+Ju Zhou
+08/29/2016 - 12/17/2016
+Open
+MAT  306 - Mathematics of Finance II MAT 306 - Mathematics of Finance II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3079
+010-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+BK 241
+Ju Zhou
+08/29/2016 - 12/17/2016
+Open
+MAT  311 - Abstract Algebra I MAT 311 - Abstract Algebra I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3505
+990-LEC
+Regular
+TBA
+TBA
+Eric Landquist
+08/29/2016 - 12/17/2016
+Closed
+MAT  332 - Numerical Analysis MAT 332 - Numerical Analysis 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3640
+990-LEC
+Regular
+TBA
+TBA
+Perry Lee
+08/29/2016 - 12/17/2016
+Closed
+MAT  340 - Differential Equations MAT 340 - Differential Equations 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1343
+020-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+LY 218
+Perry Lee
+08/29/2016 - 12/17/2016
+Open
+MAT  351 - Real Analysis I MAT 351 - Real Analysis I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1344
+010-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+BK 215
+Amadou Guisse
+08/29/2016 - 12/17/2016
+Open
+MAT  361 - Mathematical Methods in Operations Research I MAT 361 - Mathematical Methods in Operations Research I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1345
+060-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+LY 226
+Francis Vasko
+08/29/2016 - 12/17/2016
+Closed
+MAT  380WI - Senior Seminar in Mathematics MAT 380WI - Senior Seminar in Mathematics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1358
+080-LEC
+Regular
+MoWe 3:00PM - 4:20PM
+LY 203
+Anke Walz
+08/29/2016 - 12/17/2016
+Open
+MAT  398 - Honors Supplementary Research MAT 398 - Honors Supplementary Research 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3660
+960-LEC
+Regular
+TBA
+TBA
+Brian Kronenthal
+08/29/2016 - 12/17/2016
+Closed

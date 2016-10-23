@@ -1,0 +1,328 @@
+10CT
+Introduction to Literature
+21
+English as a Second Language
+22
+Introduction to College Composition
+23
+College Composition I
+25
+Honors Composition
+100WI
+Principles of Literary Analysis
+101CDCT
+World Literature I
+102CDCT
+World Literature II
+105CDCT
+Experiences in American Literature
+106CDCT
+Experiences in British Literature
+108CTWI
+Poetry and Poetics
+111
+Bible as Literature
+118
+Current Themes in Literature: Native American Writers
+119CTVL
+American Genre Film
+120WI
+Current Themes in Literature: Apocalyptic Fiction
+121
+Current Themes in Literature: Science Fiction In The 20th Century
+122
+Current Themes in Literature: The Literature of Peace
+123CT
+Current Themes in Literature: American Writers and the Environment
+124
+Current Themes in Literature: American Folklore
+125WI
+Current Themes in Literature: Detective Fiction
+126WI
+Current Themes in Literature: Sports in Literature: An Examination of a Public Metaphor
+127CTWI
+Current Themes in English: Ghost Stories
+128
+Current Themes in Literature: The Thriller
+129CDWI
+Current Themes in Literature: Jazz Culture
+131
+Current Themes in Literature: The Small Town in Literature
+132CDCT
+Contemporary Gay and Lesbian Literature
+135CDWI
+Contemporary African Novel
+136CDWI
+Contemporary African Poetry and Drama
+137CDCT
+Experiences in African American Literature
+138
+Literature Banned in Iran
+139CTWI
+Current Themes in Literature: Literature and Psychology
+141CTVL
+Literature and Film
+145WI
+The Fairy Tale
+165
+SCI FI THEMES
+219CTVL
+Culture and Media
+221
+Jane Austen: Early Woman Novelist, Modern Media Property
+222
+Conventions of English Grammar
+225CDWI
+Teaching of Adolescent Literature
+227
+American Poetry in the Long 1960’s
+230WICT
+Advanced Composition
+233
+Contemporary Fiction
+234
+Ethnic American Literature
+235CTWI
+The American Autobiography
+236
+Black American Literature: Poetry/Drama
+237
+Black American Literature: Novel
+238
+African Diasporic Literature
+239CTWI
+Pioneering Pulp Fiction: British Working-Class Literature 1800-1860
+242CTVL
+International Cinema
+244
+Documentary Film and Theories of Representation
+245
+Aspects Of Language
+246CDCT
+Feminist Film Theory
+247
+Modern Latin American Literature in Translation
+253
+German Literature in English Translation I
+254
+German Literature in English Translation II
+255CD
+Masterpieces of Russian Literature in English Translation I
+256CD
+Masterpieces of Russian Literature in English Translation II
+257
+Masterpieces of French Literature in English Translation I
+258
+Masterpieces of French Literature in English Translation II
+260
+Issues in Composition and Rhetoric Studies
+265CPWI
+Research Writing in the Humanities
+270
+Short Story
+272
+Women and Violence in Contemporary World Texts
+273
+The Age Of Elizabeth
+274CDWI
+Women, Writing and  Rhetoric
+275CDWI
+Archetypal Women in Myth and Literature
+276CDWI
+Nineteenth Century Women's Literature
+278
+Women Writers Around the World
+279
+U.S. and Canadian Women Writers
+283
+AMERICAN MODERNISTS IN LONDON
+285CTWI
+Victorian Popular Fiction
+300
+History of the English Language
+314
+Social Media Analytics
+316
+Rhetoric, Democracy, Advocacy
+317CTWI
+From Science to Séance: Pseudoscience and Spiritualism in Nineteenth-Century Literature
+318
+Activists Writing Media: Composing Democratic Futures
+321
+Early and Medieval Literature
+323
+Native American Women Writers
+324
+Eliz & Jacobean Drama
+325
+Seventeenth Century Literature
+327
+Eighteenth Century Literature I
+328
+Eighteenth Century Literature II
+329
+Feminist and Gender Theories
+330
+Shakespeare on the Stage
+331CTWI
+Shakespeare's Earlier Plays
+332CTWI
+Shakespeare's Later Plays
+333
+Digital Rhetoric and Writing
+334
+Introduction to English Linguistics
+335
+The Rhetoric of Literature
+337
+HON: Gothic/Horror Literature
+338
+HON: Crime and Punishment in Literature
+340CTWI
+Romantic Movement
+341CDWI
+Introduction to Afro-Caribbean Literature
+343CTWI
+Nineteenth Century Studies: Poetry 1840-1890
+344CTWI
+Nineteenth Century Studies: Prose 1840-1890
+348WI
+CONTEMPORARY DRAMA
+350CTWI
+The Times of Melville and Whitman
+351CTWI
+American Literary Realism: 1865 - 1910
+353CTWI
+Development of the Drama
+354
+Literacy Studies
+355
+Development of the Novel
+357
+HON: Gerard Manley Hopkins: Poetry and Prose as Spiritual Autobiography
+358
+The Rhetoric of Style
+360CTWI
+Contemporary British and Irish Literature
+361
+Tolkien and Lewis
+363WI
+Modern Drama
+364CTWI
+Modern Poetry
+365CTWI
+Modern Novel
+366CTWI
+Cultures of American Modernism
+367
+Symbol and Theme in 20th Century American Literature
+368WI
+Postmodern American Fiction
+370
+Seminar: Selected Topics in English
+371
+Independent Study
+373
+Native American Writing and Rhetoric
+379CTWI
+Literary Theory
+380
+Senior Seminar in English
+382
+Film Production Theory
+395
+Honors Independent Study/Thesis
+398
+See Honors Supplementary Research
+410
+Feminist Literary Theory
+430
+Rhetorical Traditions and Contemporary Renditions
+438
+Major Modern Dramatists
+455
+Seminar in Major Modern Poets
+455CTWI
+Seminar in Major Modern Poets
+470
+Selected Topics in English
+493
+The Twentieth Century British Novel
+502
+Introduction to English Studies: Traditions, Boundaries, and Change
+503
+Thesis
+510
+The Rhetoric of Style
+511
+Contemporary Indigenous Rhetorics
+512
+Symbol and Myth in Literature
+517
+Studies In Biography
+518
+Feminist Literary Theory
+525
+Linguistics
+527
+Seminar in Linguistics
+528
+Studies In Old Eng Lit
+530
+Chaucer
+535
+Seventeenth-Century Studies
+538
+Maj 20th Cent Amer Drama
+545
+Studies In Postmodern Fiction
+548
+Early Am Lit:1607-1800
+550
+American Romanticism
+551
+Postcolonial Literary Theory and Texts
+553
+Literacy Studies
+555
+Black Women's Literature: The Development of A Tradition
+557
+Digital Rhetoric and Composition
+560
+Critical Writing
+561
+The Epic in the Modern Imagination
+563
+Studies in American Realism, 1865-1900
+564
+Cultural Studies Seminar in American Modernism
+565
+Seminar in British Literature
+567
+Seminar in American Literature
+570
+Seminar in History of English Language
+575
+Seminar in Literary Criticism
+576
+Seminar in Film History, Theory and Criticism
+577
+Modern Poets in English
+583
+Eighteenth-Century Studies
+585
+Studies in English Romanticism
+587
+Studies in English Renaissance Literature
+589
+19th Century Studies
+591
+Shakespeare
+593
+20th Cen British Novel
+594
+Victorian Poetry
+595
+Victorian Prose
+599
+Independent Study

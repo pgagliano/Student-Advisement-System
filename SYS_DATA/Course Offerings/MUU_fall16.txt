@@ -1,0 +1,146 @@
+MUU  100WI - Overture To Music Education MUU 100WI - Overture To Music Education 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2225
+010-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+OM 159
+Valerie Trollinger
+08/29/2016 - 12/17/2016
+Closed
+MUU  231 - String Techniques MUU 231 - String Techniques 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2227
+010-LEC
+Regular
+MoWe 9:00AM - 9:50AM
+OM 31
+Peter Isaacson
+08/29/2016 - 12/17/2016
+Open
+MUU  233 - Brass Techniques MUU 233 - Brass Techniques 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2218
+010-LEC
+Regular
+TuTh 8:00AM - 8:50AM
+OM 31
+John Metcalf
+08/29/2016 - 12/17/2016
+Open
+MUU  234 - Percussion Techniques MUU 234 - Percussion Techniques 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2228
+010-LEC
+Regular
+MoWe 8:00AM - 8:50AM
+OM 31
+Francis Kumor
+08/29/2016 - 12/17/2016
+Open
+MUU  236 - The Arts and Pre-K 4 Education MUU 236 - The Arts and Pre-K 4 Education 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2219
+010-LEC
+Regular
+MoWe 9:00AM - 10:50AM
+SH 114
+Nicole Romanski
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2220
+020-LEC
+Regular
+MoWe 11:00AM - 12:50PM
+SH 114
+Nicole Romanski
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2226
+030-LEC
+Regular
+MoWe 3:00PM - 4:50PM
+SH 114
+Nicole Romanski
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2221
+810-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+SA MUSIC CLASSROOM 5G
+Valerie Trollinger
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+MUU  299 - Music Education Lab MUU 299 - Music Education Lab 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3305
+810-LEC
+Regular
+Tu 10:00AM - 10:50AM
+Th 10:00AM - 10:50AM
+Tu 10:00AM - 10:50AM
+SA REHEARSAL ROOM 114
+SA REHEARSAL ROOM 114
+SA REHEARSAL ROOM 114
+Kevin Kjos
+Nathaniel Radley
+Valerie Trollinger
+09/13/2016 - 11/08/2016
+08/29/2016 - 12/17/2016
+11/15/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3306
+811-LEC
+Regular
+Tu 6:00PM - 6:50PM
+Fr 8:15AM - 9:45AM
+Fr 8:15AM - 9:45AM
+OM 31
+OM 31
+TBA
+Susanna Loewy
+Marie Cadieux
+Valerie Trollinger
+09/13/2016 - 11/29/2016
+09/02/2016 - 12/17/2016
+09/16/2016 - 12/17/2016
+Closed
+MUU  320 - Instrumental Music Methods MUU 320 - Instrumental Music Methods 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2854
+010-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+OM 31
+Daniel Neuenschwander
+08/29/2016 - 12/17/2016
+Open
+MUU  390 - Clinical Experience and Practicum: Music I MUU 390 - Clinical Experience and Practicum: Music I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2222
+015-LEC
+Regular
+Tu 3:30PM - 5:20PM
+SA MUSIC CLASSROOM13G
+Valerie Trollinger
+08/29/2016 - 10/21/2016
+Closed
+MUU  391 - Clinical Experience and Practicum: Music II MUU 391 - Clinical Experience and Practicum: Music II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2223
+016-LEC
+Regular
+Tu 3:30PM - 5:20PM
+SA MUSIC CLASSROOM 5G
+Valerie Trollinger
+10/24/2016 - 12/17/2016
+Closed

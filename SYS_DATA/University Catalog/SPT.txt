@@ -1,0 +1,82 @@
+111
+The American Woman in Sport
+120
+Personal Nutrition
+145
+Lifeguard Training
+160
+Introduction to Sports Management
+195QL
+Accounting Survey for Leisure and Sport Studies
+201
+Scientific Basis for Human Movement
+205
+Sport Behavior
+212CM
+Sport Public Relations and Communication
+216
+Exercise Physiology
+222
+Fundamentals of Coaching
+226
+History of Sport
+230
+Leadership and Team Building in Sport
+236
+Personal Selling in Sport
+240
+Foundations of Health Promotion
+250
+Methods of Group Fitness Instruction
+260
+Principles of Sport Finance
+265
+Governance and Organization in Sports
+270
+Sport And Society
+276QL
+Statistics in Sport
+285
+Sport Marketing and Sponsorship
+290WI
+Fundamentals of Sports Law
+300
+Applied Sport Psychology
+305
+Emergency Care and Risk Management
+310
+Fitness Assessment and Exercise Programming
+312
+Intercollegiate Athletic Administration
+315
+Prevention and Care of Athletic Injuries
+320CT
+Sport Ethics
+325
+Sport Consumerism
+330WI
+Event and Facility Management
+335
+Methods and Evaluation In Athletics
+340
+Coaching Internship
+345CD
+Sports in the Global Marketplace
+350
+Internship In Sport Management
+366
+Personal Fitness Trainer
+372
+Selected Topics in Leisure and Sport Studies
+375
+Research Methods for Sports Management
+380
+Independent Study in Physical Education
+385
+Senior Seminar in Coaching and Athletic Administration
+395
+Honors Independent Study/Thesis
+887
+SPORT ELECTIVE
+895
+SPORT ELECTIVE

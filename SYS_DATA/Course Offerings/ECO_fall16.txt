@@ -1,0 +1,169 @@
+ECO   10 - Introduction to Economics ECO 10 - Introduction to Economics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1906
+010-LEC
+Regular
+MoWe 3:00PM - 4:20PM
+DF 115
+Girma Zelleke
+08/29/2016 - 12/17/2016
+Open
+ECO   11 - Principles of Macro-economics ECO 11 - Principles of Macro-economics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1904
+010-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+DF 100
+Girma Zelleke
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1905
+020-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+DF 100
+Girma Zelleke
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1907
+030-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+DF 100
+Girma Zelleke
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1908
+040-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+DF 100
+Muhammed Dalgin
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1909
+050-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+DF 210
+Muhammed Dalgin
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1910
+060-LEC
+Regular
+TuTh 3:00PM - 4:20PM
+DF 210
+Muhammed Dalgin
+08/29/2016 - 12/17/2016
+Closed
+ECO   12 - Principles of Micro-economics ECO 12 - Principles of Micro-economics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1900
+010-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+DF 215
+Alfred Esposto
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1901
+020-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+DF 215
+Alfred Esposto
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1915
+030-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+DF 210
+Alfred Esposto
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1902
+050-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+DF 115
+Earl Osterstock
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1911
+060-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+DF 115
+Abdulwahab Sraiheen
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1912
+810-LEC
+Regular
+TBA
+TBA
+Abdulwahab Sraiheen
+08/29/2016 - 12/17/2016
+Open
+ECO  205 - Intermediate Microeconomics ECO 205 - Intermediate Microeconomics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1903
+010-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+DF 114
+Alfred Esposto
+08/29/2016 - 12/17/2016
+Closed
+ECO  210 - Intermediate Macroeconomics ECO 210 - Intermediate Macroeconomics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3508
+990-LEC
+Regular
+TBA
+TBA
+Muhammed Dalgin
+08/29/2016 - 12/17/2016
+Closed
+ECO  345 - Econometrics ECO 345 - Econometrics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3507
+990-LEC
+Regular
+TBA
+TBA
+Abdulwahab Sraiheen
+08/29/2016 - 12/17/2016
+Closed
+ECO  360CD - International Trade and Finance ECO 360CD - International Trade and Finance 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1913
+010-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+DF 115
+Abdulwahab Sraiheen
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1914
+020-LEC
+Regular
+TuTh 3:00PM - 4:20PM
+DF 115
+Abdulwahab Sraiheen
+08/29/2016 - 12/17/2016
+Open

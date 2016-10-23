@@ -1,0 +1,144 @@
+ ARH   24VL - Art History A ARH 24VL - Art History A 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1990
+010-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+SH 120
+Christine Atiyeh
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1996
+020-LEC
+Regular
+MoWe 3:00PM - 4:20PM
+SH 120
+Tashima Thomas
+08/29/2016 - 12/17/2016
+Open
+ ARH   25VL - Art History B ARH 25VL - Art History B 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1993
+010-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+SH 120
+Lisa Norris Traugott
+08/29/2016 - 12/17/2016
+Open
+ ARH  124CTWI - Art History A ARH 124CTWI - Art History A 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1991
+010-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+SH 120
+Christine Atiyeh
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1997
+030-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+SH 120
+Tashima Thomas
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2000
+040-LEC
+Regular
+TuTh 3:00PM - 4:20PM
+SH 120
+Tashima Thomas
+08/29/2016 - 12/17/2016
+Open
+ ARH  125CTWI - Art History B ARH 125CTWI - Art History B 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1994
+010-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+SH 120
+Lisa Norris Traugott
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1995
+020-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+SH 120
+Lisa Norris Traugott
+08/29/2016 - 12/17/2016
+Closed
+ ARH  126CTWI - Art History C ARH 126CTWI - Art History C 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1998
+010-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+RL 100C
+Daniel Haxall
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1999
+020-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+RL 100C
+Daniel Haxall
+08/29/2016 - 12/17/2016
+Closed
+ ARH  307 - European Art: 1580-1780 ARH 307 - European Art: 1580-1780 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3047
+010-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+SH 200
+Lisa Norris Traugott
+08/29/2016 - 12/17/2016
+Closed
+ ARH  324CDWI - Contemporary African-American Art ARH 324CDWI - Contemporary African-American Art 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3036
+010-LEC
+Regular
+We 9:00AM - 11:50AM
+SH 200
+Daniel Haxall
+08/29/2016 - 12/17/2016
+Closed
+ ARH  370CDWI - Art Today: The Next Decade ARH 370CDWI - Art Today: The Next Decade 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3500
+010-LEC
+Regular
+TuTh 4:30PM - 5:50PM
+SH 200
+Tashima Thomas
+08/29/2016 - 12/17/2016
+Open
+ ARH  390 - Internship in Art History ARH 390 - Internship in Art History 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3626
+970-LEC
+Regular
+TBA
+TBA
+Christine Atiyeh
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3630
+971-LEC
+Regular
+TBA
+TBA
+Daniel Haxall
+08/29/2016 - 12/17/2016
+Closed

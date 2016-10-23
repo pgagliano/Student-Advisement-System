@@ -1,0 +1,48 @@
+INT   10 - Introduction to International Studies INT 10 - Introduction to International Studies 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3385
+810-LEC
+Regular
+TBA
+TBA
+Thomas Stewart
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3386
+811-LEC
+Regular
+Tu 12:00PM - 1:20PM
+DF 212
+Kenneth Ehrensal
+08/29/2016 - 12/17/2016
+Open
+INT  101 - Intercultural Communication INT 101 - Intercultural Communication 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2884
+010-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+DF 102
+Mary Theis
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2885
+020-LEC
+Regular
+MoWeFr 2:00PM - 2:50PM
+DF 102
+Mary Theis
+08/29/2016 - 12/17/2016
+Open
+INT  380 - Seminar in International Studies INT 380 - Seminar in International Studies 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3539
+990-LEC
+Regular
+TBA
+TBA
+Thomas Stewart
+08/29/2016 - 12/17/2016
+Closed

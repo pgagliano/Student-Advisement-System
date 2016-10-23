@@ -1,0 +1,50 @@
+210
+Principles of Marketing
+312WI
+Consumer Behavior
+315
+Marketing Ethics in Society
+320
+Marketing Management
+330CM
+Personal Selling
+340
+Retail Management
+347
+New Product Management
+350
+Advertising Management
+351
+Media Concepts and Planning
+357
+Advertising Campaigns
+358
+Marketing Communication Management
+360
+Marketing Research
+361
+Principles of Business Logistics
+362
+E-Commerce Marketing
+370CD
+International Marketing
+371
+Selected Topics in Marketing
+379
+Independent Study in Marketing
+395
+Honors Independent Study/Thesis
+415
+Problem Solving In Marketing
+512
+Business-to-Business Marketing Practices
+550
+Marketing Strategies and Planning
+557
+New Product Management
+560
+Marketing & Entrepreneurship
+570
+International Marketing Management
+571
+Selected Topics in Marketing

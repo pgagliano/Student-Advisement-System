@@ -1,0 +1,82 @@
+10
+Elements of Physical Geography
+20CD
+Elements of Cultural Geography
+40
+Descriptive Oceanography
+101
+World Regional Geography
+110
+Geography of the United States and Canada
+112
+Geography of Pennsylvania
+120
+Geography of Sub-Saharan Africa
+140
+Geography of Europe
+160
+Geography Of Soviet Union
+204
+Meteorology
+210
+Environmental Conservation
+212
+The Geography of Natural Hazards
+215
+Geg Of Rul Rec Land Use
+220
+Economic Geography
+223
+Introduction to Transportation Geography
+225CMCT
+Spaces of Globalization
+230
+Map Reading and Interpretation
+232
+Field Methods in Geography
+264
+Medical Geography
+274CPQL
+Introduction to GIS
+304
+Weather Analysis
+310WI
+Urban Geography
+322
+Climatology
+323
+Global Warming and The Science of Climate Change
+324
+Geomorphology
+328
+Vegetation Of N America
+330CPVL
+Cartography
+333
+Advanced GIS
+335
+Political Geography
+338
+Geography of Population
+339
+Honors Seminar: Human Interaction with Sensitive Environments
+341
+Environmental Planning
+343
+Land Use Planning
+347
+Remote Sensing of the Environment
+371
+Independent Study in Geography
+372
+Selected Topics in Geography
+375
+Research Methods in Geography
+380CTWI
+Senior Seminar in Geography
+394
+Internship in Geography
+395
+Honors Independent Study/Thesis
+398
+Honors Supplementary Research

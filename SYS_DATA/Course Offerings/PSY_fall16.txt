@@ -1,0 +1,632 @@
+PSY   11 - General Psychology PSY 11 - General Psychology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2751
+010-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+AF 102
+Raquel Akillas
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2752
+019-LEC
+Regular
+TuTh 8:00AM - 9:20AM
+AF 102
+Jason Lanter
+08/29/2016 - 12/17/2016
+Closed
+Topic: HONORS
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2754
+020-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+AF 102
+Raquel Akillas
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2721
+040-LEC
+Regular
+MoWe 3:00PM - 4:20PM
+AF 102
+James Jackson
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2685
+050-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+AF 102
+Jason Lanter
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2687
+060-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+AF 102
+Emmanuel Akillas
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2763
+070-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+AF 101
+Anita Meehan
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3040
+090-LEC
+Regular
+TuTh 3:00PM - 4:20PM
+AF 101
+Anita Meehan
+08/29/2016 - 12/17/2016
+Open
+PSY  110 - Child Psychology PSY 110 - Child Psychology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2688
+010-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+LC 135 THEATRE
+George Muugi
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2722
+020-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+AF 203
+Thomas Robinson
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2732
+810-LEC
+Regular
+TBA
+TBA
+Thomas Robinson
+08/29/2016 - 12/17/2016
+Closed
+PSY  120 - Adolescent Psychology PSY 120 - Adolescent Psychology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2711
+010-LEC
+Regular
+MoWeFr 2:00PM - 2:50PM
+OM 140
+Raquel Akillas
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2741
+020-LEC
+Regular
+MoWe 3:00PM - 4:20PM
+OM 123
+Thomas Robinson
+08/29/2016 - 12/17/2016
+Open
+PSY  125 - Life Span Development PSY 125 - Life Span Development 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2756
+010-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+AF 200
+George Muugi
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2690
+810-LEC
+Regular
+TBA
+TBA
+Thomas Robinson
+08/29/2016 - 12/17/2016
+Closed
+PSY  200QL - Statistics for the Social and Behavioral Sciences PSY 200QL - Statistics for the Social and Behavioral Sciences 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2723
+010-LEC
+Regular
+WeFr 12:00PM - 1:45PM
+OM 297
+Gregory Shelley
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2724
+020-LEC
+Regular
+MoWe 10:00AM - 11:45AM
+OM 297
+Catherine Best
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2725
+030-LEC
+Regular
+WeFr 2:00PM - 3:45PM
+OM 297
+Gregory Shelley
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2726
+040-LEC
+Regular
+TuTh 8:00AM - 9:20AM
+Fr 8:00AM - 8:50AM
+OM 297
+OM 297
+Ceyhun Sunsay
+Ceyhun Sunsay
+08/29/2016 - 12/17/2016
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2727
+050-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+Fr 9:00AM - 9:50AM
+OM 297
+OM 297
+Ceyhun Sunsay
+Ceyhun Sunsay
+08/29/2016 - 12/17/2016
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2728
+060-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+Mo 12:00PM - 12:50PM
+OM 297
+OM 297
+Ronald Stoffey
+Ronald Stoffey
+08/29/2016 - 12/17/2016
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2730
+080-LEC
+Regular
+TuTh 3:00PM - 4:45PM
+OM 297
+Catherine Best
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+PSY  202 - Psychology of Personality PSY 202 - Psychology of Personality 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2692
+010-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+OM 138
+Jason Lanter
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2695
+030-LEC
+Regular
+TuTh 3:00PM - 4:20PM
+OM 287
+Emmanuel Akillas
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2694
+310-LEC
+Regular
+Tu 6:00PM - 8:50PM
+OM 138
+Emmanuel Akillas
+08/29/2016 - 12/17/2016
+Open
+PSY  217 - Forensic Psychology PSY 217 - Forensic Psychology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2696
+010-LEC
+Regular
+MoWe 3:00PM - 4:20PM
+OM 288
+Judith Rauenzahn
+08/29/2016 - 12/17/2016
+Open
+PSY  220 - Industrial/Organizational Psychology PSY 220 - Industrial/Organizational Psychology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2697
+010-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+OM 25
+Ronald Stoffey
+08/29/2016 - 12/17/2016
+Open
+PSY  240 - Social Psychology PSY 240 - Social Psychology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2733
+010-LEC
+Regular
+TuTh 3:00PM - 4:20PM
+AF 200
+Ronald Stoffey
+08/29/2016 - 12/17/2016
+Open
+PSY  250 - Abnormal Psychology PSY 250 - Abnormal Psychology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2698
+010-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+AF 103
+Raquel Akillas
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2699
+030-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+OM 276
+Judith Rauenzahn
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2700
+040-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+OM 276
+Judith Rauenzahn
+08/29/2016 - 12/17/2016
+Open
+PSY  270CTWI - Experimental Psychology PSY 270CTWI - Experimental Psychology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2714
+010-LEC
+Regular
+MoWe 9:00AM - 10:50AM
+OM 294
+James Jackson
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2715
+020-LEC
+Regular
+MoWe 11:00AM - 12:50PM
+OM 294
+Derek Mace
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2716
+030-LEC
+Regular
+MoWe 1:00PM - 2:50PM
+OM 294
+Michele Baranczyk
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2717
+040-LEC
+Regular
+MoWe 3:00PM - 4:50PM
+OM 294
+Michele Baranczyk
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2718
+050-LEC
+Regular
+TuTh 9:00AM - 10:50AM
+OM 294
+James Jackson
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2719
+060-LEC
+Regular
+TuTh 12:00PM - 1:50PM
+OM 294
+Ceyhun Sunsay
+08/29/2016 - 12/17/2016
+Closed
+PSY  305 - Practicum in Psychology PSY 305 - Practicum in Psychology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3534
+970-LEC
+Regular
+TBA
+TBA
+James Jackson
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3731
+971-LEC
+Regular
+TBA
+TBA
+Gregory Shelley
+08/29/2016 - 12/17/2016
+Closed
+PSY  310CTQL - Principles of Psychological Measurement PSY 310CTQL - Principles of Psychological Measurement 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2736
+020-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+OM 138
+Michele Baranczyk
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2737
+030-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+AF 103
+Ronald Stoffey
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2753
+040-LEC
+Regular
+TuTh 3:00PM - 4:20PM
+AF 103
+Michele Baranczyk
+08/29/2016 - 12/17/2016
+Open
+PSY  311 - Psychology of Learning, Motivation and Emotion PSY 311 - Psychology of Learning, Motivation and Emotion 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2701
+010-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+OM 278
+Ceyhun Sunsay
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2702
+020-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+OM 23
+Derek Mace
+08/29/2016 - 12/17/2016
+Open
+PSY  312 - Sensation and Perception PSY 312 - Sensation and Perception 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2703
+010-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+OM 281
+Stephen Oross
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2704
+020-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+OM 123
+Stephen Oross
+08/29/2016 - 12/17/2016
+Open
+PSY  325 - Physiological Psychology PSY 325 - Physiological Psychology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2740
+010-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+OM 138
+Stephen Oross
+08/29/2016 - 12/17/2016
+Closed
+PSY  331 - Health Psychology: Biopsychosocial Factors in Health and Illness PSY 331 - Health Psychology: Biopsychosocial Factors in Health and Illness 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2705
+810-LEC
+Regular
+TBA
+TBA
+Stephen Oross
+08/29/2016 - 12/17/2016
+Open
+PSY  340 - Cognitive Psychology PSY 340 - Cognitive Psychology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2738
+010-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+OM 280
+Catherine Best
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2739
+020-LEC
+Regular
+MoWeFr 2:00PM - 2:50PM
+OM 280
+Catherine Best
+08/29/2016 - 12/17/2016
+Closed
+PSY  350 - Personnel Psychology PSY 350 - Personnel Psychology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3042
+010-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+OM 141
+Michele Baranczyk
+08/29/2016 - 12/17/2016
+Open
+PSY  360 - Introduction to Clinical Psychology PSY 360 - Introduction to Clinical Psychology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2706
+410-LEC
+Regular
+We 6:00PM - 8:50PM
+OM 138
+Emmanuel Akillas
+08/29/2016 - 12/17/2016
+Closed
+PSY  363 - Clinical Internship PSY 363 - Clinical Internship 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3536
+970-SUP
+Regular
+TBA
+TBA
+Emmanuel Akillas
+08/29/2016 - 12/17/2016
+Closed
+PSY  370 - Selected Research Topics in Psychology PSY 370 - Selected Research Topics in Psychology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3552
+960-LEC
+Regular
+TBA
+TBA
+Emmanuel Akillas
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3678
+961-LEC
+Regular
+TBA
+TBA
+James Jackson
+08/29/2016 - 12/17/2016
+Closed
+PSY  375 - Psychotherapy: Theory, Research and Practice PSY 375 - Psychotherapy: Theory, Research and Practice 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2734
+010-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+OM 138
+G. Rains
+08/29/2016 - 12/17/2016
+Open
+PSY  379 - History and Systems of Psychology PSY 379 - History and Systems of Psychology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2742
+010-LEC
+Regular
+MoWe 2:00PM - 3:20PM
+OM 23
+Derek Mace
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2743
+020-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+OM 22A
+Derek Mace
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2707
+030-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+AF 103
+James Jackson
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2758
+040-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+AF 203
+Anita Meehan
+08/29/2016 - 12/17/2016
+Open
+PSY  380WI - Senior Seminar in Psychology PSY 380WI - Senior Seminar in Psychology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2746
+010-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+GC 200
+G. Rains
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2747
+020-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+GC 200
+G. Rains
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2749
+040-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+OM 140
+George Muugi
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3041
+060-LEC
+Regular
+MoWe 2:00PM - 3:20PM
+GC 204
+G. Rains
+08/29/2016 - 12/17/2016
+Open
+PSY  432 - Human Neuropsychology PSY 432 - Human Neuropsychology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2744
+010-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+OM 283
+G. Rains
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class

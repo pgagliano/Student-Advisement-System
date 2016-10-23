@@ -1,0 +1,88 @@
+14
+Physics of Superheroes
+20
+Introduction to Physics
+30
+Environmental Physics and Chemistry
+38
+Intro To Electronics
+40
+General Physics I
+42
+General Physics II
+44
+Intro Acoust & Optics
+100
+Physics I
+102
+Physics II
+212
+Modern Physics I
+214
+Modern Physics II
+220WI
+Electronics
+230
+Optics
+245
+Mathematical Physics I
+290
+Introduction To Nanotechnology
+310
+Physics of Sound
+312CT
+Classical Mechanics I
+314
+Classical Mechanics II
+315WI
+Advanced Physics Laboratory
+316QL
+Electricity and Magnetism I
+318
+Electricity and Magnetism II
+319
+Advanced Physics Laboratory II
+327
+Thermodynamics and Statistical Mechanics
+340
+Computational Physics
+342
+Astrophysics
+345
+Mathematical Physics II
+350
+Instrumentation in Physics
+360
+Quantum Mechanics I
+361
+Quantum Mechanics II
+362
+Solid State Physics
+364
+Nuclear Physics
+370
+Research in Physics
+372
+Selected Topics in Physics
+373
+Selected Topics in Physics
+374
+Selected Topics in Physics
+375
+Selected Topics in Physics
+380CMWI
+Senior Seminar in Physics
+390
+Internship in Physics
+395
+Honors Independent Study/Thesis
+398
+Honors Supplementary Research
+465
+Advanced Physics Laboratory II
+470
+Quantum Mechanics
+472
+Solid State Physics
+474
+Nuclear Physics

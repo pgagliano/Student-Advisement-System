@@ -1,0 +1,136 @@
+110
+The Visual Arts Experience in Elementary Education
+120
+Music for Elementary Classroom Teacher
+130
+Introduction to Early Childhood Education
+202
+Society, Teaching, and Dispositions
+205
+Science for the Elementary and Middle Schools (Required)
+206
+Teaching Science for Middle Level Learners
+207
+Health and Physical Education for Elementary Schools (Required)
+212CD
+Teaching Diverse Learners at the Middle Level
+218
+Multicultural Perspectives of Urban Education
+221VL
+Literature for Upper Elementary and Middle Level Learners
+231
+Theo Found Erl Chldhd Ed
+233
+The Integrated Curriculum in Early Childhood Education
+236
+The Arts in the Early Childhood Curriculum
+300
+Fundamentals of Reading Instruction I
+301
+Fundamentals of Reading Instruction II (Required)
+302
+Children's Literature (Required)
+303
+Language Arts (Required)
+304
+Social Studies for Elementary Schools (Required)
+306
+Integrating Principles of Learning and Teaching: Classroom Applications (Required)
+308
+Mathematics for Elementary Schools (Required)
+311
+Teaching Culturally and Linguistically Diverse Children to Read
+321
+Assessment of Children: Birth through the Middle Years (Required)
+322
+Assessment Methods: Formative, Summative, Diagnostic, and Benchmark
+325
+Differentiated Instruction: Key to Responsive Teaching
+331
+Teaching and Assessing Literacy for Middle Level Learners Across Academic Disciplines
+334
+Instructional Strategies in Early Childhood Education
+338
+Internship in Early Childhood Education
+341
+Methods in Social Studies and Content Area Reading for Middle Level Learners
+342WI
+Teaching Writing at the Middle Level
+344
+Teaching and Assessing Social Studies for Middle Level Learners
+346WI
+Middle Level Cognitive Development
+347
+Teaching and Assessing Mathematics for Middle Level Learners
+348
+Teaching Mathematics and Science for Middle Level Learners
+349
+Teaching and Assessing Science for Middle Level Learners
+351
+Diagnostic and Remedial Reading
+352
+Reading Diagnosis and Interventions at the Middle Level
+353
+Language Development, Reading Assessment and Interventions
+366
+Integrating the Arts into the Elementary Classroom
+370
+Selected Topics in Elementary Education
+380
+Independent Study in Elementary Education
+390
+Student Teaching and Practicum (Elementary I)
+391
+Student Teaching and Practicum (Elementary II)
+392
+Clinical Experience with Middle Level Learners I
+393
+Clinical Experience with Middle Level Learners II
+395
+Honors Independent Study/Thesis
+412
+Education and Care of Infants and Toddlers
+415
+Building Partnerships for Educating Young Children: Families, Schools, and Communities
+420
+Administration of Early Childhood Programs
+452
+Current Trends in Reading Instruction
+510
+Seminar in Early Childhood Education
+519
+Teaching Writing to Children
+520
+Folk Literature and Storytelling for Teachers of Elementary and Middle School Children
+530
+Historical Background of Elementary Education
+540
+Seminar in Elementary Curriculum Development
+542
+Integration of Mathematics for Elementary Schools
+545
+Managing and Planning in Classrooms
+548
+Contemporary Themes in Children's and Adolescent Literature
+560
+Seminar in Language Arts Instruction
+566
+Special Topics in Education
+569
+Current Topics in Elementary Education
+570
+Seminar in Elementary Social Studies Instruction
+571
+Application of Current Elementary Educational Topics
+572
+Strategies for Elementary Classroom Management and Discipline
+580
+Independent Study
+587
+Resource Materials in Elementary Science
+591
+Picturebooks
+595
+Specialization in Teaching Middle Level 4-8 Clinical Experience Part I
+596
+Specialization in Teaching Middle Level 4-8 Clinical Experience Part II

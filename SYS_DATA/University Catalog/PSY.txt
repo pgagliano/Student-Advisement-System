@@ -1,0 +1,142 @@
+11
+General Psychology
+105
+Contemporary Developments and Careers in Psychological Science
+110
+Child Psychology
+120
+Adolescent Psychology
+125
+Life Span Development
+140
+Educational Psychology
+160CD
+Human Exceptionalities
+200QL
+Statistics for the Social and Behavioral Sciences
+201
+Computer Techniques For Behavior Sciences
+202
+Psychology of Personality
+205CD
+Psychology of the Black Experience
+208
+Psychology of Gender
+215CD
+Psychology of Prejudice
+217
+Forensic Psychology
+220
+Industrial/Organizational Psychology
+232
+Psychology of Death and Dying
+235
+Applied Psychology
+240
+Social Psychology
+242
+Performance Psychology
+250
+Abnormal Psychology
+255
+Environmental Psychology
+260
+Psychology of Human Communication
+265
+Human Sexual Behavior
+270CTWI
+Experimental Psychology
+280
+Selected Topics in Psychology
+281
+Selected Topics in Psychology
+282
+Selected Topics in Psychology
+283
+Selected Topics in Psychology
+284
+Selected Topics in Psychology
+285
+Selected Topics in Psychology
+286
+Selected Topics in Psychology
+287
+Selected Topics in Psychology
+288
+Selected Topics in Psychology
+289
+Selected Topics in Psychology
+290CD
+Culture and Personality
+293
+Evolutionary Psychology
+305
+Practicum in Psychology
+310CTQL
+Principles of Psychological Measurement
+311
+Psychology of Learning, Motivation and Emotion
+312
+Sensation and Perception
+325
+Physiological Psychology
+331
+Health Psychology: Biopsychosocial Factors in Health and Illness
+333
+The Psychology of Leadership in Organizations
+335
+Comparative Psychology
+336CD
+Diversity In Organizations
+340
+Cognitive Psychology
+350
+Personnel Psychology
+351
+Organizational Psychology
+355
+Organization Development and Change
+360
+Introduction to Clinical Psychology
+362
+Internship in Industrial/Organizational Psychology
+363
+Clinical Internship
+365
+Advanced Research Design
+370
+Selected Research Topics in Psychology
+375
+Psychotherapy: Theory, Research and Practice
+379
+History and Systems of Psychology
+380WI
+Senior Seminar in Psychology
+395
+Honors Independent Study/Thesis
+398
+Honors Supplementary Research
+429
+Behavior Modification
+432
+Human Neuropsychology
+435
+Psychology of Interviewing
+512
+Psychological Testing
+520
+Advanced Social Psychology
+525
+Developmental Psychology of Childhood
+527
+Developmental Psychology of Adolescence
+529
+Growth and Development Through Adulthood and Aging
+530
+Life Span Development
+545
+Theories of Personality
+546
+Psychopathology
+565
+Theories of Learning

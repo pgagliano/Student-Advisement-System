@@ -1,0 +1,134 @@
+10
+Introduction to Criminal Justice
+101
+Introduction to Policing
+121
+Introduction to Law
+170
+Introduction to Security Management
+171
+Loss Prevention and Asset Protection
+175
+Criminal Justice Organizations & Systems
+181
+Criminal Law
+182
+Criminal Procedure
+190
+Federal Law Enforcement
+200CD
+Comparative Criminal Justice Systems
+201CD
+Comparative Police Systems
+210
+The Development of the Criminal Justice System
+215
+Introduction to Crime Mapping and Analysis
+220CD
+Juvenile Delinquency
+221CM
+Juvenile Justice System
+230CDCM
+Race, Crime and Criminal Justice
+231CD
+Gender, Crime and Criminal Justice
+232
+Diversity in the Criminal Justice System
+250
+Criminology
+270
+Management of Offenders
+271
+Substance Abuse and Crime
+272
+Community Corrections
+273
+Career Criminals and Criminal Careers
+274
+Policy, Punishment and Society
+280
+Ethics in Criminal Justice
+281CM
+Crime and Delinquency Prevention
+301
+Investigation and Intelligence
+311
+Homeland Defense
+313
+Homeland Security and Intelligence
+320
+Evidence
+321
+Contemporary Legal Issues
+322
+National Security Law
+362CPWI
+Research Methods in Criminal Justice
+370
+Selected Topics in Criminal Justice
+373
+Selected Topics in Criminal Justice
+374
+Selected Topics in Criminal Justice
+375
+Selected Topics in Criminal Justice
+376
+Selected Topics in Criminal Justice
+377
+Selected Topics in Criminal Justice
+378
+Selected Topics in Criminal Justice
+379
+Independent Study
+380CTWI
+Senior Seminar in Criminal Justice
+390
+Field Work in Criminal Justice I
+392
+Field Work in Criminal Justice II
+395
+Honors Independent Study/Thesis
+398
+Honors Supplementary Research
+410
+Seminar In Criminal Justice
+420
+Seminar In Criminology
+430
+Legal Issues in Criminal Justice
+440
+Criminal Justice Evaluation Research
+460
+Soc As Symbolic Inter
+521
+Seminar in Police Administration
+522
+Police Strategies and Programs
+523
+Police Leadership & Management
+524
+Contemporary Issues in Policing
+531
+Seminar in Homeland Security
+532
+Terrorism and Homeland Security
+533
+Legal & Ethical Issues in Homeland Security
+534
+Intelligence and Homeland Security
+540
+Crime and Public Policy
+541
+Transnational Crime
+550
+Advanced Criminal Justice Research Methods
+551
+Statistics in Criminal Justice
+570
+Selected Topics in Criminal Justice
+579
+Independent Study in Criminal Justice
+590
+Field Experience in Criminal Justice
+595
+Criminal Justice Thesis

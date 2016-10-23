@@ -1,0 +1,64 @@
+HEA  102 - Introduction to Health and Wellness HEA 102 - Introduction to Health and Wellness 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2229
+010-LEC
+Regular
+MoWeFr 8:00AM - 8:50AM
+AF 101
+Dina Hayduk
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2230
+020-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+AF 101
+Dina Hayduk
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2231
+030-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+AF 101
+Dina Hayduk
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2232
+040-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+AF 201
+Michelle Vaughn
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2233
+050-LEC
+Regular
+TuTh 8:00AM - 9:20AM
+AF 200
+Bernadette Bamberger
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2234
+060-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+AF 200
+Bernadette Bamberger
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2235
+070-LEC
+Regular
+We 5:00PM - 7:50PM
+AF 201
+Duane Crider
+08/29/2016 - 12/17/2016
+Open

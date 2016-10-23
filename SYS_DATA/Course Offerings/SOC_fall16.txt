@@ -1,0 +1,345 @@
+ SOC   10CD - Principles of Sociology SOC 10CD - Principles of Sociology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1023
+010-LEC
+Regular
+MoWeFr 8:00AM - 8:50AM
+AF 102
+Albert Fu
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1024
+020-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+AF 102
+Albert Fu
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1027
+050-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+AF 101
+Mauricia John
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1028
+060-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+AF 101
+Mauricia John
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3293
+070-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+DF 215
+Timothy O'Boyle
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3294
+080-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+DF 215
+Timothy O'Boyle
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3398
+090-LEC
+Regular
+MoWeFr 2:00PM - 2:50PM
+AF 201
+Albert Fu
+08/29/2016 - 12/17/2016
+Closed
+ SOC  120CDWI - Marriage and the Family SOC 120CDWI - Marriage and the Family 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1031
+010-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+OM 280
+Joleen Greenwood
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1032
+020-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+OM 280
+Joleen Greenwood
+08/29/2016 - 12/17/2016
+Closed
+ SOC  200QL - Statistics for the Social and Behavioral Sciences SOC 200QL - Statistics for the Social and Behavioral Sciences 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3320
+010-LEC
+Regular
+WeFr 12:00PM - 1:45PM
+OM 297
+Gregory Shelley
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3321
+020-LEC
+Regular
+MoWe 10:00AM - 11:45AM
+OM 297
+Catherine Best
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3322
+030-LEC
+Regular
+WeFr 2:00PM - 3:45PM
+OM 297
+Gregory Shelley
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3323
+040-LEC
+Regular
+TuTh 8:00AM - 9:20AM
+Fr 8:00AM - 8:50AM
+OM 297
+OM 297
+Ceyhun Sunsay
+Ceyhun Sunsay
+08/29/2016 - 12/17/2016
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3324
+050-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+Fr 9:00AM - 9:50AM
+OM 297
+OM 297
+Ceyhun Sunsay
+Ceyhun Sunsay
+08/29/2016 - 12/17/2016
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3325
+060-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+Mo 12:00PM - 12:50PM
+OM 297
+OM 297
+Ronald Stoffey
+Ronald Stoffey
+08/29/2016 - 12/17/2016
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3327
+080-LEC
+Regular
+TuTh 3:00PM - 4:45PM
+OM 297
+Catherine Best
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+ SOC  201QL - Quantitative Analysis in Sociology SOC 201QL - Quantitative Analysis in Sociology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1035
+010-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+OM 28
+Jason Crockett
+08/29/2016 - 12/17/2016
+Open
+ SOC  214VL - Sociology of Visual Culture SOC 214VL - Sociology of Visual Culture 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3530
+990-LEC
+Regular
+TBA
+TBA
+Albert Fu
+08/29/2016 - 12/17/2016
+Closed
+ SOC  224CDCT - Immigration and Assimilation SOC 224CDCT - Immigration and Assimilation 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3453
+010-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+OM 281
+Mauricia John
+08/29/2016 - 12/17/2016
+Closed
+ SOC  230CDCT - Urban Sociology SOC 230CDCT - Urban Sociology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1033
+010-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+OM 281
+Albert Fu
+08/29/2016 - 12/17/2016
+Closed
+ SOC  245CD - Sociology of Deviance SOC 245CD - Sociology of Deviance 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1029
+810-LEC
+Regular
+TBA
+TBA
+Timothy O'Boyle
+08/29/2016 - 12/17/2016
+Closed
+ SOC  250 - Criminology SOC 250 - Criminology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3336
+020-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+OM 281
+Pietro Toggia
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3337
+040-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+OM 138
+Ko-Hsin Hsu
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3338
+050-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+OM 123
+Ko-Hsin Hsu
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3339
+060-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+OM 287
+Pietro Toggia
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+ SOC  260CD - Social Stratification SOC 260CD - Social Stratification 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1041
+810-LEC
+Regular
+TBA
+TBA
+Diane Johnson
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1042
+811-LEC
+Regular
+TBA
+TBA
+Diane Johnson
+08/29/2016 - 12/17/2016
+Closed
+ SOC  271 - White Collar Crime SOC 271 - White Collar Crime 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1030
+810-LEC
+Regular
+TBA
+TBA
+Timothy O'Boyle
+08/29/2016 - 12/17/2016
+Closed
+ SOC  275 - Social Foundations of Human Behavior SOC 275 - Social Foundations of Human Behavior 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1036
+010-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+DF 102
+Diane Johnson
+08/29/2016 - 12/17/2016
+Open
+ SOC  280CD - Social Movements SOC 280CD - Social Movements 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2845
+010-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+OM 281
+Jason Crockett
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3200
+019-LEC
+Regular
+TuTh 3:00PM - 4:20PM
+OM 281
+Jason Crockett
+08/29/2016 - 12/17/2016
+Closed
+ SOC  310 - Foundations of Sociological Theory SOC 310 - Foundations of Sociological Theory 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1043
+010-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+DF 102
+Diane Johnson
+08/29/2016 - 12/17/2016
+Open
+ SOC  350CTWI - Methods of Social Research SOC 350CTWI - Methods of Social Research 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1040
+010-LEC
+Regular
+MoWe 3:00PM - 4:20PM
+OM 28
+Jason Crockett
+08/29/2016 - 12/17/2016
+Closed
+ SOC  380CMWI - Senior Seminar in Sociology SOC 380CMWI - Senior Seminar in Sociology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2859
+010-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+GC 200
+Mauricia John
+08/29/2016 - 12/17/2016
+Open

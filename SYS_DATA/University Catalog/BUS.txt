@@ -1,0 +1,32 @@
+1
+University Studies: The First Year Seminar
+120
+Principles of Business Statistics
+131
+Business Law I
+171CP
+Business Information Systems: Theory & Practice
+310
+Advanced Business Computer Applications
+320
+Advanced Business Statistics
+332WI
+Business Law II
+379
+Independent Study
+380
+Senior Seminar in Business Administration
+390
+Internship in Business
+395
+Honors Independent Study/Thesis
+410
+BRIT/ORIGINS OF GLOB ECON
+560
+Legal Environment of Business
+571
+Selected Topics
+572
+Managing Enterprise Information Technology
+580
+Independent Study in Business Administration

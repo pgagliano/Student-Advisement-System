@@ -1,0 +1,444 @@
+CSC    5 - Visualization for the Masses CSC 5 - Visualization for the Masses 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2847
+010-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+OM 159
+Randy Kaplan
+08/29/2016 - 12/17/2016
+Open
+CSC   20CPVL - Computer Graphics CSC 20CPVL - Computer Graphics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1204
+010-LEC
+Regular
+MoWe 1:00PM - 2:20PM
+RL 16
+Staff
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1205
+020-LEC
+Regular
+MoWe 2:30PM - 3:50PM
+RL 16
+Staff
+08/29/2016 - 12/17/2016
+Closed
+CSC  111 - Computer Forensics CSC 111 - Computer Forensics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1180
+010-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+OM 299
+Oskars Rieksts
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1181
+020-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+OM 299
+Oskars Rieksts
+08/29/2016 - 12/17/2016
+Closed
+CSC  120CPVL - Introduction to Creative Graphical Coding CSC 120CPVL - Introduction to Creative Graphical Coding 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1220
+010-LEC
+Regular
+MoWe 3:00PM - 4:20PM
+GR 307
+Dale Parson
+08/29/2016 - 12/17/2016
+Closed
+CSC  122CPVL - Web Site Design CSC 122CPVL - Web Site Design 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3454
+010-LEC
+Regular
+TuTh 8:00AM - 9:20AM
+GR 307
+Staff
+08/29/2016 - 12/17/2016
+Closed
+CSC  125CT - Discrete Math for Computing I CSC 125CT - Discrete Math for Computing I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1207
+010-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+OM 158
+Yong Zhang
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1208
+020-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+OM 158
+Yong Zhang
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3002
+030-LEC
+Regular
+TuTh 3:00PM - 4:20PM
+OM 299
+Daniel Spiegel
+08/29/2016 - 12/17/2016
+Closed
+CSC  130 - Information Technology Fundamentals CSC 130 - Information Technology Fundamentals 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1183
+010-LEC
+Regular
+TuTh 8:00AM - 9:20AM
+OM 299
+Staff
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1184
+020-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+OM 299
+Oskars Rieksts
+08/29/2016 - 12/17/2016
+Closed
+CSC  135 - Computer Science I CSC 135 - Computer Science I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1185
+010-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+GR 307
+John Carelli
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1186
+020-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+GR 307
+John Carelli
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1188
+030-LEC
+Regular
+TuTh 8:00AM - 9:20AM
+OM 158
+Lisa Frye
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1187
+040-LEC
+Regular
+MoWeFr 2:00PM - 2:50PM
+GR 307
+John Carelli
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1189
+050-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+GR 307
+Tauqeer Hussain
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1190
+060-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+GR 307
+Tauqeer Hussain
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2999
+070-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+GR 307
+Staff
+08/29/2016 - 12/17/2016
+Open
+CSC  136CP - Computer Science II CSC 136CP - Computer Science II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1209
+010-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+OM 158
+Thiep Pham
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1210
+020-LEC
+Regular
+MoWeFr 2:00PM - 2:50PM
+OM 158
+Thiep Pham
+08/29/2016 - 12/17/2016
+Closed
+CSC  225 - Discrete Math for Computing II CSC 225 - Discrete Math for Computing II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1201
+010-LEC
+Regular
+MoWeFr 2:00PM - 2:50PM
+OM 299
+Oskars Rieksts
+08/29/2016 - 12/17/2016
+Closed
+CSC  235 - Computer Organization and Assembly Language CSC 235 - Computer Organization and Assembly Language 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1191
+010-LEC
+Regular
+MoWe 4:30PM - 5:50PM
+OM 299
+Daniel Spiegel
+08/29/2016 - 12/17/2016
+Closed
+CSC  237 - Data Structures CSC 237 - Data Structures 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1192
+010-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+OM 299
+Daniel Spiegel
+08/29/2016 - 12/17/2016
+Closed
+CSC  242 - Web Programming CSC 242 - Web Programming 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1193
+010-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+GR 307
+John Carelli
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3595
+020-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+GR 307
+Staff
+08/29/2016 - 12/17/2016
+Closed
+CSC  243 - Java Programming CSC 243 - Java Programming 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2848
+010-LEC
+Regular
+MoWeFr 8:00AM - 8:50AM
+GR 307
+Staff
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2992
+020-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+GR 307
+Staff
+08/29/2016 - 12/17/2016
+Closed
+CSC  253 - Information Technology Systems CSC 253 - Information Technology Systems 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1203
+010-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+OM 280
+Yong-Sang Shim
+08/29/2016 - 12/17/2016
+Closed
+CSC  280 - Cooperative Internship in Computer Science I CSC 280 - Cooperative Internship in Computer Science I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3623
+970-LEC
+Regular
+TBA
+TBA
+Dale Parson
+08/29/2016 - 12/17/2016
+Closed
+CSC  311 - Computer Networks CSC 311 - Computer Networks 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1194
+010-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+OM 299
+Yong-Sang Shim
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1202
+020-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+OM 299
+Yong-Sang Shim
+08/29/2016 - 12/17/2016
+Closed
+CSC  320 - Game Development for Computer Scientists CSC 320 - Game Development for Computer Scientists 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3001
+010-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+OM 158
+Randy Kaplan
+08/29/2016 - 12/17/2016
+Open
+CSC  328 - Network Programming CSC 328 - Network Programming 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1221
+010-LEC
+Regular
+MoWe 3:00PM - 4:20PM
+OM 158
+Lisa Frye
+08/29/2016 - 12/17/2016
+Closed
+CSC  341 - Introduction to Information Security CSC 341 - Introduction to Information Security 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1195
+010-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+OM 158
+Thiep Pham
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3549
+020-LEC
+Regular
+MoWeFr 8:00AM - 8:50AM
+OM 158
+Thiep Pham
+08/29/2016 - 12/17/2016
+Open
+CSC  343 - Operating Systems CSC 343 - Operating Systems 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1196
+010-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+OM 158
+Dale Parson
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1213
+020-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+OM 299
+Dale Parson
+08/29/2016 - 12/17/2016
+Closed
+CSC  354WI - Software Engineering I CSC 354WI - Software Engineering I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1211
+010-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+OM 158
+Randy Kaplan
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1224
+020-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+OM 158
+Randy Kaplan
+08/29/2016 - 12/17/2016
+Closed
+CSC  355WI - Software Engineering II CSC 355WI - Software Engineering II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2996
+010-LEC
+Regular
+MoWe 4:30PM - 5:50PM
+OM 158
+Tauqeer Hussain
+08/29/2016 - 12/17/2016
+Closed
+CSC  402 - Data Structures II CSC 402 - Data Structures II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1198
+010-LEC
+Regular
+TuTh 3:00PM - 4:20PM
+OM 158
+Yong Zhang
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+CSC  456 - Database Management Systems I CSC 456 - Database Management Systems I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1200
+010-LEC
+Regular
+MoWe 3:00PM - 4:20PM
+OM 299
+Yong-Sang Shim
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+CSC  472 - Independent Study and/or Projects in Computer Science CSC 472 - Independent Study and/or Projects in Computer Science 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3681
+960-LEC
+Regular
+TBA
+TBA
+Dale Parson
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3682
+961-LEC
+Regular
+TBA
+TBA
+Francis Vasko
+08/29/2016 - 12/17/2016
+Closed
+CSC  480 - Selected Topics in Computer Science CSC 480 - Selected Topics in Computer Science 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3000
+210-LEC
+Regular
+Mo 6:00PM - 8:50PM
+OM 158
+Yong Zhang
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class

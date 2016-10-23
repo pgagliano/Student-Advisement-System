@@ -1,0 +1,190 @@
+22
+Introduction to Digital Design I
+122
+Introduction to Digital Design II
+130CPVL
+Typography
+140
+Digital Translation
+141CMCT
+Visual Translation
+147
+Visual Thinking
+151
+Illustration Techniques
+220
+Print Media Production
+231
+Advanced Typography
+238
+Graphic Design I: The Visual Message
+239
+Graphic Design II: Editorial Design
+241
+Advertising Design I
+242
+Advertising Design II
+252
+Illustration I
+253
+Illustration II
+271
+Television Graphics
+276
+Interactive Design I: Web Design
+277
+Interactive Design II: Multimedia
+307
+The Visual Journal: Drawing and Designing Abroad
+315
+Emerging Media Campaigns
+316CPVL
+The Advertising Pitch - Strategy, Copy, and Art
+330
+ANIMATION
+335
+Interdisciplinary Team Project
+344
+Advanced Illustration Seminar I
+345
+Advanced Illustration Seminar  II
+356
+Workshop: Creative Coding
+357
+Workshop: Typeface Design
+358
+Workshop: Digital Animation
+359
+CDE Workshop: Design for the Greeting Card and Gift Industry
+360
+CDE Workshop: Advanced Computer Layout
+361
+CDE Workshop: Restaurant Graphics
+362
+CDE Workshop: Campus Graphics
+363
+Workshop: 3-D Computer Animation
+364
+CDE Workshop: Poster Design
+365
+CDE Workshop: Art of Humor, Satire and Caricature
+366
+CDE Workshop: Motion Graphics
+367
+CDE Workshop: Package Design
+368
+CDE Workshop: Web Presence
+369
+Communication Design Workshop
+370
+Communication Design Workshop
+371
+Communication Design Workshop
+372
+Communication Design Workshop
+373
+Communication Design Workshop
+374
+Portfolio Seminar
+375
+Selected Topics in Communication Design: Graphic D
+377
+Independent Study in Communication Design
+378
+Independent Study in Communication Design
+379
+Independent Study in Communication Design
+380
+Independent Study in Communication Design
+381
+Senior Design Seminar: Corporate Publications
+382
+Senior Design Seminar: Identity Systems
+383
+Senior Advertising Seminar: Non-Profit/Corporate I
+384
+Senior Advertising Seminar: Consumer Product Adver
+385
+Senior Interactive Design Seminar:  Advanced Web
+386
+Senior Interactive Design Seminar:  Advanced Multimedia
+387
+Senior Illustration Seminar:  The Visual Essay
+388
+Workshop: Self-Promotion for Illustrators and Designers
+389
+Senior Illustration Seminar: Developing a Personal Style
+392
+Field Experience in Communication Design
+394
+Communication Design Internship
+395
+Honors Independent Study/Thesis
+398
+Communication Design Professional Practices
+399
+Student Exhibition
+411
+EVRY PIC TELLS STORY/BRIT
+501
+Personal Exploration Seminar
+502
+Professional Exploration Seminar
+503
+Graduate Seminar: Unconventional Typography
+504
+Graduate Seminar: Design Pioneers
+505
+Graduate Seminar: Emerging Media
+506
+Graduate Seminar: Contemporary Topics in Communication Design
+507
+The Graphic Design Experience
+508
+The Advertising Design Experience
+509
+Interactive Design for the Art Education Classroom
+510
+The Sequential Illustration Experience
+511
+MFA Thesis I: Research Studies
+512
+MFA Thesis II: Creative Studies
+513
+MFA Thesis III: Production/Presentation/Exhibition
+514
+Graduate Independent Study
+515
+Graduate Workshop: Emerging Media Campaigns
+531
+Art Of Creating Child Bks
+556
+Graduate Workshop: Art of Humor
+557
+Graduate Workshop: Typeface Design
+559
+Graduate Workshop: Design for the Greeting Card, Stationary and Gift Industry
+561
+Graduate Workshop: Restaurant Graphics
+566
+Graduate Workshop: Motion Graphics
+567
+Graduate Workshop: Package Design
+581
+Graduate Design Seminar: Corporate Publications
+582
+Graduate Design Seminar: Identity Systems
+583
+Graduate Advertising Seminar: Non-Profit/Corporate Institutional
+584
+Graduate Advertising Seminar: Consumer Product Advertising
+585
+Graduate Interactive Seminar: Current Practices
+586
+Graduate Interactive Seminar: Internet and Web Applications
+587
+Graduate Illustration Seminar: Visual Essay
+589
+Graduate Illustration Seminar: Developing a Personal Style
+594
+Graduate Internship

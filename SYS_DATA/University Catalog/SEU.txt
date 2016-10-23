@@ -1,0 +1,62 @@
+15
+Secondary Education First Year Seminar
+210
+Secondary School Curriculum
+310
+Problems of Secondary Education
+312WICD
+Principles of Learning
+313
+Principles of Learning Clinical Lab
+320
+Appraisal and Evaluation in Secondary Education
+321WI
+Methods of Teaching Secondary School Subject: Communication
+322WI
+Methods of Teaching Secondary School Subject: Foreign Language
+323WI
+Methods of Teaching Secondary School Subject: Mathematics
+324
+Methods of Teaching Secondary School Subject: Science
+325WI
+Methods of Teaching Secondary School Subject: Social Studies
+331
+Practicum: Communication
+332
+Practicum: Modern Languages
+333
+Practicum: Mathematics
+334
+Practicum: Science
+335
+Practicum: Social Studies
+340
+Teaching Reading in Secondary School Academic Subjects
+342WIVL
+Principles of Teaching
+343
+Principles of Teaching Clinical Lab
+380
+Independent Study in Secondary Education
+390
+Clinical Experience and Practicum: Secondary I
+391
+Clinical Experience and Practicum: Secondary II
+410
+Science Instructional Methods for Middle & HS
+410WI
+Science Instructional Methods for Middle & HS
+420
+Education Theory and Practice
+535
+Classroom Management for the Inclusive Classroom
+540
+Reading, Writing, and Critical Thinking in a Standards Aligned System
+544
+Action Research for Teacher Leaders
+567
+Curriculum in a Standards-Aligned System
+590
+Practice Teaching Fieldwork I
+591
+Practice Teaching Fieldwork II

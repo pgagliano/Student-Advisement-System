@@ -1,0 +1,110 @@
+11
+Elementary German I
+12
+Elementary German II
+24
+Scientific German
+103
+Intermediate German III
+104
+Intermediate German IV
+211WI
+German Composition & Conversation I
+212CM
+Ger Compos & Convers II
+213
+Business German
+220
+Apl Linguistics In German
+230
+The German Fairy Tale
+232VLWI
+The German Graphic Novel
+253
+German Literature in English Translation I
+254
+German Literature in English Translation II
+260
+German Cinema in English
+301
+Survey Of German Lit I
+302
+Survey Of German Lit II
+304
+German Culture Through Film
+311
+German Lit Of 18th Cen
+312
+German Lit Of 19th Cen
+313
+German Lit Of 20th Cen
+320
+German Short Story
+325
+Adv Syntax & Styl I
+326
+Adv Syntax & Styl II
+335
+German Lyric Poetry
+340CD
+German Culture & Civilization
+355
+READ/PERFORM GERMAN DRAMA
+360
+Study Abroad Experience
+370
+Selected Topics In German
+371
+Selected Topics In German
+372
+Selected Topics In German
+373
+Selected Topics In German
+374
+Selected Topics In German
+375
+Selected Topics In German
+376
+Selected Topics In German
+377
+Selected Topics In German
+378
+Selected Topics In German
+379
+Selected Topics In German
+380CDCT
+Senior Seminar In German
+390
+International  Internship in German
+395
+Honors Independent Study/Thesis
+398
+Honors Supplementary Research
+410
+Phonetics Of The Ger Lang
+420
+Prof Trns Skills In Ger
+425
+Seminar In Schiller
+470
+Selected Topics In German
+503
+Thesis
+505
+His Of German Lang
+515
+German Romanticism
+520
+Seminar In Goethe
+525
+Studies In Style
+527
+Seminar In Kleist
+530
+Contemporary Ger Lit
+540
+The German Novelle
+553
+Med German Lit
+564
+Ger Novel In 19th Cent

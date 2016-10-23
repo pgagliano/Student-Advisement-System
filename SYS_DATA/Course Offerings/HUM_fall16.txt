@@ -1,0 +1,71 @@
+HUM  211CDVL - Women in the Arts HUM 211CDVL - Women in the Arts 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3368
+010-LEC
+Regular
+MoWe 12:00PM - 1:20PM
+SH 113
+Marilyn Stewart
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3369
+020-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+SH 113
+Amy Pfeiler-Wunder
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3370
+030-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+SH 113
+Peg Speirs
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3371
+040-LEC
+Regular
+MoWe 4:30PM - 5:50PM
+SH 113
+Marilyn Stewart
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3372
+050-LEC
+Regular
+MoWe 9:00AM - 10:20AM
+SH 113
+Amy Pfeiler-Wunder
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3373
+060-LEC
+Regular
+MoWe 10:30AM - 11:50AM
+SH 113
+Carrie Nordlund
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3374
+070-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+SH 113
+Nicole Romanski
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class

@@ -1,0 +1,197 @@
+ ART   10VL - Experiencing Art ART 10VL - Experiencing Art 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1698
+030-LEC
+Regular
+TuTh 12:00PM - 2:50PM
+SH 103
+David Rogers
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2982
+040-LEC
+Regular
+MoWe 12:00PM - 2:50PM
+SH 103
+In Mi Lee
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2983
+050-LEC
+Regular
+TuTh 3:00PM - 5:50PM
+SH 103
+In Mi Lee
+08/29/2016 - 12/17/2016
+Open
+ ART   31VL - Two-Dimensional Design ART 31VL - Two-Dimensional Design 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1699
+010-LEC
+Regular
+MoWe 8:00AM - 10:50AM
+SH 206
+Rhonda Wall
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1700
+020-LEC
+Regular
+TuTh 8:00AM - 10:50AM
+SH 206
+Rhonda Wall
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1701
+030-LEC
+Regular
+MoWe 12:00PM - 2:50PM
+SH 206
+Rhonda Wall
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1702
+040-LEC
+Regular
+TuTh 12:00PM - 2:50PM
+SH 206
+George Graf
+08/29/2016 - 12/17/2016
+Open
+ ART   32VL - Three-Dimensional Design ART 32VL - Three-Dimensional Design 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1704
+010-LEC
+Regular
+MoWe 8:00AM - 10:50AM
+SH 205
+Richard Salafia
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1712
+020-LEC
+Regular
+TuTh 8:00AM - 10:50AM
+SH 205
+Richard Salafia
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2984
+030-LEC
+Regular
+MoWe 12:00PM - 2:50PM
+SH 205
+Richard Salafia
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2985
+040-LEC
+Regular
+TuTh 3:00PM - 5:50PM
+SH 206
+George Graf
+08/29/2016 - 12/17/2016
+Closed
+ ART  171CP - Computer Aided Modeling and Rendering ART 171CP - Computer Aided Modeling and Rendering 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1705
+010-LEC
+Regular
+TuTh 3:00PM - 5:50PM
+SH 11G
+David Rogers
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+ ART  182CP - Introduction to Digital Media ART 182CP - Introduction to Digital Media 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3376
+010-LEC
+Regular
+TuTh 3:00PM - 5:50PM
+SH 8G
+Rebekkah Palov
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1710
+020-LEC
+Regular
+TuTh 12:00PM - 2:50PM
+SH 11G
+In Mi Lee
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+ ART  351 - 3D Animation Studio I ART 351 - 3D Animation Studio I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1706
+010-LEC
+Regular
+TuTh 3:00PM - 5:50PM
+SH 11G
+David Rogers
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+ ART  352 - 3D Animation Studio II ART 352 - 3D Animation Studio II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1707
+010-LEC
+Regular
+TuTh 3:00PM - 5:50PM
+SH 11G
+David Rogers
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+ ART  353 - 3D Animation Studio III ART 353 - 3D Animation Studio III 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1708
+010-LEC
+Regular
+TuTh 3:00PM - 5:50PM
+SH 11G
+David Rogers
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+ ART  354 - 3D Animation Studio IV ART 354 - 3D Animation Studio IV 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3439
+010-LEC
+Regular
+TuTh 3:00PM - 5:50PM
+SH 11G
+David Rogers
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+ ART  392 - Field Experience in Art ART 392 - Field Experience in Art 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3621
+970-LEC
+Regular
+TBA
+TBA
+Rebekkah Palov
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3622
+971-LEC
+Regular
+TBA
+TBA
+Michael Radyk
+08/29/2016 - 12/17/2016
+Closed

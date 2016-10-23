@@ -1,0 +1,418 @@
+POL   10 - American Government POL 10 - American Government 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2680
+010-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+AF 200
+Glenn Richardson
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3158
+020-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+AF 200
+Glenn Richardson
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3160
+030-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+AF 201
+Kristin Bremer
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3164
+040-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+OM 138
+Jennifer Jacobson
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3161
+050-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+AF 200
+Kristin Bremer
+08/29/2016 - 12/17/2016
+Open
+POL   20CD - International Relations POL 20CD - International Relations 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2679
+010-LEC
+Regular
+TuTh 8:00AM - 9:20AM
+GC 2
+Robert Portada
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3162
+020-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+OM 288
+Kristin Bremer
+08/29/2016 - 12/17/2016
+Closed
+POL   30CD - Introduction to Comparative Politics POL 30CD - Introduction to Comparative Politics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3182
+010-LEC
+Regular
+MoWeFr 8:00AM - 8:50AM
+GC 2
+Robert Portada
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3183
+020-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+GC 2
+Robert Portada
+08/29/2016 - 12/17/2016
+Open
+POL   40 - Introduction to Political Theory POL 40 - Introduction to Political Theory 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3163
+010-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+OM 287
+Kristin Bremer
+08/29/2016 - 12/17/2016
+Open
+POL   50 - State and Local Government POL 50 - State and Local Government 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3171
+010-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+OM 138
+George Hale
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3172
+020-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+OM 138
+George Hale
+08/29/2016 - 12/17/2016
+Open
+POL  101WI - Social Research Design and Writing POL 101WI - Social Research Design and Writing 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3178
+010-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+OM 141
+Steve Lem
+08/29/2016 - 12/17/2016
+Closed
+POL  115 - Public Administration POL 115 - Public Administration 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3173
+010-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+OM 287
+Paula Holoviak
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3174
+020-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+OM 287
+Paula Holoviak
+08/29/2016 - 12/17/2016
+Open
+POL  140CTWI - Law and Society POL 140CTWI - Law and Society 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3165
+010-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+OM 278
+Jennifer Jacobson
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3166
+020-LEC
+Regular
+TuTh 3:00PM - 4:20PM
+OM 280
+Jennifer Jacobson
+08/29/2016 - 12/17/2016
+Closed
+POL  181 - Criminal Law POL 181 - Criminal Law 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3342
+010-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+OM 287
+Keith Logan
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+POL  182 - Criminal Procedure POL 182 - Criminal Procedure 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3343
+010-LEC
+Regular
+We 3:00PM - 5:50PM
+OM 287
+Lindsey Runell
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3344
+020-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+OM 276
+Arthur Garrison
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3345
+030-LEC
+Regular
+MoWeFr 2:00PM - 2:50PM
+OM 138
+Arthur Garrison
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3346
+040-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+OM 288
+Lindsey Runell
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+POL  200QL - Statistics for the Social and Behavioral Sciences POL 200QL - Statistics for the Social and Behavioral Sciences 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3328
+010-LEC
+Regular
+WeFr 12:00PM - 1:45PM
+OM 297
+Gregory Shelley
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3329
+020-LEC
+Regular
+MoWe 10:00AM - 11:45AM
+OM 297
+Catherine Best
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3330
+030-LEC
+Regular
+WeFr 2:00PM - 3:45PM
+OM 297
+Gregory Shelley
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3331
+040-LEC
+Regular
+TuTh 8:00AM - 9:20AM
+Fr 8:00AM - 8:50AM
+OM 297
+OM 297
+Ceyhun Sunsay
+Ceyhun Sunsay
+08/29/2016 - 12/17/2016
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3332
+050-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+Fr 9:00AM - 9:50AM
+OM 297
+OM 297
+Ceyhun Sunsay
+Ceyhun Sunsay
+08/29/2016 - 12/17/2016
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3333
+060-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+Mo 12:00PM - 12:50PM
+OM 297
+OM 297
+Ronald Stoffey
+Ronald Stoffey
+08/29/2016 - 12/17/2016
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3335
+080-LEC
+Regular
+TuTh 3:00PM - 4:45PM
+OM 297
+Catherine Best
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+POL  201CPQL - Empirical Political Analysis POL 201CPQL - Empirical Political Analysis 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3179
+810-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+OM 141
+Steve Lem
+08/29/2016 - 12/17/2016
+Closed
+POL  211VL - Public Opinion and Propaganda POL 211VL - Public Opinion and Propaganda 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3159
+010-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+OM 136
+Glenn Richardson
+08/29/2016 - 12/17/2016
+Open
+POL  332CDWI - The Politics of Latin America POL 332CDWI - The Politics of Latin America 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3180
+010-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+GC 2
+Robert Portada
+08/29/2016 - 12/17/2016
+Closed
+POL  370 - Independent Study in Political Science POL 370 - Independent Study in Political Science 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3661
+960-LEC
+Regular
+TBA
+TBA
+Robert Portada
+08/29/2016 - 12/17/2016
+Closed
+POL  380 - Senior Seminar in Political Science POL 380 - Senior Seminar in Political Science 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2837
+010-LEC
+Regular
+Mo 3:00PM - 5:50PM
+OM 136
+Glenn Richardson
+08/29/2016 - 12/17/2016
+Open
+POL  381CMWI - Senior Seminar in Public Administration POL 381CMWI - Senior Seminar in Public Administration 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2834
+010-LEC
+Regular
+Mo 3:00PM - 5:50PM
+GC 200
+Paula Holoviak
+08/29/2016 - 12/17/2016
+Open
+POL  390 - Federal, State, and/or Local Government Internship POL 390 - Federal, State, and/or Local Government Internship 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3537
+970-LEC
+Regular
+TBA
+TBA
+Paula Holoviak
+08/29/2016 - 12/17/2016
+Closed
+POL  391 - The Harrisburg Internship Semester (THIS): Internship POL 391 - The Harrisburg Internship Semester (THIS): Internship 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3613
+971-LEC
+Regular
+TBA
+TBA
+Paula Holoviak
+08/29/2016 - 12/17/2016
+Closed
+POL  392 - The Harrisburg Internship Semester (THIS): Research POL 392 - The Harrisburg Internship Semester (THIS): Research 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3614
+970-LEC
+Regular
+TBA
+TBA
+Paula Holoviak
+08/29/2016 - 12/17/2016
+Closed
+POL  393 - The Harrisburg Internship Semester (THIS): Seminar POL 393 - The Harrisburg Internship Semester (THIS): Seminar 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3615
+970-LEC
+Regular
+TBA
+TBA
+Paula Holoviak
+08/29/2016 - 12/17/2016
+Closed
+POL  441 - Managerial Leadership and Ethics POL 441 - Managerial Leadership and Ethics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3175
+010-LEC
+Regular
+TuTh 4:30PM - 5:50PM
+OM 136
+George Hale
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+POL  465 - Administrative Law POL 465 - Administrative Law 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2844
+410-LEC
+Regular
+We 6:00PM - 8:50PM
+OM 136
+Jennifer Jacobson
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class

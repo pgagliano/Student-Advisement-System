@@ -1,0 +1,118 @@
+18
+Introduction to Information Search Strategies & Digital Literacy
+109
+Organization of Knowledge in Libraries, Archives and Special Collections
+125
+Microcomputers in Education
+130
+Folk Literature and Storytelling
+211
+Information Needs and Services
+221CDWI
+Resources for Children
+222WI
+Resources for Young Adults
+310
+English Language Learners in the Library
+313
+Cataloging and Classification of Information
+315
+Selecting, Evaluating and Utilizing Information Resources
+320
+Library Administration
+326
+Technologies in Libraries
+329
+Instructional Strategies for the School Librarian
+330
+The Educational Program of the School Library Media Center
+340
+Adv Reference Services
+343
+Public Libraries
+350
+Reading Interests of Adults
+358
+Reading Strategies for Librarians
+362
+Digital Citizenship
+375
+Fieldwork – Libraries and Information Centers
+380
+Independent Study in Library Science
+390
+Clinical Experience and Practicum I
+391
+Clinical Experience and Practicum II
+395
+Honors Independent Study/Thesis
+405
+Genealogical Research
+420
+Library Resources for Preschoolers and their Families
+440
+Selected Topics in Library Science
+471
+Information Analysis and Retrieval
+480
+Introduction to Preservation and Digitization of Archives and Special Collections
+500
+Methods of Research in Library Science
+509
+Foundations of Library and Information Services
+510
+Literature of the Humanities
+511
+Reference and Information Services in Library Settings
+512
+Librarian's Role in Supporting Reading Strategies
+513
+Organization of Information
+515
+Collection Development
+520
+Literature of the Social Sciences
+526
+Technologies in Libraries
+529
+Library/Information Literacy Curriculum
+530
+Literature of the Sciences and Technology
+531
+Oral Traditions in the Library and Classroom
+535
+Adv Catalog & Classific
+543
+Public Library Services
+545
+Special Library Services
+550
+Reading Interests for Adults
+555
+School Library Administration
+558
+Librarian's Role/reading
+560
+Mass Media and the Library
+562
+Digital Citizenship
+565
+Book Arts & Hist Of Libs
+567
+Sch Lib Media Sys
+570
+Independent Study
+575
+Seminar: Teaching Function of the Instructional Materials Center
+580
+Sem In Eval Of Sch Lib
+585
+Seminar: Children and Young Adult Literature
+588
+Clinical Experience and Practicum I
+589
+Clinical Experience and Practicum II
+590
+Fieldwork: School Library Media Centers
+591
+Fieldwork: Public and Special Libraries

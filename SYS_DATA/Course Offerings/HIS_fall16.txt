@@ -1,0 +1,461 @@
+HIS   14CD - History of Civilization A HIS 14CD - History of Civilization A 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3108
+060-LEC
+Regular
+MoWe 3:00PM - 4:20PM
+LY 106
+Eric Johnson
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3109
+070-LEC
+Regular
+We 6:00PM - 8:50PM
+LY 106
+Eric Johnson
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3151
+080-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+LY 212
+Douglas Lea
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3387
+119-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+LY 106
+Douglas Lea
+08/29/2016 - 12/17/2016
+Closed
+Topic: HONORS
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3388
+129-LEC
+Regular
+MoWeFr 2:00PM - 2:50PM
+LY 109
+Douglas Lea
+08/29/2016 - 12/17/2016
+Closed
+Topic: HONORS
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3389
+139-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+LY 106
+John Stanley
+08/29/2016 - 12/17/2016
+Closed
+Topic: HONORS
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3390
+149-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+LY 109
+John Stanley
+08/29/2016 - 12/17/2016
+Closed
+Topic: HONORS
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3152
+810-LEC
+Regular
+TBA
+TBA
+John Stanley
+08/29/2016 - 12/17/2016
+Open
+HIS   15 - History of Civilization B HIS 15 - History of Civilization B 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2858
+010-LEC
+Regular
+MoWeFr 8:00AM - 8:50AM
+LY 109
+Christine Saidi
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3116
+020-LEC
+Regular
+MoWeFr 8:00AM - 8:50AM
+LY 106
+John Delaney
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3117
+030-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+LY 106
+John Delaney
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3118
+040-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+LY 106
+John Delaney
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3119
+810-LEC
+Regular
+TBA
+TBA
+Christine Saidi
+08/29/2016 - 12/17/2016
+Open
+HIS   25 - U.S. Formative Years And The Federal Republic HIS 25 - U.S. Formative Years And The Federal Republic 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3126
+010-LEC
+Regular
+TuTh 8:00AM - 9:20AM
+LY 106
+Michael Gabriel
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3127
+020-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+LY 106
+Michael Gabriel
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3122
+030-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+LY 109
+Michael Gambone
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3391
+119-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+LY 108
+Michael Gambone
+08/29/2016 - 12/17/2016
+Closed
+Topic: HONORS
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3392
+129-LEC
+Regular
+TuTh 8:00AM - 9:20AM
+LY 108
+Michael Gambone
+08/29/2016 - 12/17/2016
+Closed
+Topic: HONORS
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3393
+139-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+LY 202
+Robert Reynolds
+08/29/2016 - 12/17/2016
+Closed
+Topic: HONORS
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3394
+149-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+LY 108
+Robert Reynolds
+08/29/2016 - 12/17/2016
+Closed
+Topic: HONORS
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3124
+230-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+LY 204
+Patricia Derr
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3125
+240-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+LY 109
+Patricia Derr
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3149
+250-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+LY 225
+Patricia Derr
+08/29/2016 - 12/17/2016
+Closed
+HIS   26 - History of The United States: The Emergence of Modern America HIS 26 - History of The United States: The Emergence of Modern America 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2777
+010-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+LY 109
+Patricia Kelleher
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2780
+020-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+LY 109
+Patricia Kelleher
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3132
+030-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+LY 108
+Patricia Kelleher
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3568
+040-LEC
+Regular
+TuTh 8:00AM - 9:20AM
+OM 287
+Maria Sanelli
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3133
+210-LEC
+Regular
+MoWeFr 8:00AM - 8:50AM
+LY 108
+Louis Rodriquez
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3134
+220-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+LY 108
+Louis Rodriquez
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3135
+230-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+OM 288
+Maria Sanelli
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3153
+240-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+LY 109
+Louis Rodriquez
+08/29/2016 - 12/17/2016
+Closed
+HIS   72 - Selected Topics in History HIS 72 - Selected Topics in History 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3435
+020-LEC
+Regular
+TuTh 4:30PM - 5:50PM
+LY 106
+Eric Johnson
+08/29/2016 - 12/17/2016
+Open
+Topic: BLACK DEATH PLAGUE PILLAGE 14C
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3436
+030-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+DF 103
+Andrew Arnold
+08/29/2016 - 12/17/2016
+Open
+Topic: AMER CREED: DEC IND & EQUAL US
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3437
+040-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+DF 103
+Andrew Arnold
+08/29/2016 - 12/17/2016
+Open
+Topic: AMER CREED: DEC IND & EQUAL US
+HIS  121 - American Environmental History HIS 121 - American Environmental History 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3114
+10-LEC
+Regular
+MoWeFr 8:00AM - 8:50AM
+DF 212
+Robert Reynolds
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3115
+20-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+DF 212
+Robert Reynolds
+08/29/2016 - 12/17/2016
+Open
+HIS  131CD - History of Latin America: Colonial HIS 131CD - History of Latin America: Colonial 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3438
+010-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+LY 228
+Michael Gambone
+08/29/2016 - 12/17/2016
+Open
+HIS  150CD - Minorities in American History HIS 150CD - Minorities in American History 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3136
+010-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+LY 109
+Louis Rodriquez
+08/29/2016 - 12/17/2016
+Open
+HIS  204CDCT - Women in African History HIS 204CDCT - Women in African History 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3139
+010-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+LY 108
+Christine Saidi
+08/29/2016 - 12/17/2016
+Open
+HIS  210 - History of Russia and the Soviet Union HIS 210 - History of Russia and the Soviet Union 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3140
+010-LEC
+Regular
+MoWe 3:00PM - 4:20PM
+LY 109
+Douglas Lea
+08/29/2016 - 12/17/2016
+Closed
+HIS  227 - History of the Holocaust HIS 227 - History of the Holocaust 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3141
+010-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+LY 106
+John Delaney
+08/29/2016 - 12/17/2016
+Closed
+HIS  240CD - African American History HIS 240CD - African American History 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3142
+010-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+LY 109
+Patricia Derr
+08/29/2016 - 12/17/2016
+Open
+HIS  244CD - Immigration and Ethnicity in American History HIS 244CD - Immigration and Ethnicity in American History 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3143
+010-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+LY 108
+Patricia Kelleher
+08/29/2016 - 12/17/2016
+Closed
+HIS  261CDWI - History of Africa Since 1800 HIS 261CDWI - History of Africa Since 1800 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3144
+010-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+LY 108
+Christine Saidi
+08/29/2016 - 12/17/2016
+Closed
+HIS  311 - Revolutionary America HIS 311 - Revolutionary America 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3145
+010-LEC
+Regular
+Mo 3:00PM - 5:50PM
+LY 108
+Michael Gabriel
+08/29/2016 - 12/17/2016
+Open
+HIS  378CTWI - Seminar in Historical Methods HIS 378CTWI - Seminar in Historical Methods 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3147
+010-LEC
+Regular
+Tu 3:00PM - 5:50PM
+LY 108
+John Stanley
+08/29/2016 - 12/17/2016
+Closed
+HIS  379 - Independent Study in History HIS 379 - Independent Study in History 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3685
+960-LEC
+Regular
+TBA
+TBA
+Christine Saidi
+08/29/2016 - 12/17/2016
+Closed
+HIS  380WI - Senior Seminar in History HIS 380WI - Senior Seminar in History 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3148
+010-LEC
+Regular
+We 3:00PM - 5:50PM
+LY 108
+Michael Gabriel
+08/29/2016 - 12/17/2016
+Closed

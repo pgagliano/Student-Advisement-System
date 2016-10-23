@@ -1,0 +1,567 @@
+FAS  230 - Works on Paper Studio I FAS 230 - Works on Paper Studio I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3459
+010-LEC
+Regular
+TuTh 3:00PM - 5:50PM
+SH 123
+Matthew Daub
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3523
+990-LEC
+Regular
+TBA
+TBA
+Matthew Daub
+08/29/2016 - 12/17/2016
+Closed
+FAS  231 - Works on Paper Studio II FAS 231 - Works on Paper Studio II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3460
+010-LEC
+Regular
+TuTh 3:00PM - 5:50PM
+SH 123
+Matthew Daub
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+FAS  232 - Works on Paper Studio III FAS 232 - Works on Paper Studio III 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3461
+010-LEC
+Regular
+TuTh 3:00PM - 5:50PM
+SH 123
+Matthew Daub
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+FAS  233 - Works on Paper Studio IV FAS 233 - Works on Paper Studio IV 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3462
+010-LEC
+Regular
+TuTh 3:00PM - 5:50PM
+SH 123
+Matthew Daub
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+FAS  234 - Works on Paper Studio V FAS 234 - Works on Paper Studio V 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3468
+010-LEC
+Regular
+TuTh 3:00PM - 5:50PM
+SH 123
+Matthew Daub
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+FAS  235 - Works on Paper Studio VI FAS 235 - Works on Paper Studio VI 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3469
+010-LEC
+Regular
+TuTh 3:00PM - 5:50PM
+SH 123
+Matthew Daub
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+FAS  236 - Works on Paper Studio VII FAS 236 - Works on Paper Studio VII 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3470
+010-LEC
+Regular
+TuTh 3:00PM - 5:50PM
+SH 123
+Matthew Daub
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+FAS  310 - Painting Studio I FAS 310 - Painting Studio I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2059
+010-LEC
+Regular
+MoWe 3:00PM - 5:50PM
+SH 126
+Mark Mahosky
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2060
+020-LEC
+Regular
+TuTh 3:00PM - 5:50PM
+SH 126
+Harry Krizan
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+FAS  311 - Painting Studio II FAS 311 - Painting Studio II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2097
+010-LEC
+Regular
+MoWe 3:00PM - 5:50PM
+SH 126
+Mark Mahosky
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2067
+020-LEC
+Regular
+TuTh 3:00PM - 5:50PM
+SH 126
+Harry Krizan
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3521
+990-LEC
+Regular
+TBA
+TBA
+Harry Krizan
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3652
+991-LEC
+Regular
+TBA
+TBA
+Mark Mahosky
+08/29/2016 - 12/17/2016
+Closed
+FAS  312 - Painting Studio III FAS 312 - Painting Studio III 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2098
+010-LEC
+Regular
+MoWe 3:00PM - 5:50PM
+SH 126
+Mark Mahosky
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2068
+020-LEC
+Regular
+TuTh 3:00PM - 5:50PM
+SH 126
+Harry Krizan
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+FAS  313 - Painting Studio IV FAS 313 - Painting Studio IV 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2099
+010-LEC
+Regular
+MoWe 3:00PM - 5:50PM
+SH 126
+Mark Mahosky
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2069
+020-LEC
+Regular
+TuTh 3:00PM - 5:50PM
+SH 126
+Harry Krizan
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3653
+990-LEC
+Regular
+TBA
+TBA
+Mark Mahosky
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3695
+991-LEC
+Regular
+TBA
+TBA
+Harry Krizan
+08/29/2016 - 12/17/2016
+Closed
+FAS  314 - Painting Studio V FAS 314 - Painting Studio V 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2100
+010-LEC
+Regular
+MoWe 3:00PM - 5:50PM
+SH 126
+Mark Mahosky
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2070
+020-LEC
+Regular
+TuTh 3:00PM - 5:50PM
+SH 126
+Harry Krizan
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3522
+990-LEC
+Regular
+TBA
+TBA
+Harry Krizan
+08/29/2016 - 12/17/2016
+Closed
+FAS  315 - Painting Studio VI FAS 315 - Painting Studio VI 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2101
+010-LEC
+Regular
+MoWe 3:00PM - 5:50PM
+SH 126
+Mark Mahosky
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2071
+020-LEC
+Regular
+TuTh 3:00PM - 5:50PM
+SH 126
+Harry Krizan
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+FAS  321 - Drawing Studio II FAS 321 - Drawing Studio II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3639
+990-LEC
+Regular
+TBA
+TBA
+Margaret Noel
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3649
+991-LEC
+Regular
+TBA
+TBA
+James Rose
+08/29/2016 - 12/17/2016
+Closed
+FAS  340 - Printmaking Studio I FAS 340 - Printmaking Studio I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2055
+010-LEC
+Regular
+MoWe 3:00PM - 5:50PM
+SH 12G
+Evan Summer
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+FAS  341 - Printmaking Studio II FAS 341 - Printmaking Studio II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2072
+010-LEC
+Regular
+MoWe 3:00PM - 5:50PM
+SH 12G
+Evan Summer
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3509
+990-LEC
+Regular
+TBA
+TBA
+Evan Summer
+08/29/2016 - 12/17/2016
+Closed
+FAS  342 - Printmaking Studio III FAS 342 - Printmaking Studio III 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2073
+010-LEC
+Regular
+MoWe 3:00PM - 5:50PM
+SH 12G
+Evan Summer
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+FAS  343 - Printmaking Studio IV FAS 343 - Printmaking Studio IV 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2074
+010-LEC
+Regular
+MoWe 3:00PM - 5:50PM
+SH 12G
+Evan Summer
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3647
+990-LEC
+Regular
+TBA
+TBA
+Evan Summer
+08/29/2016 - 12/17/2016
+Closed
+FAS  344 - Printmaking Studio V FAS 344 - Printmaking Studio V 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2075
+010-LEC
+Regular
+MoWe 3:00PM - 5:50PM
+SH 12G
+Evan Summer
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+FAS  345 - Printmaking Studio VI FAS 345 - Printmaking Studio VI 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2076
+010-LEC
+Regular
+MoWe 3:00PM - 5:50PM
+SH 12G
+Evan Summer
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+FAS  360 - Photography Studio I FAS 360 - Photography Studio I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2053
+010-LEC
+Regular
+TuTh 12:00PM - 2:50PM
+SH 8G
+Leigh Kane
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3524
+990-LEC
+Regular
+TBA
+TBA
+Leigh Kane
+08/29/2016 - 12/17/2016
+Closed
+FAS  361 - Photography Studio II FAS 361 - Photography Studio II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2102
+010-LEC
+Regular
+TuTh 12:00PM - 2:50PM
+SH 8G
+Leigh Kane
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+FAS  362 - Photography Studio III FAS 362 - Photography Studio III 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2103
+010-LEC
+Regular
+TuTh 12:00PM - 2:50PM
+SH 8G
+Leigh Kane
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+FAS  363 - Photography Studio IV FAS 363 - Photography Studio IV 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2104
+010-LEC
+Regular
+TuTh 12:00PM - 2:50PM
+SH 8G
+Leigh Kane
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+FAS  364 - Photography Studio V FAS 364 - Photography Studio V 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2105
+010-LEC
+Regular
+TuTh 12:00PM - 2:50PM
+SH 8G
+Leigh Kane
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+FAS  365 - Photography Studio VI FAS 365 - Photography Studio VI 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2106
+010-LEC
+Regular
+TuTh 12:00PM - 2:50PM
+SH 8G
+Leigh Kane
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+FAS  370 - Sculpture Studio I FAS 370 - Sculpture Studio I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2057
+010-LEC
+Regular
+TuTh 12:00PM - 2:50PM
+SH 101
+Heather Ramsdale
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+FAS  371 - Sculpture Studio II FAS 371 - Sculpture Studio II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2087
+010-LEC
+Regular
+TuTh 12:00PM - 2:50PM
+SH 101
+Heather Ramsdale
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+FAS  372 - Sculpture Studio III FAS 372 - Sculpture Studio III 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2088
+010-LEC
+Regular
+TuTh 12:00PM - 2:50PM
+SH 101
+Heather Ramsdale
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+FAS  373 - Sculpture Studio IV FAS 373 - Sculpture Studio IV 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2089
+010-LEC
+Regular
+TuTh 12:00PM - 2:50PM
+SH 101
+Heather Ramsdale
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+FAS  374 - Sculpture Studio V FAS 374 - Sculpture Studio V 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2090
+010-LEC
+Regular
+TuTh 12:00PM - 2:50PM
+SH 101
+Heather Ramsdale
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+FAS  375 - Sculpture Studio VI FAS 375 - Sculpture Studio VI 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2091
+010-LEC
+Regular
+TuTh 12:00PM - 2:50PM
+SH 101
+Heather Ramsdale
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+FAS  380 - Lithography Studio I FAS 380 - Lithography Studio I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2061
+010-LEC
+Regular
+TuTh 3:00PM - 5:50PM
+SH 12G
+James Rose
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+FAS  381 - Lithography Studio II FAS 381 - Lithography Studio II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2092
+010-LEC
+Regular
+TuTh 3:00PM - 5:50PM
+SH 12G
+James Rose
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+FAS  382 - Lithography Studio III FAS 382 - Lithography Studio III 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2093
+010-LEC
+Regular
+TuTh 3:00PM - 5:50PM
+SH 12G
+James Rose
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+FAS  383 - Lithography Studio IV FAS 383 - Lithography Studio IV 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2094
+010-LEC
+Regular
+TuTh 3:00PM - 5:50PM
+SH 12G
+James Rose
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+FAS  384 - Lithography Studio V FAS 384 - Lithography Studio V 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2095
+010-LEC
+Regular
+TuTh 3:00PM - 5:50PM
+SH 12G
+James Rose
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+FAS  385 - Lithography Studio VI FAS 385 - Lithography Studio VI 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2096
+010-LEC
+Regular
+TuTh 3:00PM - 5:50PM
+SH 12G
+James Rose
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class

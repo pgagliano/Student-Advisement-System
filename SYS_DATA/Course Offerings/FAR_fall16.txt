@@ -1,0 +1,408 @@
+FAR   14VL - Elements of Drawing For Non-Art Majors FAR 14VL - Elements of Drawing For Non-Art Majors 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2024
+010-LEC
+Regular
+MoWe 12:00PM - 2:50PM
+SH 203
+Mark Mahosky
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2031
+020-LEC
+Regular
+TuTh 12:00PM - 2:50PM
+SH 124
+Margaret Noel
+08/29/2016 - 12/17/2016
+Closed
+FAR   15 - Drawing I FAR 15 - Drawing I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2026
+020-LEC
+Regular
+TuTh 12:00PM - 2:50PM
+SH 203
+James Rose
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2048
+030-LEC
+Regular
+MoWe 8:00AM - 10:50AM
+SH 201
+Edward O'Brien
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2032
+040-LEC
+Regular
+MoWe 12:00PM - 2:50PM
+SH 201
+Edward O'Brien
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2033
+050-LEC
+Regular
+TuTh 8:00AM - 10:50AM
+SH 124
+Margaret Noel
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3611
+060-LEC
+Regular
+MoWe 3:00PM - 5:50PM
+SH 201
+Edward O'Brien
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2025
+610-LEC
+Regular
+MoWe 6:30PM - 9:20PM
+SH 201
+Harry Krizan
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2027
+611-LEC
+Regular
+TuTh 6:30PM - 9:20PM
+SH 203
+James Rose
+08/29/2016 - 12/17/2016
+Open
+FAR   16 - Drawing II FAR 16 - Drawing II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2029
+010-LEC
+Regular
+MoWe 3:00PM - 5:50PM
+SH 123
+Matthew Daub
+08/29/2016 - 12/17/2016
+Closed
+FAR   61VL - Introduction to Darkroom Photography for Non-Art Majors FAR 61VL - Introduction to Darkroom Photography for Non-Art Majors 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3039
+010-LEC
+Regular
+TuTh 8:00AM - 10:50AM
+SH 2G
+Leigh Kane
+08/29/2016 - 12/17/2016
+Open
+FAR   62VL - Digital Photo for Non-Art Majors FAR 62VL - Digital Photo for Non-Art Majors 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2040
+010-LEC
+Regular
+MoWe 3:00PM - 5:50PM
+SH 8G
+Rose DeSiano Galjanic
+08/29/2016 - 12/17/2016
+Closed
+FAR  111 - Introduction to Painting FAR 111 - Introduction to Painting 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2022
+010-LEC
+Regular
+MoWe 8:00AM - 10:50AM
+SH 126
+Mark Mahosky
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2023
+020-LEC
+Regular
+TuTh 12:00PM - 2:50PM
+SH 126
+Harry Krizan
+08/29/2016 - 12/17/2016
+Open
+FAR  131 - Introduction to Watercolor FAR 131 - Introduction to Watercolor 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2028
+010-LEC
+Regular
+TuTh 12:00PM - 2:50PM
+SH 123
+Matthew Daub
+08/29/2016 - 12/17/2016
+Open
+FAR  141 - Introduction to Printmaking FAR 141 - Introduction to Printmaking 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2014
+010-LEC
+Regular
+MoWe 12:00PM - 2:50PM
+SH 12G
+Evan Summer
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2015
+020-LEC
+Regular
+TuTh 12:00PM - 2:50PM
+SH 12G
+Evan Summer
+08/29/2016 - 12/17/2016
+Open
+FAR  151 - Introduction to Life Drawing FAR 151 - Introduction to Life Drawing 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2020
+010-LEC
+Regular
+MoWe 3:00PM - 5:50PM
+SH 124
+Margaret Noel
+08/29/2016 - 12/17/2016
+Closed
+FAR  161 - Introduction to Photography - Darkroom FAR 161 - Introduction to Photography - Darkroom 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2011
+010-LEC
+Regular
+MoWe 3:00PM - 5:50PM
+SH 2G
+Leigh Kane
+08/29/2016 - 12/17/2016
+Closed
+FAR  162 - Introduction to Photography Digital FAR 162 - Introduction to Photography Digital 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2010
+020-LEC
+Regular
+MoWe 6:00PM - 8:50PM
+SH 8G
+Rose DeSiano Galjanic
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2039
+040-LEC
+Regular
+TuTh 8:00AM - 10:50AM
+SH 8G
+Danny Talley
+08/29/2016 - 12/17/2016
+Closed
+FAR  171 - Introduction to Sculpture FAR 171 - Introduction to Sculpture 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2018
+010-LEC
+Regular
+TuTh 3:00PM - 5:50PM
+SH 101
+Heather Ramsdale
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2019
+020-LEC
+Regular
+MoWe 3:00PM - 5:50PM
+SH 101
+Heather Ramsdale
+08/29/2016 - 12/17/2016
+Closed
+FAR  182CP - Introduction to Digital Media FAR 182CP - Introduction to Digital Media 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2016
+010-LEC
+Regular
+TuTh 3:00PM - 5:50PM
+SH 8G
+Rebekkah Palov
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3377
+020-LEC
+Regular
+TuTh 12:00PM - 2:50PM
+SH 11G
+In Mi Lee
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+FAR  337 - Themes and Practices in Photography FAR 337 - Themes and Practices in Photography 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2012
+010-LEC
+Regular
+MoWe 9:00AM - 11:50AM
+SH 8G
+Danny Talley
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3045
+020-LEC
+Regular
+MoWe 12:00PM - 2:50PM
+SH 8G
+Rose DeSiano Galjanic
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+FAR  338 - Themes and Practices in Photography FAR 338 - Themes and Practices in Photography 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2034
+010-LEC
+Regular
+MoWe 9:00AM - 11:50AM
+SH 8G
+Danny Talley
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3037
+020-LEC
+Regular
+MoWe 12:00PM - 2:50PM
+SH 8G
+Rose DeSiano Galjanic
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+FAR  339 - Themes and Practices in Photography FAR 339 - Themes and Practices in Photography 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2035
+010-LEC
+Regular
+MoWe 9:00AM - 11:50AM
+SH 8G
+Danny Talley
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3038
+020-LEC
+Regular
+MoWe 12:00PM - 2:50PM
+SH 8G
+Rose DeSiano Galjanic
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+FAR  350 - Video Art and Motion Graphics FAR 350 - Video Art and Motion Graphics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3185
+610-LEC
+Regular
+MoWe 6:30PM - 9:20PM
+SH 11G
+Rebekkah Palov
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3645
+990-LEC
+Regular
+TBA
+TBA
+Rebekkah Palov
+08/29/2016 - 12/17/2016
+Closed
+FAR  377 - Independent Study: Art Studio I FAR 377 - Independent Study: Art Studio I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3543
+960-LEC
+Regular
+TBA
+TBA
+Leigh Kane
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3548
+961-LEC
+Regular
+TBA
+TBA
+Harry Krizan
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3662
+962-LEC
+Regular
+TBA
+TBA
+Margaret Noel
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3684
+963-LEC
+Regular
+TBA
+TBA
+Heather Ramsdale
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3692
+964-LEC
+Regular
+TBA
+TBA
+Mark Mahosky
+08/29/2016 - 12/17/2016
+Closed
+FAR  378 - Independent Study: Art Studio II FAR 378 - Independent Study: Art Studio II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3664
+960-LEC
+Regular
+TBA
+TBA
+Margaret Noel
+08/29/2016 - 12/17/2016
+Closed
+FAR  379 - Independent Study: Art Studio III FAR 379 - Independent Study: Art Studio III 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3683
+960-LEC
+Regular
+TBA
+TBA
+Heather Ramsdale
+08/29/2016 - 12/17/2016
+Closed
+FAR  386 - Digital Sculpture FAR 386 - Digital Sculpture 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3184
+010-LEC
+Regular
+MoWe 3:00PM - 5:50PM
+SH 11G
+Rebekkah Palov
+08/29/2016 - 12/17/2016
+Open
+FAR  398CM - The Business of Art FAR 398CM - The Business of Art 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2008
+610-LEC
+Regular
+MoWe 6:30PM - 7:50PM
+SH 200
+Danny Talley
+08/29/2016 - 12/17/2016
+Open

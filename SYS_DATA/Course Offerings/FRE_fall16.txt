@@ -1,0 +1,48 @@
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1415
+010-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+DF 103
+Sylvie Dewey
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1416
+020-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+DF 103
+Sylvie Dewey
+08/29/2016 - 12/17/2016
+Open
+Collapse section FRE   12 - Elementary French II FRE 12 - Elementary French II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1417
+010-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+DF 102
+Sylvie Dewey
+08/29/2016 - 12/17/2016
+Open
+Collapse section FRE  103 - Intermediate French III FRE 103 - Intermediate French III 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3304
+010-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+DF 110
+Mary Theis
+08/29/2016 - 12/17/2016
+Open
+Collapse section FRE  104 - Intermediate French IV FRE 104 - Intermediate French IV 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1419
+010-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+DF 102
+Mary Theis
+08/29/2016 - 12/17/2016
+Open

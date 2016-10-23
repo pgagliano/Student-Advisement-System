@@ -1,0 +1,383 @@
+SPT  120 - Personal Nutrition SPT 120 - Personal Nutrition 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2267
+010-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+KY 108
+J Garman
+08/29/2016 - 12/17/2016
+Closed
+SPT  160 - Introduction to Sports Management SPT 160 - Introduction to Sports Management 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2249
+010-LEC
+Regular
+MoWeFr 8:00AM - 8:50AM
+KY 109
+Yongjae Kim
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2250
+020-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+KY 106
+Judith Smith
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2251
+030-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+KY 106
+Judith Smith
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2274
+040-LEC
+Regular
+TuTh 3:00PM - 4:20PM
+KY 108
+Staff
+08/29/2016 - 12/17/2016
+Closed
+SPT  195QL - Accounting Survey for Leisure and Sport Studies SPT 195QL - Accounting Survey for Leisure and Sport Studies 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2270
+010-LEC
+Regular
+MoWeFr 8:00AM - 8:50AM
+KY 106
+Thomas Grant
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2271
+020-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+KY 106
+Thomas Grant
+08/29/2016 - 12/17/2016
+Closed
+SPT  201 - Scientific Basis for Human Movement SPT 201 - Scientific Basis for Human Movement 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2245
+010-LEC
+Regular
+TuTh 8:00AM - 9:20AM
+KY 129
+Michelle Vaughn
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2280
+020-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+KY 129
+Michelle Vaughn
+08/29/2016 - 12/17/2016
+Closed
+SPT  205 - Sport Behavior SPT 205 - Sport Behavior 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2261
+010-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+KY 107
+Christine Lottes
+08/29/2016 - 12/17/2016
+Closed
+SPT  212CM - Sport Public Relations and Communication SPT 212CM - Sport Public Relations and Communication 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2255
+010-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+KY 107
+Soojin Kim
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2256
+020-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+KY 107
+Soojin Kim
+08/29/2016 - 12/17/2016
+Closed
+SPT  222 - Fundamentals of Coaching SPT 222 - Fundamentals of Coaching 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2254
+010-LEC
+Regular
+TuTh 8:00AM - 9:20AM
+KY 106
+Judith Smith
+08/29/2016 - 12/17/2016
+Open
+SPT  226 - History of Sport SPT 226 - History of Sport 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2266
+010-LEC
+Regular
+TuTh 8:00AM - 9:20AM
+KY 109
+J Garman
+08/29/2016 - 12/17/2016
+Open
+SPT  230 - Leadership and Team Building in Sport SPT 230 - Leadership and Team Building in Sport 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2244
+010-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+KY 107
+Lorri Engstrom
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2279
+020-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+KY 107
+Lorri Engstrom
+08/29/2016 - 12/17/2016
+Closed
+SPT  236 - Personal Selling in Sport SPT 236 - Personal Selling in Sport 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2974
+010-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+KY 109
+Staff
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2975
+020-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+KY 109
+Staff
+08/29/2016 - 12/17/2016
+Open
+SPT  260 - Principles of Sport Finance SPT 260 - Principles of Sport Finance 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2272
+010-LEC
+Regular
+TuTh 8:00AM - 9:20AM
+KY 108
+Norman Sigmond
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2273
+020-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+KY 108
+Norman Sigmond
+08/29/2016 - 12/17/2016
+Closed
+SPT  265 - Governance and Organization in Sports SPT 265 - Governance and Organization in Sports 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2264
+010-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+KY 108
+Kerri Cebula
+08/29/2016 - 12/17/2016
+Closed
+SPT  270 - Sport And Society SPT 270 - Sport And Society 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2259
+010-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+KY 109
+Staff
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3517
+020-LEC
+Regular
+We 3:00PM - 5:50PM
+KY 107
+Christine Lottes
+08/29/2016 - 12/17/2016
+Closed
+SPT  285 - Sport Marketing and Sponsorship SPT 285 - Sport Marketing and Sponsorship 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2257
+010-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+KY 109
+Soojin Kim
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2258
+020-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+KY 109
+Soojin Kim
+08/29/2016 - 12/17/2016
+Open
+SPT  290WI - Fundamentals of Sports Law SPT 290WI - Fundamentals of Sports Law 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2262
+010-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+KY 107
+Kerri Cebula
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2263
+020-LEC
+Regular
+TuTh 3:00PM - 4:20PM
+KY 107
+Kerri Cebula
+08/29/2016 - 12/17/2016
+Open
+SPT  305 - Emergency Care and Risk Management SPT 305 - Emergency Care and Risk Management 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2247
+010-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+KY 129
+Duane Crider
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2248
+020-LEC
+Regular
+TuTh 3:00PM - 4:20PM
+KY 129
+Duane Crider
+08/29/2016 - 12/17/2016
+Open
+SPT  312 - Intercollegiate Athletic Administration SPT 312 - Intercollegiate Athletic Administration 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3412
+010-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+KY 108
+Kerri Cebula
+08/29/2016 - 12/17/2016
+Open
+SPT  320CT - Sport Ethics SPT 320CT - Sport Ethics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2971
+010-LEC
+Regular
+TuTh 8:00AM - 9:20AM
+KY 107
+Christine Lottes
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2972
+020-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+KY 107
+Christine Lottes
+08/29/2016 - 12/17/2016
+Closed
+SPT  330WI - Event and Facility Management SPT 330WI - Event and Facility Management 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3409
+010-LEC
+Regular
+MoWeFr 8:00AM - 8:50AM
+KY 108
+J Garman
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3410
+020-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+KY 108
+J Garman
+08/29/2016 - 12/17/2016
+Closed
+SPT  340 - Coaching Internship SPT 340 - Coaching Internship 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3558
+970-LEC
+Regular
+TBA
+TBA
+Judith Smith
+08/29/2016 - 12/17/2016
+Closed
+SPT  345CD - Sports in the Global Marketplace SPT 345CD - Sports in the Global Marketplace 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2252
+010-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+KY 109
+Yongjae Kim
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2253
+020-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+KY 109
+Yongjae Kim
+08/29/2016 - 12/17/2016
+Open
+SPT  350 - Internship In Sport Management SPT 350 - Internship In Sport Management 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3616
+970-LEC
+Regular
+TBA
+TBA
+Yongjae Kim
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3617
+971-LEC
+Regular
+TBA
+TBA
+Elizabeth Rogol
+08/29/2016 - 12/17/2016
+Closed
+SPT  366 - Personal Fitness Trainer SPT 366 - Personal Fitness Trainer 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2246
+010-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+KY 129
+Duane Crider
+08/29/2016 - 12/17/2016
+Open

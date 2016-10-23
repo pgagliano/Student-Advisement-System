@@ -1,0 +1,405 @@
+CFT   21VL - Ceramics I for Non Majors CFT 21VL - Ceramics I for Non Majors 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2977
+020-LEC
+Regular
+TuTh 3:00PM - 5:50PM
+SH 108
+George Graf
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2976
+610-LEC
+Regular
+MoWe 6:00PM - 8:50PM
+SH 108
+Gwendolyn Yoppolo
+08/29/2016 - 12/17/2016
+Closed
+CFT   31VL - Weaving for Non Majors CFT 31VL - Weaving for Non Majors 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1797
+610-LEC
+Regular
+MoWe 6:00PM - 8:50PM
+SH 121
+Staff
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+CFT   41VL - Textiles and Material Studies for Non Majors CFT 41VL - Textiles and Material Studies for Non Majors 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1791
+010-LEC
+Regular
+TuTh 12:00PM - 2:50PM
+SH 121
+Staff
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+CFT   51VL - Wood Design for Non Majors CFT 51VL - Wood Design for Non Majors 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1800
+010-LEC
+Regular
+MoWe 3:00PM - 5:50PM
+SH 103
+David Rogers
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+CFT   61VL - Fine Metals for Non Majors CFT 61VL - Fine Metals for Non Majors 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1788
+010-LEC
+Regular
+TuTh 12:00PM - 2:50PM
+SH 107
+Jung Park
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3475
+020-LEC
+Regular
+TuTh 3:00PM - 5:50PM
+SH 107
+Jung Park
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+CFT  121VL - Ceramics I CFT 121VL - Ceramics I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1785
+010-LEC
+Regular
+TuTh 8:00AM - 10:50AM
+SH 108
+Gwendolyn Yoppolo
+08/29/2016 - 12/17/2016
+Open
+CFT  131VL - Weaving I CFT 131VL - Weaving I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1798
+610-LEC
+Regular
+MoWe 6:00PM - 8:50PM
+SH 121
+Staff
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+CFT  141VL - Textiles and Material Studies I CFT 141VL - Textiles and Material Studies I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1792
+010-LEC
+Regular
+TuTh 12:00PM - 2:50PM
+SH 121
+Staff
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+CFT  151VL - Wood Design I CFT 151VL - Wood Design I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1801
+010-LEC
+Regular
+MoWe 3:00PM - 5:50PM
+SH 103
+David Rogers
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+CFT  161VL - Fine Metals I CFT 161VL - Fine Metals I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1790
+010-LEC
+Regular
+TuTh 12:00PM - 2:50PM
+SH 107
+Jung Park
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3476
+020-LEC
+Regular
+TuTh 3:00PM - 5:50PM
+SH 107
+Jung Park
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+CFT  321CT - Ceramics Studio I CFT 321CT - Ceramics Studio I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1778
+010-LEC
+Regular
+MoWe 3:00PM - 5:50PM
+SH 108
+Gwendolyn Yoppolo
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+CFT  322 - Ceramics Studio II CFT 322 - Ceramics Studio II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1759
+010-LEC
+Regular
+MoWe 3:00PM - 5:50PM
+SH 108
+Gwendolyn Yoppolo
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+CFT  323 - Ceramics Studio III CFT 323 - Ceramics Studio III 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1760
+010-LEC
+Regular
+MoWe 3:00PM - 5:50PM
+SH 108
+Gwendolyn Yoppolo
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+CFT  324 - Ceramics Studio IV CFT 324 - Ceramics Studio IV 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1761
+010-LEC
+Regular
+MoWe 3:00PM - 5:50PM
+SH 108
+Gwendolyn Yoppolo
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+CFT  325 - Ceramics Studio V CFT 325 - Ceramics Studio V 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1762
+010-LEC
+Regular
+MoWe 3:00PM - 5:50PM
+SH 108
+Gwendolyn Yoppolo
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+CFT  331CT - Weaving Studio I CFT 331CT - Weaving Studio I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1779
+010-LEC
+Regular
+MoWe 12:00PM - 2:50PM
+SH 121
+Staff
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+CFT  332 - Weaving Studio II CFT 332 - Weaving Studio II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1763
+010-LEC
+Regular
+MoWe 12:00PM - 2:50PM
+SH 121
+Staff
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+CFT  333 - Weaving Studio III CFT 333 - Weaving Studio III 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1764
+010-LEC
+Regular
+MoWe 12:00PM - 2:50PM
+SH 121
+Staff
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+CFT  334 - Weaving Studio IV CFT 334 - Weaving Studio IV 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1765
+010-LEC
+Regular
+MoWe 12:00PM - 2:50PM
+SH 121
+Staff
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+CFT  335 - Weaving Studio V CFT 335 - Weaving Studio V 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1766
+010-LEC
+Regular
+MoWe 12:00PM - 2:50PM
+SH 121
+Staff
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+CFT  341CT - Textiles Studio I CFT 341CT - Textiles Studio I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1780
+010-LEC
+Regular
+MoWe 12:00PM - 2:50PM
+SH 121
+Staff
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+CFT  342 - Textiles Studio II CFT 342 - Textiles Studio II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1767
+010-LEC
+Regular
+MoWe 12:00PM - 2:50PM
+SH 121
+Staff
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+CFT  343 - Textiles Studio III CFT 343 - Textiles Studio III 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1768
+010-LEC
+Regular
+MoWe 12:00PM - 2:50PM
+SH 121
+Staff
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+CFT  344 - Textiles Studio IV CFT 344 - Textiles Studio IV 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1769
+010-LEC
+Regular
+MoWe 12:00PM - 2:50PM
+SH 121
+Staff
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+CFT  345 - Textiles Studio V CFT 345 - Textiles Studio V 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1770
+010-LEC
+Regular
+MoWe 12:00PM - 2:50PM
+SH 121
+Staff
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+CFT  361CT - Fine Metals Studio I CFT 361CT - Fine Metals Studio I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1781
+010-LEC
+Regular
+MoWe 12:00PM - 2:50PM
+SH 107
+Jung Park
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+CFT  362 - Fine Metals Studio II CFT 362 - Fine Metals Studio II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1771
+010-LEC
+Regular
+MoWe 12:00PM - 2:50PM
+SH 107
+Jung Park
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+CFT  363 - Fine Metals Studio III CFT 363 - Fine Metals Studio III 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1772
+010-LEC
+Regular
+MoWe 12:00PM - 2:50PM
+SH 107
+Jung Park
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+CFT  364 - Fine Metals Studio IV CFT 364 - Fine Metals Studio IV 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1773
+010-LEC
+Regular
+MoWe 12:00PM - 2:50PM
+SH 107
+Jung Park
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+CFT  365 - Fine Metals Studio V CFT 365 - Fine Metals Studio V 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1774
+010-LEC
+Regular
+MoWe 12:00PM - 2:50PM
+SH 107
+Jung Park
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+CFT  377 - Independent  Study: Craft Studio I CFT 377 - Independent  Study: Craft Studio I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3541
+960-LEC
+Regular
+TBA
+TBA
+Staff
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3547
+961-LEC
+Regular
+TBA
+TBA
+Leigh Kane
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3691
+962-LEC
+Regular
+TBA
+TBA
+Jung Park
+08/29/2016 - 12/17/2016
+Closed
+CFT  379 - Independent  Study: Craft Studio III CFT 379 - Independent  Study: Craft Studio III 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3670
+960-LEC
+Regular
+TBA
+TBA
+Michael Radyk
+08/29/2016 - 12/17/2016
+Closed
+CFT  399 - Student Exhibition CFT 399 - Student Exhibition 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1775
+010-LEC
+Regular
+TBA
+TBA
+David Rogers
+08/29/2016 - 12/17/2016
+Open

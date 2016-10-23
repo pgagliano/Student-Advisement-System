@@ -1,0 +1,170 @@
+10
+Professional Orientation
+15
+College of Education: First Year Seminar
+100CT
+Perspectives on American Education
+101CTWI
+Teaching Pre-K-8: An Exploration and Investigation
+120CD
+Hip Hop and Multicultural Education
+150CD
+Meeting the Instructional Needs of English Language Learners
+200
+Student Activities
+225
+The Role of the Teacher in Guidance Services
+228
+Women in Education
+230
+History Of Education
+240
+Philosophy Of Education
+245
+Communication Disorders and the Classroom Teacher
+250
+Recent Trends In Amer Ed
+260
+School and Community
+271
+Driver Ed & Train
+272
+Gen Safety Ed
+273
+Orgadm Safety Ed
+274
+Matlmeth Safe Ed
+326
+Introduction to Middle Level Education
+330
+Introduction To The Research Process
+335
+Urban Seminar: Field-Based Multicultural Education
+350
+Diagnostic and Remedial Reading
+392
+Managing an Inclusive Classroom
+395
+Honors Independent Study/Thesis
+411
+Methods for Teaching Foreign Languages to Early Second Language Learners
+426
+Brain-Compatible Teaching
+427
+Instructional and Assessment Design for PA ESL Certification
+428
+Cultural Awareness/Sensitivity for ESL/ELL Program Specialists
+429
+Policies, Protocols, and Practices for PA ESL Programs
+434
+Instructional Methods, Materials, and Assessments for ELL/ESL Populations
+435
+English Language Acquisition and Awareness for ELL/ESL Populations
+450
+Foundations in Science, Technology, Engineering & Mathematics (STEM) Education
+452
+Science, Technology, Engineering, and Mathematics (STEM) Education Pedagogy
+454
+Science, Technology, Engineering, and Mathematics (STEM)Education Skills Application and Assessment
+456
+Science, Technology, Engineering, and Mathematics (STEM) Education Learning Seminar
+490
+Teacher Intern
+491
+Tutoring Methods and Strategies for Literacy Volunteers
+496
+Multicultural Education
+500
+Methods of Research
+502
+Seminar in Research Foundations Pertinent to Reading
+503
+Thesis
+504
+Literacy Curriculum and Instruction: PreK-3
+506
+Literacy Curriculum and Instruction: 4-8
+513
+Literacy Curriculum and Instruction: Adolescent to High School
+514
+The Reading Specialist and Intensified Literacy Instruction
+515
+Creating Learning Materials
+517
+Relating the Arts to Education
+518
+Strategies for Outdoor Education
+521
+Methods of Research in Biology
+523
+Assessment: Issues and Concerns in a Standards Aligned System
+525
+The Gifted Student: Alternatives and Approaches
+526
+Data Driven Decision Making
+527
+Foundations of Urban Education
+528
+Student Diversity and Critical Pedagogy
+532
+Education Exploration
+533
+Social Interpretations of Education
+535
+Major Philosophies of Education
+537
+Teacher Effectiveness: An Analysis of Research
+541
+Supervision and Finance
+542
+Academy for the Mentoring of Teachers: Cooperating, Professional Semester, and Field Teachers
+543
+Methods of Creative Education
+546
+Differentiated Instruction
+550
+Teaching Reading and Writing Across the Curriculum
+553
+Psychological Bases of Reading Instruction
+559
+Topics in Reading Instruction
+561
+Teacher's Workshop in Folklore at the Kutztown German-American Festival
+562
+School Law
+563
+Writing Our Own Stories
+564
+Foundation of the Middle Level Learner
+565
+Special Topics in Education
+568
+Middle Level Curriculum and Instruction
+573
+Stress Management for the Classroom Teacher
+574
+Assessment of Reading: Clinical Practicum in Reading Diagnosis
+576
+Practicum in Reading Instruction: Corrective and Remedial
+577
+Leadership for Reading Educators
+578
+Comparative Education: An Analysis of International Education Systems
+579
+Practicum in Literacy Instruction: Struggling Readers and Writers
+580
+Independent Study: Secondary Education
+590
+Internship in Supervision
+591
+Methods of Research
+592
+Intensive Clinical Experience
+593
+Internship
+594
+Internship II
+597
+Change in Education
+599
+School Leadership in a Diverse Society

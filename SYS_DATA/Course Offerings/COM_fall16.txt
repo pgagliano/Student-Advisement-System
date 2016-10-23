@@ -1,0 +1,802 @@
+COM   10 - Fundamentals of Oral Communication COM 10 - Fundamentals of Oral Communication 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3256
+010-LEC
+Regular
+MoWeFr 8:00AM - 8:50AM
+LC 123
+Roberta Chevrette
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3257
+011-LEC
+Regular
+MoWeFr 8:00AM - 8:50AM
+LC 232
+Elizabeth Emmert
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3283
+019-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+BK 103
+Jermaine Martinez
+08/29/2016 - 12/17/2016
+Closed
+Topic: HONORS
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3258
+020-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+LC 113B
+Tiffany Ironside
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3259
+021-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+LC 126
+Mike Young
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3260
+022-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+LC 117
+Staff
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3261
+023-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+LC 123
+Roberta Chevrette
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3262
+024-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+LC 232
+Elizabeth Emmert
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3263
+025-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+LC 113C
+Jermaine Martinez
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3264
+030-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+LC 113B
+Tiffany Ironside
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3265
+031-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+LC 126
+Mike Young
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3266
+032-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+LC 117
+Megan O'Byrne
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3267
+033-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+LC 113C
+Jermaine Martinez
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3268
+040-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+LC 117
+Ronald Grapsy
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3269
+041-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+LC 126
+Roberta Chevrette
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3270
+042-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+LC 232
+Elizabeth Emmert
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3271
+050-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+LC 126
+Tiffany Ironside
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3272
+051-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+LC 117
+Mike Young
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3274
+060-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+LC 126
+Tiffany Ironside
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3275
+061-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+LC 117
+Mike Young
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3276
+062-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+LC 232
+Megan O'Byrne
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3277
+063-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+BK 103
+Jermaine Martinez
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3278
+070-LEC
+Regular
+MoWe 1:00PM - 2:20PM
+BK 217
+Tiffany Cresswell-Yeager
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3279
+080-LEC
+Regular
+MoWeFr 2:00PM - 2:50PM
+LC 232
+Theresa Shaton
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3280
+081-LEC
+Regular
+MoWeFr 2:00PM - 2:50PM
+LC 236
+Staff
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3281
+082-LEC
+Regular
+MoWeFr 2:00PM - 2:50PM
+LC 117
+Roberta Chevrette
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3282
+083-LEC
+Regular
+MoWeFr 2:00PM - 2:50PM
+LC 113B
+Elizabeth Emmert
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3284
+110-LEC
+Regular
+MoWeFr 3:00PM - 3:50PM
+LC 232
+Theresa Shaton
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3285
+120-LEC
+Regular
+MoWe 3:30PM - 4:50PM
+LC 238
+Deryl Johnson
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3286
+130-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+LC 238
+Robert Smith
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3287
+140-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+LC 232
+Robert Smith
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3290
+160-LEC
+Regular
+TuTh 3:00PM - 4:20PM
+LC 232
+Robert Smith
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3291
+161-LEC
+Regular
+TuTh 3:00PM - 4:20PM
+LC 238
+Staff
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3292
+170-LEC
+Regular
+TuTh 4:30PM - 5:50PM
+LC 238
+Tiffany Cresswell-Yeager
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3518
+180-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+LC 117
+Ronald Grapsy
+08/29/2016 - 12/17/2016
+Closed
+COM  130 - Interpersonal Communication COM 130 - Interpersonal Communication 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3427
+040-LEC
+Regular
+TuTh 3:00PM - 4:20PM
+LC 113C
+Claire Van Ens
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3428
+810-LEC
+Regular
+TBA
+TBA
+Diana Ebersole
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3429
+811-LEC
+Regular
+TBA
+TBA
+Diana Ebersole
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+COM  140 - Introduction to Communication Studies COM 140 - Introduction to Communication Studies 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3208
+010-LEC
+Regular
+MoWe 11:00AM - 12:20PM
+LC 238
+Lisa Weckerle
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3209
+030-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+LC 126
+Yuxia Qian
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3422
+040-LEC
+Regular
+MoWe 12:30PM - 1:50PM
+LC 113B
+Yuxia Qian
+08/29/2016 - 12/17/2016
+Closed
+COM  151 - Voice and Diction COM 151 - Voice and Diction 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3211
+010-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+LC 232
+Theresa Shaton
+08/29/2016 - 12/17/2016
+Closed
+COM  170 - An Introduction to Public Relations COM 170 - An Introduction to Public Relations 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3213
+010-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+LC 123
+Andrea Mitnick
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3214
+020-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+LC 113C
+Andrea Mitnick
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3212
+810-LEC
+Regular
+TBA
+TBA
+Emily Cripe
+08/29/2016 - 12/17/2016
+Closed
+COM  201 - Storytelling I COM 201 - Storytelling I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3215
+010-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+LC 135 THEATRE
+Deryl Johnson
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3216
+020-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+LC 135 THEATRE
+Deryl Johnson
+08/29/2016 - 12/17/2016
+Closed
+COM  205CMCT - Argumentation and Debate COM 205CMCT - Argumentation and Debate 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3217
+010-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+LC 113C
+Theresa Shaton
+08/29/2016 - 12/17/2016
+Closed
+COM  210CT - Persuasion COM 210CT - Persuasion 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3218
+010-LEC
+Regular
+MoWe 2:00PM - 3:20PM
+LC 238
+Megan O'Byrne
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3219
+020-LEC
+Regular
+TuTh 3:00PM - 4:20PM
+LC 123
+Megan O'Byrne
+08/29/2016 - 12/17/2016
+Open
+COM  212WICT - Introduction to Mass Communications COM 212WICT - Introduction to Mass Communications 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3198
+010-LEC
+Regular
+MoWe 2:00PM - 3:20PM
+LC 135 THEATRE
+Angela Cirucci
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3199
+020-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+LC 135 THEATRE
+Keith Massie
+08/29/2016 - 12/17/2016
+Open
+COM  215CM - Small Group Communication COM 215CM - Small Group Communication 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3220
+010-LEC
+Regular
+MoWe 11:00AM - 12:20PM
+LC 113B
+Yuxia Qian
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3221
+020-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+LC 236
+Yuxia Qian
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3222
+030-LEC
+Regular
+TuTh 3:00PM - 4:20PM
+LC 236
+Tiffany Cresswell-Yeager
+08/29/2016 - 12/17/2016
+Closed
+COM  216CDCM - Performance of Literature COM 216CDCM - Performance of Literature 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3223
+010-LEC
+Regular
+MoWe 12:30PM - 1:50PM
+LC 135 THEATRE
+Lisa Weckerle
+08/29/2016 - 12/17/2016
+Open
+COM  235 - Public Relations Cases and Campaigns COM 235 - Public Relations Cases and Campaigns 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3224
+010-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+LC 117
+Andrea Mitnick
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3225
+020-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+LC 117
+Andrea Mitnick
+08/29/2016 - 12/17/2016
+Open
+COM  240CTWI - Survey of Communication Theory COM 240CTWI - Survey of Communication Theory 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3226
+010-LEC
+Regular
+MoWe 12:30PM - 1:50PM
+LC 123
+Emily Cripe
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3228
+030-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+LC 106
+Emily Cripe
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3421
+040-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+LC 123
+Mary Eicholtz
+08/29/2016 - 12/17/2016
+Closed
+COM  241 - Public Relations: Processes and Techniques COM 241 - Public Relations: Processes and Techniques 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3418
+010-LEC
+Regular
+MoWe 12:30PM - 1:50PM
+LC 113C
+Joseph Harasta
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3419
+020-LEC
+Regular
+MoWe 3:00PM - 4:20PM
+LC 236
+Emily Cripe
+08/29/2016 - 12/17/2016
+Open
+COM  248CDCM - Nonverbal Communication COM 248CDCM - Nonverbal Communication 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3231
+010-LEC
+Regular
+MoWe 2:00PM - 3:20PM
+LC 123
+Diana Ebersole
+08/29/2016 - 12/17/2016
+Closed
+COM  271 - Sexualities and Communication in Everyday Life COM 271 - Sexualities and Communication in Everyday Life 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3233
+010-LEC
+Regular
+MoWe 2:00PM - 3:20PM
+LC 113C
+Deryl Johnson
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+COM  285 - Gender Communication COM 285 - Gender Communication 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3234
+019-LEC
+Regular
+MoWe 11:00AM - 12:20PM
+HH 3G
+Claire Van Ens
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+COM  295 - Popular Culture COM 295 - Popular Culture 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3235
+010-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+LC 238
+Lisa Weckerle
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3236
+020-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+LC 238
+Lisa Weckerle
+08/29/2016 - 12/17/2016
+Closed
+COM  310 - The Rhetoric of Citizenship COM 310 - The Rhetoric of Citizenship 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3420
+010-LEC
+Regular
+MoWe 12:30PM - 1:50PM
+LC 236
+Ronald Grapsy
+08/29/2016 - 12/17/2016
+Open
+COM  319CT - Integrated Marketing Communication Concepts and Practices COM 319CT - Integrated Marketing Communication Concepts and Practices 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3240
+810-LEC
+Regular
+TBA
+TBA
+Joseph Harasta
+08/29/2016 - 12/17/2016
+Closed
+COM  340CTWI - Communication Research and Writing COM 340CTWI - Communication Research and Writing 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3243
+010-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+LC 225
+Keith Massie
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3245
+030-LEC
+Regular
+MoWe 2:00PM - 3:20PM
+LC 225
+Keith Massie
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3415
+050-LEC
+Regular
+TuTh 3:00PM - 4:20PM
+LC 225
+Diana Ebersole
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3416
+060-LEC
+Regular
+MoWe 12:30PM - 1:50PM
+LC 225
+Keith Massie
+08/29/2016 - 12/17/2016
+Closed
+COM  345 - Relational Communication COM 345 - Relational Communication 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3247
+010-LEC
+Regular
+MoWe 11:00AM - 12:20PM
+LC 123
+Diana Ebersole
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3450
+019-LEC
+Regular
+MoWe 11:00AM - 12:20PM
+LC 123
+Diana Ebersole
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+COM  350CT - Leadership: A Communication Perspective COM 350CT - Leadership: A Communication Perspective 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3249
+010-LEC
+Regular
+MoWe 3:30PM - 4:50PM
+LC 126
+Tiffany Cresswell-Yeager
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+COM  355CM - New Media and Communication COM 355CM - New Media and Communication 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3229
+010-LEC
+Regular
+MoWe 11:00AM - 12:20PM
+LC 225
+Angela Cirucci
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3230
+020-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+LC 225
+Angela Cirucci
+08/29/2016 - 12/17/2016
+Closed
+COM  360 - The Digital Self COM 360 - The Digital Self 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3455
+010-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+LC 225
+Angela Cirucci
+08/29/2016 - 12/17/2016
+Open
+COM  375 - Communication Training and Development COM 375 - Communication Training and Development 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3250
+010-LEC
+Regular
+Mo 3:30PM - 6:20PM
+LC 113C
+Mary Eicholtz
+08/29/2016 - 12/17/2016
+Closed
+COM  380 - Senior Capstone Experience COM 380 - Senior Capstone Experience 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3252
+010-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+LC 113C
+Mary Eicholtz
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3253
+020-LEC
+Regular
+We 3:50PM - 6:40PM
+LC 117
+Joseph Harasta
+08/29/2016 - 12/17/2016
+Closed
+COM  390 - Communication Studies Internship COM 390 - Communication Studies Internship 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3628
+970-LEC
+Regular
+TBA
+TBA
+Emily Cripe
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3633
+971-LEC
+Regular
+TBA
+TBA
+Diana Ebersole
+08/29/2016 - 12/17/2016
+Closed

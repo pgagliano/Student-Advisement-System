@@ -1,0 +1,63 @@
+CSC  402 - Data Structures II CSC 402 - Data Structures II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1197
+101-LEC
+Regular
+TuTh 3:00PM - 4:20PM
+OM 158
+Yong Zhang
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+CSC  456 - Database Management Systems I CSC 456 - Database Management Systems I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1199
+101-LEC
+Regular
+MoWe 3:00PM - 4:20PM
+OM 299
+Yong-Sang Shim
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+CSC  480 - Selected Topics in Computer Science CSC 480 - Selected Topics in Computer Science 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2993
+201-LEC
+Regular
+Mo 6:00PM - 8:50PM
+OM 158
+Yong Zhang
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+CSC  521 - Advanced Web-Based Software Development CSC 521 - Advanced Web-Based Software Development 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1216
+501-LEC
+Regular
+Th 6:00PM - 8:50PM
+OM 158
+Daniel Spiegel
+08/29/2016 - 12/17/2016
+Open
+CSC  543 - Multiprocessing and Concurrent Programming CSC 543 - Multiprocessing and Concurrent Programming 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2994
+401-LEC
+Regular
+We 6:00PM - 8:50PM
+OM 158
+Dale Parson
+08/29/2016 - 12/17/2016
+Open
+CSC  554 - Project Management CSC 554 - Project Management 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2995
+301-LEC
+Regular
+Tu 6:00PM - 8:50PM
+OM 158
+Tauqeer Hussain
+08/29/2016 - 12/17/2016
+Open

@@ -1,0 +1,77 @@
+ITC  321CPVL - Instructional Technology in Education ITC 321CPVL - Instructional Technology in Education 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2913
+010-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+RL 16
+Andrea Harmer
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2911
+020-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+RL 16
+Michelle Sims
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2912
+030-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+RL 16
+Michelle Sims
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2914
+040-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+RL 17
+William Jefferson
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2915
+050-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+RL 17
+William Jefferson
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2916
+060-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+RL 17
+William Jefferson
+08/29/2016 - 12/17/2016
+Open
+ITC  340 - Integrating Instructional Technology ITC 340 - Integrating Instructional Technology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2942
+810-LEC
+Regular
+TBA
+TBA
+Michelle Sims
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+ITC  348 - Electronic Portfolios in Education ITC 348 - Electronic Portfolios in Education 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2935
+810-LEC
+Regular
+TBA
+TBA
+Michelle Sims
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class

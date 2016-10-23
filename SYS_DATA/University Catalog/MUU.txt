@@ -1,0 +1,28 @@
+100WI
+Overture To Music Education
+220
+Elementary Music Methods
+222VL
+Secondary Music Methods
+231
+String Techniques
+232
+Woodwind Techniques
+233
+Brass Techniques
+234
+Percussion Techniques
+236
+The Arts and Pre-K 4 Education
+299
+Music Education Lab
+320
+Instrumental Music Methods
+322
+Choral Music Methods
+390
+Clinical Experience and Practicum: Music I
+391
+Clinical Experience and Practicum: Music II
+421
+Marching Band Techniques

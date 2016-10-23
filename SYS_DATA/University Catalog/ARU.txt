@@ -1,0 +1,152 @@
+110CT
+Explorations in Art Education
+132CD
+Art in Alternative Settings
+210
+Learning in the Visual Arts: Childhood
+236
+The Arts and Pre-K 4 Education
+301
+Art Education Field Experience
+310
+Learning in the Visual Arts: Adolescence
+315
+Museum Education
+330
+Studio Thinking
+331CD
+Designing for Disabilities in Art Education Settings
+335
+Integrated Curriculum in the Art Classroom
+370
+Selected Topics In Art Education
+377
+Independent Study: Studio I
+378
+Independent Study: Studio II
+379
+Independent Study: Studio III
+380
+Independent Study: Studio IV
+390
+Clinical Experience and Practicum I
+391
+Clinical Experience and Practicum II
+392
+Field Experience in Art Education
+395
+Honors Independent Study/Thesis
+399
+Student Exhibition
+401
+Learning in the Visual Arts: Childhood
+420
+Learning in the Visual Arts: Adolescence
+430
+Studio Thinking
+440
+Visual Culture: Critical Practice and Pedagogy
+450
+Best Practices in Art Education
+451
+Best Practices in Art Education
+452
+Best Practices in Art Education
+453
+Best Practices in Art Education
+454
+Best Practices in Art Education
+455
+Best Practices in Art Education
+456
+Best Practices in Art Education
+457
+Best Practices in Art Education
+458
+Best Practices in Art Education
+459
+Best Practices in Art Education
+475
+Art Education Field Experience
+490
+Clinical Experience and Practicum I
+491
+Clinical Experience and Practicum II
+501
+Drawing
+502
+Printmaking
+503
+Painting
+504
+Graduate Sculpture
+505
+Photography
+506
+Digital Media
+507
+The Graphic Design Experience
+508
+The Advertising Design Experience
+509
+Interactive Design for the Art Education Classroom
+510
+The Sequential Illustration Experience
+515
+Womens Issues in Arts
+516
+Cross-Cultural Perspectives in Art
+517
+Art Criticism
+522
+Perspectives in Art Education
+523
+Assessment in Art Education
+525
+Current Issues in Art Education
+526
+Differentiating Instruction Through Art
+527
+Disability Awareness: Fostering Abilities in the Visual Arts
+532
+Teaching Art in Alternative Settings
+535
+Integrated Curriculum in the Art Classroom
+536
+Art Curriculum: Standards Aligned System
+541
+Teaching Contemporary Art Issues
+542
+Weaving and Textiles
+543
+Ceramics
+545
+Wood Design
+546
+Jewelry and Metalcraft
+547
+Product Design
+556
+Curricular Applications in Art Education
+560
+Leadership in Art Education
+570
+Selected Topics In Art Education
+571
+Selected Topics in Art Studio
+572
+Selected Topics: Art Seminar
+575
+Individual Problems in Art Seminar
+577
+Independent Study
+579
+Selected Topics: Crafts
+581
+The Teaching of Response to the Arts
+590
+Applied Research
+591
+Methods of Research
+595
+Graduate Seminar in Art Education

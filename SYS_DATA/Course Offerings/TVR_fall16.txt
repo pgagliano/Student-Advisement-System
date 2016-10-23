@@ -1,0 +1,251 @@
+TVR   10 - Introduction to Electronic Media TVR 10 - Introduction to Electronic Media 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1814
+010-LEC
+Regular
+MoWe 12:00PM - 1:20PM
+LC 212
+Matthew McKeague
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1815
+020-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+LC 137B
+Jennifer Suwak
+08/29/2016 - 12/17/2016
+Closed
+TVR   50 - Audio Production TVR 50 - Audio Production 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1816
+010-LEC
+Regular
+MoWe 9:00AM - 11:50AM
+LC 137B
+Leonard Barish
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1817
+020-LEC
+Regular
+MoWe 1:00PM - 3:50PM
+LC 137B
+Leonard Barish
+08/29/2016 - 12/17/2016
+Closed
+TVR   55 - Fundamentals of Video Production TVR 55 - Fundamentals of Video Production 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1818
+010-LEC
+Regular
+MoWe 12:00PM - 2:50PM
+LC 4
+Clifford Neill
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1819
+020-LEC
+Regular
+MoWe 3:00PM - 5:50PM
+LC 4
+Clifford Neill
+08/29/2016 - 12/17/2016
+Closed
+TVR   70WI - Scriptwriting for Electronic Media TVR 70WI - Scriptwriting for Electronic Media 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1820
+010-LEC
+Regular
+MoWe 10:00AM - 11:20AM
+LC 212
+Michael Johnston
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1821
+020-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+LC 212
+Michael Johnston
+08/29/2016 - 12/17/2016
+Closed
+TVR  130CTVL - Media Theory and Aesthetics TVR 130CTVL - Media Theory and Aesthetics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1822
+020-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+LC 113B
+Michael Johnston
+08/29/2016 - 12/17/2016
+Closed
+TVR  140 - Video Lighting TVR 140 - Video Lighting 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1823
+010-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+LC 4
+Leonard Barish
+08/29/2016 - 12/17/2016
+Closed
+TVR  206 - Masterpieces in Film History TVR 206 - Masterpieces in Film History 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3003
+010-LEC
+Regular
+Mo 3:00PM - 5:50PM
+LC 113B
+Michael Johnston
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3648
+990-LEC
+Regular
+TBA
+TBA
+Michael Johnston
+08/29/2016 - 12/17/2016
+Closed
+TVR  218 - Studio Production Practicum TVR 218 - Studio Production Practicum 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1824
+010-LEC
+Regular
+WeFr 10:00AM - 11:20AM
+LC 4
+Cara Cotellese
+08/29/2016 - 12/17/2016
+Closed
+TVR  220 - Communication Law TVR 220 - Communication Law 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1825
+010-LEC
+Regular
+MoWe 2:00PM - 3:20PM
+LC 212
+Matthew McKeague
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1826
+020-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+LC 113B
+Matthew McKeague
+08/29/2016 - 12/17/2016
+Open
+TVR  250 - Video Engineering and Troubleshooting TVR 250 - Video Engineering and Troubleshooting 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1834
+010-LEC
+Regular
+MoWe 9:00AM - 10:20AM
+LC 29
+Jennifer Suwak
+08/29/2016 - 12/17/2016
+Open
+TVR  255 - Video Field Production TVR 255 - Video Field Production 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1828
+010-LEC
+Regular
+MoWe 8:00AM - 10:50AM
+LC 30
+Matthew McKeague
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1829
+020-LEC
+Regular
+TuTh 3:00PM - 5:50PM
+TBA
+Clifford Neill
+08/29/2016 - 12/17/2016
+Closed
+TVR  365CP - Video Post-Production TVR 365CP - Video Post-Production 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1830
+010-LEC
+Regular
+TuTh 12:00PM - 2:50PM
+LC 30
+Jennifer Suwak
+08/29/2016 - 12/17/2016
+Closed
+TVR  369 - Field /Post Production Practicum TVR 369 - Field /Post Production Practicum 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1831
+010-PRA
+Regular
+MoWe 11:00AM - 12:20PM
+LC 30
+Jennifer Suwak
+08/29/2016 - 12/17/2016
+Open
+TVR  375 - Event and Documentary Production TVR 375 - Event and Documentary Production 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1832
+010-LEC
+Regular
+WeFr 12:30PM - 1:50PM
+LC 30
+Cara Cotellese
+08/29/2016 - 12/17/2016
+Closed
+TVR  379 - Independent Study in Electronic Media TVR 379 - Independent Study in Electronic Media 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3671
+960-LEC
+Regular
+TBA
+TBA
+Jennifer Suwak
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3672
+961-LEC
+Regular
+TBA
+TBA
+Cara Cotellese
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3694
+962-LEC
+Regular
+TBA
+TBA
+Michael Johnston
+08/29/2016 - 12/17/2016
+Closed
+TVR  380 - Senior Seminar in Electronic Media TVR 380 - Senior Seminar in Electronic Media 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1833
+010-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+LC 113B
+Cara Cotellese
+08/29/2016 - 12/17/2016
+Closed
+TVR  390 - Senior Internship in Electronic Media TVR 390 - Senior Internship in Electronic Media 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3589
+970-LEC
+Regular
+TBA
+TBA
+Cara Cotellese
+08/29/2016 - 12/17/2016
+Closed

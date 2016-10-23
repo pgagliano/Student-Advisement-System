@@ -1,0 +1,82 @@
+1
+Preparatory Chemistry
+20
+Introduction to Chemistry
+30
+The World of Chemistry
+35
+Powering Our Future: Energy, Climate Change, & Society
+40
+Principles of Chemistry
+51
+Introduction to Forensic Science
+52
+Introduction to Forensic Science Laboratory
+98
+Introduction To Organic and Biological Chemistry for Nurses
+100
+General Chemistry I
+102
+General Chemistry II
+204
+Fundamentals of Organic Chemistry
+205
+Fundamentals of Organic Chemistry Laboratory
+214VL
+Organic Chemistry I
+216WI
+Organic Chemistry II
+220QLWI
+Environmental Analysis
+230QLWI
+Analytical Chemistry I
+310
+Biochemistry I
+312
+Biochemistry II
+314
+Physical Chemistry I
+316
+Physical Chemistry II
+318
+Advanced Biochemistry
+320
+Advanced Inorganic Chemistry I
+322
+Advanced Inorganic Chemistry II
+326
+Advanced Organic Chemistry-Mechanisms
+327
+Organometallic Chemistry
+330
+Organic Qualitative Analysis
+336
+Advanced Physical Chemistry
+340
+Analytical Chemistry II
+346
+Computer Data Acquisition and Reduction
+351
+Selected Topics in Chemistry
+352
+Selected Topics in Chemistry
+353
+Selected Topics in Chemistry
+370
+Research in Chemistry I
+371
+Research in Chemistry II
+372
+Research in Chemistry III
+373
+Research in Chemistry IV
+380
+Senior Seminar in Chemistry
+390
+Internship in Chemistry
+395
+Honors Independent Study/Thesis
+398
+Honors Supplementary Research
+470
+Selected Topics In Chemistry

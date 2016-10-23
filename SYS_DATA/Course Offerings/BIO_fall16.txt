@@ -1,0 +1,873 @@
+ BIO   10 - Introduction to Biology BIO 10 - Introduction to Biology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1082
+010-LEC
+Regular
+TuTh 12:00PM - 12:50PM
+BH 145
+Douglas Becker
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1086
+011-LAB
+Regular
+Mo 2:00PM - 3:50PM
+BH 230
+Angela Hoptak
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1088
+013-LAB
+Regular
+Tu 2:00PM - 3:50PM
+BH 230
+Andrew Mashintonio
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1089
+014-LAB
+Regular
+We 10:00AM - 11:50AM
+BH 230
+Douglas Becker
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1090
+015-LAB
+Regular
+We 2:00PM - 3:50PM
+BH 230
+Douglas Becker
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3718
+016-LAB
+Regular
+Tu 4:00PM - 5:50PM
+BH 230
+Alexander Hernandez
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1091
+019-LAB
+Regular
+We 4:00PM - 5:50PM
+BH 230
+Robyn Underwood
+08/29/2016 - 12/17/2016
+Closed
+Topic: HONORS
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1083
+020-LEC
+Regular
+MoWe 2:00PM - 2:50PM
+BH 145
+Marilyn Baguinon
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1153
+021-LAB
+Regular
+Mo 10:00AM - 11:50AM
+BH 230
+Robyn Underwood
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3495
+022-LAB
+Regular
+Tu 8:00AM - 9:50AM
+BH 230
+Andrew Mashintonio
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1092
+023-LAB
+Regular
+Mo 12:00PM - 1:50PM
+BH 230
+Andrew Mashintonio
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1093
+024-LAB
+Regular
+Tu 12:00PM - 1:50PM
+BH 230
+Marilyn Baguinon
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1094
+025-LAB
+Regular
+We 12:00PM - 1:50PM
+BH 230
+Robyn Underwood
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3719
+326-LAB
+Regular
+Tu 6:00PM - 7:50PM
+BH 230
+Alexander Hernandez
+08/29/2016 - 12/17/2016
+Open
+ BIO   12 - Introduction to Biology: Human Biology BIO 12 - Introduction to Biology: Human Biology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1157
+010-LEC
+Regular
+TuTh 2:00PM - 2:50PM
+BH 261
+Angelika Antoni
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1156
+011-LAB
+Regular
+We 10:00AM - 11:50AM
+BH 234
+Angelika Antoni
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1158
+012-LAB
+Regular
+We 1:00PM - 2:50PM
+BH 234
+Angela Hoptak
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1159
+013-LAB
+Regular
+Th 9:00AM - 10:50AM
+BH 234
+Angelika Antoni
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1160
+014-LAB
+Regular
+Th 12:00PM - 1:50PM
+BH 234
+Angelika Antoni
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3296
+015-LAB
+Regular
+Fr 10:00AM - 11:50AM
+BH 234
+Angela Hoptak
+08/29/2016 - 12/17/2016
+Open
+ BIO  104 - Principles of Biology BIO 104 - Principles of Biology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1102
+010-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+AF 201
+Christopher Sacchi
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1104
+011-LAB
+Regular
+Tu 8:00AM - 10:50AM
+BH 202
+Angela Hoptak
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1105
+012-LAB
+Regular
+We 2:00PM - 4:50PM
+BH 202
+Christopher Sacchi
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1106
+013-LAB
+Regular
+Th 8:00AM - 10:50AM
+BH 202
+Douglas Becker
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1174
+015-LAB
+Regular
+Mo 2:00PM - 4:50PM
+BH 202
+Cristen Rosch
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1103
+020-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+BH 145
+Richard Heineman
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1108
+021-LAB
+Regular
+Tu 2:00PM - 4:50PM
+BH 202
+Nancy Butler
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1109
+024-LAB
+Regular
+Th 2:00PM - 4:50PM
+BH 202
+Nancy Butler
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1175
+026-LAB
+Regular
+Fr 8:00AM - 10:50AM
+BH 202
+Richard Heineman
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3601
+030-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+AF 200
+Angelika Antoni
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3603
+032-LAB
+Regular
+Fr 2:00PM - 4:50PM
+BH 202
+Andrew Mashintonio
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3456
+216-LAB
+Regular
+Mo 6:00PM - 8:50PM
+BH 202
+Robyn Underwood
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3602
+331-LAB
+Regular
+Tu 6:00PM - 8:50PM
+BH 202
+Douglas Becker
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3604
+433-LAB
+Regular
+We 6:00PM - 8:50PM
+BH 202
+Andrew Mashintonio
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1112
+525-LAB
+Regular
+Th 6:00PM - 8:50PM
+BH 202
+Angela Hoptak
+08/29/2016 - 12/17/2016
+Closed
+ BIO  106 - Introduction to Zoology BIO 106 - Introduction to Zoology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2840
+010-LEC
+Regular
+TuTh 8:00AM - 9:20AM
+AF 101
+Gregory Setliff
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3193
+011-LAB
+Regular
+Mo 1:00PM - 3:50PM
+BH 240
+Gregory Setliff
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3194
+012-LAB
+Regular
+Mo 6:00PM - 8:50PM
+BH 240
+Wendy Ryan
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3195
+013-LAB
+Regular
+Tu 2:00PM - 4:50PM
+BH 240
+Wendy Ryan
+08/29/2016 - 12/17/2016
+Closed
+ BIO  108 - Introduction to Botany BIO 108 - Introduction to Botany 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1113
+010-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+BH 145
+Carol Mapes
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1114
+011-LAB
+Regular
+Tu 2:00PM - 4:50PM
+BH 237
+Carol Mapes
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1117
+013-LAB
+Regular
+We 2:00PM - 4:50PM
+BH 237
+Cristen Rosch
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1115
+014-LAB
+Regular
+Th 2:00PM - 4:50PM
+BH 237
+Kaoutar El Mounadi
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1116
+312-LAB
+Regular
+Tu 6:00PM - 8:50PM
+BH 237
+Kaoutar El Mounadi
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1147
+416-LAB
+Regular
+We 6:00PM - 8:50PM
+BH 237
+Todd Underwood
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1118
+515-LAB
+Regular
+Th 6:00PM - 8:50PM
+BH 237
+Cristen Rosch
+08/29/2016 - 12/17/2016
+Open
+ BIO  120 - Anatomy and Physiology I BIO 120 - Anatomy and Physiology I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2895
+010-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+BH 260
+Matthew Stone
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2896
+011-LAB
+Regular
+Tu 1:30PM - 3:20PM
+BH 234
+Matthew Stone
+08/29/2016 - 12/17/2016
+Closed
+ BIO  130 - Environmental Issues: Global Perspectives BIO 130 - Environmental Issues: Global Perspectives 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1119
+010-LEC
+Regular
+TuTh 2:00PM - 3:20PM
+BH 262
+Gregory Setliff
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3502
+990-LEC
+Regular
+TBA
+TBA
+Gregory Setliff
+08/29/2016 - 12/17/2016
+Closed
+ BIO  140 - Biology and Society BIO 140 - Biology and Society 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1120
+010-LEC
+Regular
+TuTh 3:00PM - 4:20PM
+BH 261
+Robyn Underwood
+08/29/2016 - 12/17/2016
+Open
+ BIO  224 - Applied Environmental Microbiology BIO 224 - Applied Environmental Microbiology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1121
+010-LEC
+Regular
+MoWe 10:00AM - 10:50AM
+AF 201
+Daniel Aruscavage
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1122
+011-LAB
+Regular
+Tu 2:00PM - 4:50PM
+BH 211
+Daniel Aruscavage
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1124
+012-LAB
+Regular
+Mo 2:00PM - 4:50PM
+BH 211
+Daniel Aruscavage
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1125
+013-LAB
+Regular
+We 2:00PM - 4:50PM
+BH 211
+Daniel Aruscavage
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1123
+014-LAB
+Regular
+Th 1:00PM - 3:50PM
+BH 211
+Daniel Aruscavage
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+ BIO  236 - Introduction to Plant Pathology BIO 236 - Introduction to Plant Pathology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2849
+010-LEC
+Regular
+TuTh 12:00PM - 12:50PM
+BH 261
+Kaoutar El Mounadi
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2890
+011-LAB
+Regular
+Mo 2:00PM - 4:50PM
+BH 237
+Kaoutar El Mounadi
+08/29/2016 - 12/17/2016
+Open
+ BIO  244 - Ecology BIO 244 - Ecology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1126
+010-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+BH 260
+Christopher Habeck
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1127
+011-LAB
+Regular
+Fr 2:00PM - 4:50PM
+BH 109
+Christopher Habeck
+08/29/2016 - 12/17/2016
+Open
+ BIO  264 - Comparative Anatomy of the Vertebrates BIO 264 - Comparative Anatomy of the Vertebrates 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1144
+010-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+BH 262
+Todd Underwood
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1145
+011-LAB
+Regular
+Th 2:00PM - 4:50PM
+BH 240
+Todd Underwood
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1146
+012-LAB
+Regular
+Fr 2:00PM - 4:50PM
+BH 240
+Todd Underwood
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3701
+990-LEC
+Regular
+TBA
+TBA
+Todd Underwood
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3702
+991-LAB
+Regular
+TBA
+TBA
+Todd Underwood
+08/29/2016 - 12/17/2016
+Closed
+ BIO  270CTWI - Research Methods BIO 270CTWI - Research Methods 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1141
+010-LEC
+Regular
+MoWe 1:00PM - 1:50PM
+AF 103
+Angelika Antoni
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1142
+011-LAB
+Regular
+Mo 2:00PM - 4:50PM
+BH 234
+Alexander Hernandez
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1143
+012-LAB
+Regular
+Th 2:00PM - 4:50PM
+BH 230
+Cristen Rosch
+08/29/2016 - 12/17/2016
+Open
+ BIO  316 - Invertebrate Biology BIO 316 - Invertebrate Biology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3095
+010-LEC
+Regular
+MoWe 1:00PM - 1:50PM
+BH 107
+Nancy Butler
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3096
+011-LAB
+Regular
+We 2:00PM - 4:50PM
+BH 240
+Nancy Butler
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3531
+990-LEC
+Regular
+TBA
+TBA
+Nancy Butler
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3532
+991-LAB
+Regular
+TBA
+TBA
+Nancy Butler
+08/29/2016 - 12/17/2016
+Closed
+ BIO  324 - Plant Ecology BIO 324 - Plant Ecology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1138
+010-LEC
+Regular
+TuTh 1:00PM - 1:50PM
+BH 261
+Christopher Sacchi
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1139
+011-LAB
+Regular
+Tu 2:00PM - 4:50PM
+BH 109
+Christopher Sacchi
+08/29/2016 - 12/17/2016
+Closed
+ BIO  326 - Marine  Ecology BIO 326 - Marine  Ecology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1136
+010-LEC
+Regular
+MoWe 9:00AM - 9:50AM
+BH 104
+Wendy Ryan
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1137
+011-LAB
+Regular
+Th 2:00PM - 4:50PM
+BH 256
+Wendy Ryan
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+ BIO  330 - Histology BIO 330 - Histology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1132
+010-LEC
+Regular
+TuTh 8:00AM - 8:50AM
+BH 260
+Matthew Stone
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1133
+011-LAB
+Regular
+Th 2:00PM - 4:50PM
+BH 109
+Matthew Stone
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1134
+012-LAB
+Regular
+Fr 8:00AM - 10:50AM
+BH 109
+Matthew Stone
+08/29/2016 - 12/17/2016
+Closed
+ BIO  346 - Molecular Biology BIO 346 - Molecular Biology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1128
+010-LEC
+Regular
+MoWe 11:00AM - 11:50AM
+BH 145
+Marilyn Baguinon
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1129
+011-LAB
+Regular
+Th 2:00PM - 4:50PM
+BH 207
+Marilyn Baguinon
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1130
+512-LAB
+Regular
+Th 6:00PM - 8:50PM
+BH 207
+Marilyn Baguinon
+08/29/2016 - 12/17/2016
+Closed
+ BIO  358 - Conservation Biology BIO 358 - Conservation Biology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2853
+010-LEC
+Regular
+TuTh 10:00AM - 10:50AM
+BH 261
+Christopher Habeck
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3094
+011-LAB
+Regular
+Mo 2:00PM - 4:50PM
+BH 109
+Christopher Habeck
+08/29/2016 - 12/17/2016
+Open
+ BIO  370 - Research in Biology BIO 370 - Research in Biology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3545
+960-LEC
+Regular
+TBA
+TBA
+Wendy Ryan
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3726
+961-LEC
+Regular
+TBA
+TBA
+Richard Heineman
+08/29/2016 - 12/17/2016
+Closed
+ BIO  373 - Selected Topics in Biology BIO 373 - Selected Topics in Biology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1150
+010-LEC
+Regular
+TuTh 1:00PM - 1:50PM
+BH 262
+Richard Heineman
+08/29/2016 - 12/17/2016
+Closed
+Topic: VIROLOGY
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1151
+011-LAB
+Regular
+We 2:00PM - 4:50PM
+BH 207
+Richard Heineman
+08/29/2016 - 12/17/2016
+Closed
+Topic: VIROLOGY
+ BIO  380 - Senior Seminar in Biology BIO 380 - Senior Seminar in Biology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1131
+010-LEC
+Regular
+TuTh 12:00PM - 12:50PM
+BH 220
+Alexander Hernandez
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1169
+020-LEC
+Regular
+MoWe 12:00PM - 12:50PM
+BH 220
+Alexander Hernandez
+08/29/2016 - 12/17/2016
+Closed
+ BIO  390 - Internship in Biology BIO 390 - Internship in Biology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3625
+970-LEC
+Regular
+TBA
+TBA
+Todd Underwood
+08/29/2016 - 12/17/2016
+Closed
+ BIO  395 - Honors Independent Study/Thesis BIO 395 - Honors Independent Study/Thesis 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3667
+960-LEC
+Regular
+TBA
+TBA
+Daniel Aruscavage
+08/29/2016 - 12/17/2016
+Closed
+ BIO  457 - Systematic Entomology BIO 457 - Systematic Entomology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1140
+410-LEC
+Regular
+We 6:00PM - 8:50PM
+BH 240
+Gregory Setliff
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class

@@ -1,0 +1,174 @@
+10
+American Government
+20CD
+International Relations
+30CD
+Introduction to Comparative Politics
+40
+Introduction to Political Theory
+50
+State and Local Government
+101WI
+Social Research Design and Writing
+115
+Public Administration
+132CD
+Western European Governments
+133CD
+The Politics of Cuba and the Caribbean
+134
+Politics of the Middle East
+135
+Urban Politics
+140CTWI
+Law and Society
+141
+Modern Western Political Theory
+181
+Criminal Law
+182
+Criminal Procedure
+200QL
+Statistics for the Social and Behavioral Sciences
+201CPQL
+Empirical Political Analysis
+210
+Emerg Nat Afrasia
+211VL
+Public Opinion and Propaganda
+213
+The Judicial Processes
+214
+American Political Parties
+222
+International Political Economy
+224
+Politics of Development
+225CT
+Planning and Decision-Making Theory
+227WI
+International Conflict and Security
+228CTWI
+American Foreign Policy
+231CDWI
+Social Movement and Revolutions
+242
+Democratic Theory
+252
+Pol Of Dev States
+311
+Constitutional Law I: Institutions and Functions
+312WICT
+Constitutional Law II: Civil Liberties
+313
+The American Presidency
+314
+The Administration of U.S. Environmental Law
+316
+Law and Sex-Based Discrimination
+321
+International Law and Organization
+322
+International Relations Theory
+325
+The American Legislative Process: National and State
+332CDWI
+The Politics of Latin America
+341
+American Political Thought
+346
+Public Budgeting and Fiscal Management
+347CM
+Human Resource Management in the Public Sector
+370
+Independent Study in Political Science
+371
+Selected Topics in Political Science
+372
+Selected Topics in Political Science
+374
+Selected Topics in Political Science: Viet War
+375
+Sel Tps Pol Sci
+376
+Selected Topics in Political Science
+377
+Selected Topics in Political Science
+378
+Selected Topics in Political Science
+379
+Selected Topics in Political Science
+380
+Senior Seminar in Political Science
+381CMWI
+Senior Seminar in Public Administration
+390
+Federal, State, and/or Local Government Internship
+391
+The Harrisburg Internship Semester (THIS): Internship
+392
+The Harrisburg Internship Semester (THIS): Research
+393
+The Harrisburg Internship Semester (THIS): Seminar
+395
+Honors Independent Study/Thesis
+398
+Honors Supplementary Research
+399
+HON:RUS EXP:HIS/POL PERSP
+425
+Public Policy Making
+441
+Managerial Leadership and Ethics
+465
+Administrative Law
+503
+Thesis
+509
+Approaches and Methods in Political Science
+510
+Amer Political Theory
+515
+Principles and Problems of Public Administration
+516
+Administrative and Organizational Theory
+517
+Public Personnel and Strategic Human Resource Management
+518
+Budgeting and Decision Making
+520
+Partiespolitics In Us
+524
+Politicsthe Environment
+525
+Sem In Us Foreign Rel
+530
+Municipal Government
+534
+Hum Dim In Intnatl Relas
+538
+Program and Policy Evaluation
+540
+Prob In Comp Atv Govts
+542
+Comp Communist Systems
+546
+Civil Lib Of Americans
+551
+Law & Political Change
+555
+Federalism and Intergovernmental Relations
+557
+Issuesideol Cont Emp Pol
+562
+Urban Politics
+565
+Public Administration Internship
+570
+Selected Topics in Public Administration
+571
+Nonprofit Organizational Management
+580
+Independent Study in Public Administration
+581
+Professional Seminar in Public Administration

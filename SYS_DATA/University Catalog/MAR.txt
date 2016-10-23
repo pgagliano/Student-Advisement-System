@@ -1,0 +1,88 @@
+50
+Window to the Oceans
+110
+Introduction to Oceanography
+210
+Sophomore Seminar
+212
+Navigation
+226
+Marine Biology
+237
+Field Methods in Oceanography
+250
+Wetland Ecology
+260
+Marine Invertebrates
+280
+Field Biology
+285
+Topics in Marine Science: Mrclt Field Trip
+286
+Topics in Marine Science: Behv Mar Org
+287
+Topics in  Marine Science: Sail & Seaman
+289
+Topics in Marine Science: Trop Invert
+290
+Topics in Marine Science: Costal Veg
+291
+Topics in Marine Science: Ecol Mar Plnk
+292
+Topics in Marine Science: Bio Cr I
+293
+Topics in Marine Science: Bio Cr II
+294
+Topics in Marine Science: Bio Cr III
+295
+Topics in Marine Science: Phy Mar Invrt
+296
+Topics in Marine Science: Mar Microbio
+298
+Selected Topics in Marine Science
+320
+Physiological Ecology of Animals
+326
+Marine  Ecology
+331
+Chemical Oceanography
+334
+Micropaleontology
+338
+Ecology of Marine Plankton
+340
+Marine Mammals
+342
+Ichthyology
+344
+Marine Botany
+346WI
+Sedimentology and Stratigraphy
+348
+Biological Oceanography
+350
+Sedimentation
+352
+Coral Reef Ecology
+358CP
+General Geophysics
+360
+Anatomy of Marine Chordates
+364
+Physical Oceanography
+366
+Marine Geology
+370
+Independent Research in Marine Science
+380
+Senior Seminar in Marine Science
+390
+Internship in Marine Science
+395
+Honors Independent Study/Thesis
+398
+Honors Supplemental Research
+500
+Problems In Marine Sci
+510
+General Oceanography

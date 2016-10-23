@@ -1,0 +1,399 @@
+MUS   10CT - Introduction to Music MUS 10CT - Introduction to Music 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2188
+010-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+SA MUSIC CLASSROOM13G
+Soo Goh
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2189
+020-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+SA MUSIC CLASSROOM13G
+Soo Goh
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2190
+030-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+SA MUSIC CLASSROOM13G
+Soo Goh
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2191
+040-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+SA MUSIC CLASSROOM13G
+Henry Alviani
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2192
+070-LEC
+Regular
+TuTh 8:00AM - 9:20AM
+SA MUSIC CLASSROOM13G
+Valerie Trollinger
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2193
+080-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+SA MUSIC CLASSROOM13G
+Daniel Immel
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2194
+090-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+SA MUSIC CLASSROOM13G
+Daniel Immel
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2195
+110-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+SA MUSIC CLASSROOM13G
+Peter Isaacson
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2860
+810-LEC
+Regular
+MoWe 1:00PM - 1:50PM
+SA MUSIC CLASSROOM13G
+Staff
+08/29/2016 - 12/17/2016
+Open
+MUS   20 - Basic Concepts and Skills of Music MUS 20 - Basic Concepts and Skills of Music 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2173
+010-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+OM 159
+Ina Grapenthin
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2205
+020-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+SA MUSIC CLASSROOM 5G
+Ina Grapenthin
+08/29/2016 - 12/17/2016
+Open
+MUS   24 - Class Piano I MUS 24 - Class Piano I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2174
+010-LEC
+Regular
+MoWe 1:00PM - 1:50PM
+OM 145
+Daniel Immel
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2175
+020-LEC
+Regular
+MoWe 2:00PM - 2:50PM
+OM 145
+Daniel Immel
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2176
+030-LEC
+Regular
+MoWe 12:00PM - 12:50PM
+OM 145
+Ina Grapenthin
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2186
+040-LEC
+Regular
+TuTh 3:00PM - 3:50PM
+OM 145
+Maria Asteriadou
+08/29/2016 - 12/17/2016
+Open
+MUS   79 - Voice Class I MUS 79 - Voice Class I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2212
+010-LEC
+Regular
+TuTh 12:00PM - 12:50PM
+OM 125
+Trucilla Sabatino
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2177
+020-LEC
+Regular
+MoWe 1:00PM - 1:50PM
+OM 125
+Trucilla Sabatino
+08/29/2016 - 12/17/2016
+Open
+MUS  101 - Aural Skills I MUS 101 - Aural Skills I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2178
+010-LEC
+Regular
+MoWe 10:00AM - 10:50AM
+SA MUSIC CLASSROOM 3G
+Francis Kumor
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2179
+020-LEC
+Regular
+MoWe 8:00AM - 8:50AM
+SA MUSIC CLASSROOM 5G
+Staff
+08/29/2016 - 12/17/2016
+Closed
+MUS  102 - Harmony and Theory I MUS 102 - Harmony and Theory I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2201
+010-LEC
+Regular
+MoWeFr 2:00PM - 2:50PM
+SA MUSIC CLASSROOM 5G
+Marie Cadieux
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2180
+020-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+SA MUSIC CLASSROOM 5G
+Marie Cadieux
+08/29/2016 - 12/17/2016
+Closed
+MUS  106CD - History of Rock and Roll MUS 106CD - History of Rock and Roll 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2202
+010-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+AF 203
+Russell Rober
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2197
+020-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+AF 203
+Russell Rober
+08/29/2016 - 12/17/2016
+Open
+MUS  108CD - Introduction To World Music MUS 108CD - Introduction To World Music 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3299
+010-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+OM 22A
+Russell Rober
+08/29/2016 - 12/17/2016
+Open
+MUS  113VL - Introduction to Film Music MUS 113VL - Introduction to Film Music 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2207
+010-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+OM 159
+Daniel Immel
+08/29/2016 - 12/17/2016
+Open
+MUS  124 - Class Piano II MUS 124 - Class Piano II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2206
+010-LEC
+Regular
+TuTh 1:30PM - 2:20PM
+OM 145
+Maria Asteriadou
+08/29/2016 - 12/17/2016
+Open
+MUS  129 - Recording Technology Survey MUS 129 - Recording Technology Survey 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2204
+010-LEC
+Regular
+MoWe 4:00PM - 5:20PM
+TBA
+Staff
+08/29/2016 - 12/17/2016
+Open
+MUS  179 - Voice Class II MUS 179 - Voice Class II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2869
+010-LEC
+Regular
+MoWe 12:00PM - 12:50PM
+OM 125
+Trucilla Sabatino
+08/29/2016 - 12/17/2016
+Open
+MUS  191 - Italian Lyric Diction for Singers MUS 191 - Italian Lyric Diction for Singers 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2198
+010-LEC
+Regular
+TuTh 1:00PM - 1:50PM
+OM 125
+Trucilla Sabatino
+08/29/2016 - 12/17/2016
+Open
+MUS  201 - Aural Skills II MUS 201 - Aural Skills II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2181
+010-LEC
+Regular
+MoWe 1:00PM - 1:50PM
+SA MUSIC CLASSROOM 5G
+Marie Cadieux
+08/29/2016 - 12/17/2016
+Open
+MUS  202 - Harmony and Theory II MUS 202 - Harmony and Theory II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3300
+010-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+OM 159
+Mary Ogletree
+08/29/2016 - 12/17/2016
+Open
+MUS  209CDWI - Women in Music MUS 209CDWI - Women in Music 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2200
+010-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+OM 159
+Mary Ogletree
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+MUS  213 - Aural Skills III MUS 213 - Aural Skills III 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2182
+010-LEC
+Regular
+MoWe 8:00AM - 8:50AM
+SA MUSIC CLASSROOM 3G
+Marie Cadieux
+08/29/2016 - 12/17/2016
+Open
+MUS  214 - Harmony and Theory III MUS 214 - Harmony and Theory III 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2183
+010-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+OM 125
+Mary Ogletree
+08/29/2016 - 12/17/2016
+Open
+MUS  224 - Class Piano III MUS 224 - Class Piano III 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2184
+010-LEC
+Regular
+TuTh 12:00PM - 12:50PM
+OM 145
+Maria Asteriadou
+08/29/2016 - 12/17/2016
+Open
+MUS  226 - Jazz Improvisation MUS 226 - Jazz Improvisation 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2199
+010-LEC
+Regular
+MoWe 2:00PM - 2:50PM
+OM 31
+Kevin Kjos
+08/29/2016 - 12/17/2016
+Open
+MUS  279 - Private Instruction in Music Composition MUS 279 - Private Instruction in Music Composition 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2185
+010-LEC
+Regular
+TBA
+TBA
+Staff
+08/29/2016 - 12/17/2016
+Closed
+MUS  308 - Jazz and Commercial Arranging MUS 308 - Jazz and Commercial Arranging 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2857
+010-LEC
+Regular
+Th 9:30AM - 9:55AM
+Fr 4:30PM - 5:45PM
+SA REHEARSAL ROOM 114
+SA MUSIC CLASSROOM 5G
+Nathaniel Radley
+James Kirkwood
+08/29/2016 - 12/17/2016
+08/29/2016 - 12/17/2016
+Open
+MUS  311WI - Music from Ancient Times to 1750 MUS 311WI - Music from Ancient Times to 1750 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2196
+010-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+SA MUSIC CLASSROOM 5G
+Russell Rober
+08/29/2016 - 12/17/2016
+Closed
+MUS  315 - Audio Engineering II MUS 315 - Audio Engineering II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2856
+210-LEC
+Regular
+Mo 6:00PM - 8:30PM
+OM 31
+Staff
+08/29/2016 - 12/17/2016
+Open
+MUS  395 - Hon:indpt Study/thesis MUS 395 - Hon:indpt Study/thesis 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3592
+960-LEC
+Regular
+TBA
+TBA
+Kevin Kjos
+08/29/2016 - 12/17/2016
+Closed

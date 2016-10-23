@@ -1,0 +1,104 @@
+Collapse section MAR  110 - Introduction to Oceanography MAR 110 - Introduction to Oceanography 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1589
+010-LEC
+Regular
+MoWe 1:00PM - 1:50PM
+BH 260
+Christopher Bochicchio
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1590
+011-LAB
+Regular
+Tu 2:00PM - 4:50PM
+BH 256
+Christopher Bochicchio
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1596
+012-LAB
+Regular
+We 2:00PM - 4:50PM
+BH 256
+Christopher Bochicchio
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Collapse section MAR  210 - Sophomore Seminar MAR 210 - Sophomore Seminar 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1591
+010-LEC
+Regular
+Tu 12:00PM - 12:50PM
+BH 256
+Wendy Ryan
+08/29/2016 - 12/17/2016
+Open
+Collapse section MAR  326 - Marine  Ecology MAR 326 - Marine  Ecology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3340
+010-LEC
+Regular
+MoWe 9:00AM - 9:50AM
+BH 104
+Wendy Ryan
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3341
+011-LAB
+Regular
+Th 2:00PM - 4:50PM
+BH 256
+Wendy Ryan
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+Collapse section MAR  346WI - Sedimentology and Stratigraphy MAR 346WI - Sedimentology and Stratigraphy 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1592
+010-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+BH 126
+Jacob Sewall
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1593
+011-LAB
+Regular
+Mo 2:00PM - 4:50PM
+BH 126
+Jacob Sewall
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+Collapse section MAR  358CP - General Geophysics MAR 358CP - General Geophysics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1594
+010-LEC
+Regular
+WeFr 12:00PM - 12:50PM
+BH 126
+Laura Sherrod
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1595
+011-LAB
+Regular
+Fr 2:00PM - 4:50PM
+BH 126
+Laura Sherrod
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class

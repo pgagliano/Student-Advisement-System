@@ -1,0 +1,74 @@
+1
+Dinosaurs
+5
+Earth Resources and Processes
+20
+Introduction to Geology
+31
+Geology of the National Parks and Monuments
+50
+Water Wars
+100
+Physical Geology
+102
+Historical Geology
+110
+Introduction to Oceanography
+200VL
+Field Geology
+205
+Planetary Surface Processes
+210
+Environmental Geology
+220CT
+Mineralogy
+230WI
+Paleontology
+237
+Field Methods in Oceanography
+302
+Economic Geology
+304CT
+Structural Geology
+316VL
+Petrology and Geochemistry
+320
+Optical Mineralogy
+324
+Geomorphology
+334
+Micropaleontology
+344
+Pleistocene Geology
+346WI
+Sedimentology and Stratigraphy
+358CP
+General Geophysics
+362QL
+Hydrogeology
+366
+Marine Geology
+368
+Research in Geology I
+369
+Research in Geology II
+370
+Seminar: Selected Topics in Geology
+371
+Seminar: Selected Topics in Geology
+372
+Seminar: Selected Topics in Geology
+373
+Seminar: Selected Topics in Geology
+380WI
+Senior Seminar in Geology
+390
+Internship in Geology
+395
+Honors Independent Study/Thesis
+398
+Honors Supplementary Research
+412
+GEOLOGY OF EASTERN PA
+413
+GEOLOGY OF EASTERN PA LAB

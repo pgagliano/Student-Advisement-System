@@ -1,0 +1,116 @@
+14VL
+Elements of Drawing For Non-Art Majors
+15
+Drawing I
+16
+Drawing II
+61VL
+Introduction to Darkroom Photography for Non-Art Majors
+62VL
+Digital Photo for Non-Art Majors
+111
+Introduction to Painting
+131
+Introduction to Watercolor
+141
+Introduction to Printmaking
+151
+Introduction to Life Drawing
+161
+Introduction to Photography - Darkroom
+162
+Introduction to Photography Digital
+171
+Introduction to Sculpture
+180
+Intro Computer Applic/art
+182CP
+Introduction to Digital Media
+200
+Studio Materials
+219
+Applied Color
+220
+Topics in Drawing I
+221
+Topics in Drawing II
+222
+Topics in Drawing III
+223
+Topics in Drawing IV
+224
+Topics in Drawing V
+225
+Topics in Drawing VI
+276
+Interactive Design I: Web Design
+277
+Interactive Design II: Multimedia
+300
+Studio Seminar
+307
+The Visual Journal: Drawing and Designing Abroad
+308
+Creating Gallery Exhibitions
+318
+Film And Video As Art
+319
+Color Theories & Concepts
+328
+Old Master Draw Materials
+337
+Themes and Practices in Photography
+338
+Themes and Practices in Photography
+339
+Themes and Practices in Photography
+340
+WEB-BASED/INTERACTIVE ART
+350
+Video Art and Motion Graphics
+358
+Workshop: Digital Animation
+360
+Color in Photography
+367
+Artist Film-Making
+368
+Specialized Photographic Techniques
+377
+Independent Study: Art Studio I
+378
+Independent Study: Art Studio II
+379
+Independent Study: Art Studio III
+380
+Independent Study: Art Studio IV
+383
+Advanced Digital Photography
+384
+Electronic Media for Artists
+385
+Selected Topics in Studio Art
+386
+Digital Sculpture
+395
+Honors Independent Study/Thesis
+398CM
+The Business of Art
+399
+Student Exhibition
+501
+Drawing
+502
+Printmaking
+503
+Painting
+504
+Graduate Sculpture
+505
+Photography
+506
+Digital Media
+575
+Individual Problems in Art Seminar
+577
+Independent Study

@@ -1,0 +1,86 @@
+210
+Principles of Management
+315
+Management Science
+318
+Women in Management
+327
+Small Business Management
+335CM
+Human Resource Management
+337
+Management of Labor Relations
+338
+Management of Compensation and Benefits
+340
+Management of Staffing, Training and Development
+345
+Organizational Theory and Design
+350
+Organizational Behavior in Management
+351
+Operations Management
+352CD
+International Management
+360
+Business and Social Environment
+361
+Principles of Business Logistics
+362
+Supply Chain Planning and Management
+363
+TRANSPORTATION MANAGEMENT
+371
+Selected Topics in Management
+380WI
+Senior Seminar in Management
+395
+Honors Independent Study/Thesis
+399CT
+Business Strategy and Policy
+437
+INT'L LABOR RELATATIONS
+510
+Advanced Quantitative Methods for Business Decisions
+535
+Human Resource Management
+536
+Human Resource Management and Organizational Strategy
+537
+Management of Staffing, Training & Development
+538
+Management of Compensation and Benefits
+539
+Management of Employee Relations, Health, Safety and Security
+540
+Business and Society
+541
+Labor Relations
+542
+Labor Relations and the Law
+545
+Ethics in the Workplace and Society
+552
+Multi-National Business Enterprise
+561
+Logistics and Supply Chain Strategies
+570
+Operations Management Theory and Practice
+571
+Selected Topics in Management
+574
+Managing Large Strategic Business Projects
+575
+Innovations and Entrepreneurship
+576
+Energy Management
+580
+Organizational Theory and Behavior
+582
+Organizational Leadership
+585
+Management Decision Making
+589
+Contemporary Topics in Management
+590
+Management Business Policy and Strategy

@@ -1,0 +1,332 @@
+GEG   10 - Elements of Physical Geography GEG 10 - Elements of Physical Geography 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1275
+010-LEC
+Regular
+MoWeFr 8:00AM - 8:50AM
+BH 260
+Michael Davis
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1276
+020-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+BH 262
+Richard Courtney
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1277
+030-LEC
+Regular
+MoWeFr 2:00PM - 2:50PM
+BH 262
+Jerry Griffith
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3697
+040-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+GC 1
+Jerry Griffith
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1279
+050-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+BH 107
+Jerry Griffith
+08/29/2016 - 12/17/2016
+Closed
+GEG   20CD - Elements of Cultural Geography GEG 20CD - Elements of Cultural Geography 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1280
+010-LEC
+Regular
+MoWeFr 3:00PM - 3:50PM
+BH 260
+Steven Schnell
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2888
+019-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+BH 105
+Steven Schnell
+08/29/2016 - 12/17/2016
+Closed
+Topic: HONORS
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3699
+020-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+GC 2
+Mathias Le Bosse
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1282
+030-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+BH 107
+Mathias Le Bosse
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1283
+040-LEC
+Regular
+TuTh 3:00PM - 4:20PM
+BH 260
+Mathias Le Bosse
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1291
+050-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+BH 104
+Moira Conway
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1292
+060-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+BH 104
+Moira Conway
+08/29/2016 - 12/17/2016
+Open
+GEG   40 - Descriptive Oceanography GEG 40 - Descriptive Oceanography 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1284
+010-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+BH 105
+Jerry Griffith
+08/29/2016 - 12/17/2016
+Closed
+GEG  101 - World Regional Geography GEG 101 - World Regional Geography 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1285
+010-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+BH 104
+Mathias Le Bosse
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3020
+020-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+BH 260
+Moira Conway
+08/29/2016 - 12/17/2016
+Open
+GEG  110 - Geography of the United States and Canada GEG 110 - Geography of the United States and Canada 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1286
+010-LEC
+Regular
+MoWeFr 2:00PM - 2:50PM
+BH 107
+Steven Schnell
+08/29/2016 - 12/17/2016
+Open
+GEG  112 - Geography of Pennsylvania GEG 112 - Geography of Pennsylvania 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2852
+010-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+BH 107
+Steven Schnell
+08/29/2016 - 12/17/2016
+Open
+GEG  204 - Meteorology GEG 204 - Meteorology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1287
+010-LEC
+Regular
+Mo 1:00PM - 2:50PM
+BH 104
+Michael Davis
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1288
+011-LAB
+Regular
+We 1:00PM - 2:50PM
+GC 1
+Michael Davis
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1290
+012-LAB
+Regular
+Fr 1:00PM - 2:50PM
+GC 1
+Michael Davis
+08/29/2016 - 12/17/2016
+Open
+GEG  210 - Environmental Conservation GEG 210 - Environmental Conservation 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1300
+010-LEC
+Regular
+MoWe 4:30PM - 5:50PM
+GC 2
+Mario Cardozo
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3696
+990-LEC
+Regular
+TBA
+TBA
+Mario Cardozo
+08/29/2016 - 12/17/2016
+Closed
+GEG  212 - The Geography of Natural Hazards GEG 212 - The Geography of Natural Hazards 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1303
+010-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+GC 2
+Mario Cardozo
+08/29/2016 - 12/17/2016
+Open
+GEG  223 - Introduction to Transportation Geography GEG 223 - Introduction to Transportation Geography 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3494
+010-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+GC 2
+Moira Conway
+08/29/2016 - 12/17/2016
+Open
+GEG  274CPQL - Introduction to GIS GEG 274CPQL - Introduction to GIS 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1294
+010-LEC
+Regular
+MoWe 9:00AM - 9:50AM
+BH 105
+Mario Cardozo
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1298
+020-LEC
+Regular
+Mo 5:30PM - 7:20PM
+GC 100
+Matthew West
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1299
+221-LAB
+Regular
+Mo 7:30PM - 9:20PM
+GC 100
+Matthew West
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1295
+311-LAB
+Regular
+Tu 6:00PM - 7:50PM
+GC 100
+Mario Cardozo
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1296
+512-LAB
+Regular
+Th 6:00PM - 7:50PM
+GC 100
+Mario Cardozo
+08/29/2016 - 12/17/2016
+Open
+GEG  323 - Global Warming and The Science of Climate Change GEG 323 - Global Warming and The Science of Climate Change 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2883
+010-LEC
+Regular
+MoWeFr 3:00PM - 3:50PM
+BH 262
+Michael Davis
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3700
+990-LEC
+Regular
+TBA
+TBA
+Michael Davis
+08/29/2016 - 12/17/2016
+Closed
+GEG  330CPVL - Cartography GEG 330CPVL - Cartography 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1297
+010-LEC
+Regular
+TuTh 1:30PM - 3:20PM
+GC 100
+Richard Courtney
+08/29/2016 - 12/17/2016
+Open
+GEG  371 - Independent Study in Geography GEG 371 - Independent Study in Geography 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3715
+960-LEC
+Regular
+TBA
+TBA
+Michael Davis
+08/29/2016 - 12/17/2016
+Closed
+GEG  375 - Research Methods in Geography GEG 375 - Research Methods in Geography 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1289
+010-LEC
+Regular
+MoWe 3:00PM - 4:20PM
+GC 100
+Richard Courtney
+08/29/2016 - 12/17/2016
+Open
+GEG  394 - Internship in Geography GEG 394 - Internship in Geography 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3717
+970-LEC
+Regular
+TBA
+TBA
+Michael Davis
+08/29/2016 - 12/17/2016
+Closed

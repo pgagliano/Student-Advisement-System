@@ -1,0 +1,648 @@
+MUP  229 - Applied Jazz Instruction MUP 229 - Applied Jazz Instruction 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2171
+010-LEC
+Regular
+TBA
+OM 31
+John Riley
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3301
+020-LEC
+Regular
+TBA
+TBA
+Carver Lee
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3302
+030-LEC
+Regular
+TBA
+TBA
+James Kirkwood
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3303
+040-LEC
+Regular
+TBA
+TBA
+Kevin Kjos
+08/29/2016 - 12/17/2016
+Closed
+MUP  230 - Chamber Ensemble MUP 230 - Chamber Ensemble 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2116
+010-LEC
+Regular
+MoWe 5:00PM - 5:50PM
+SA REHEARSAL ROOM 14G
+Maria Asteriadou
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2158
+040-LEC
+Regular
+MoWe 12:00PM - 12:50PM
+SA REHEARSAL ROOM 14G
+Maria Asteriadou
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2117
+610-LEC
+Regular
+MoWe 6:00PM - 6:50PM
+SA REHEARSAL ROOM 14G
+Maria Asteriadou
+08/29/2016 - 12/17/2016
+Open
+MUP  231 - String Ensemble MUP 231 - String Ensemble 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2118
+010-LEC
+Regular
+Mo 3:00PM - 3:50PM
+SA REHEARSAL ROOM 14G
+Mary Ogletree
+08/29/2016 - 12/17/2016
+Open
+MUP  232 - Woodwind Ensemble MUP 232 - Woodwind Ensemble 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2120
+110-LEC
+Regular
+Tu 4:30PM - 5:20PM
+Tu 4:30PM - 5:20PM
+SA REHEARSAL ROOM 14G
+TBA
+Jeremy Justeson
+Jeremy Justeson
+08/29/2016 - 12/17/2016
+08/29/2016 - 12/17/2016
+Open
+Topic: SAXOPHONE CHOIR
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2119
+310-LEC
+Regular
+Tu 7:00PM - 7:50PM
+OM 31
+Susanna Loewy
+08/29/2016 - 12/17/2016
+Closed
+Topic: FLUTE ENSEMBLE
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2121
+311-LEC
+Regular
+Tu 7:00PM - 7:50PM
+SA MUSIC CLASSROOM13G
+Soo Goh
+08/29/2016 - 12/17/2016
+Open
+Topic: CLARINET CHOIR
+MUP  233 - Brass Ensemble MUP 233 - Brass Ensemble 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2154
+510-LEC
+Regular
+Th 7:45PM - 9:15PM
+SA REHEARSAL ROOM 114
+Daniel Neuenschwander
+08/29/2016 - 12/17/2016
+Open
+MUP  234 - Percussion Ensemble MUP 234 - Percussion Ensemble 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2123
+010-LEC
+Regular
+TuTh 9:30AM - 10:20AM
+OM 269
+Francis Kumor
+08/29/2016 - 12/17/2016
+Open
+Topic: CONCERT PERCUSSION ENSEMBLE
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2156
+020-LEC
+Regular
+TuTh 8:30AM - 9:20AM
+OM 269
+Francis Kumor
+08/29/2016 - 12/17/2016
+Open
+Topic: WORLD PERCUSSION ENSEMBLE
+MUP  235 - Vocal Ensemble MUP 235 - Vocal Ensemble 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2124
+010-LEC
+Regular
+Fr 1:00PM - 1:50PM
+SA REHEARSAL ROOM 14G
+James Kirkwood
+08/29/2016 - 12/17/2016
+Open
+Topic: AFTER HOURS
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3004
+020-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+TBA
+Henry Alviani
+08/29/2016 - 12/17/2016
+Open
+Topic: CHAMBER SINGERS
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2125
+030-LEC
+Regular
+TuTh 3:00PM - 4:20PM
+SA REHEARSAL ROOM 14G
+Henry Alviani
+08/29/2016 - 12/17/2016
+Open
+Topic: BEAR VOICES
+MUP  236 - Applied Music: French Horn (Pr) MUP 236 - Applied Music: French Horn (Pr) 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2126
+010-LEC
+Regular
+TBA
+TBA
+Shari Gleason-Mayrhofer
+08/29/2016 - 12/17/2016
+Open
+MUP  237 - Applied Music: Piano (Pr) MUP 237 - Applied Music: Piano (Pr) 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2127
+010-LEC
+Regular
+TBA
+TBA
+Maria Asteriadou
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2128
+020-LEC
+Regular
+TBA
+TBA
+Ina Grapenthin
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2129
+030-LEC
+Regular
+TBA
+TBA
+James Kirkwood
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2130
+040-LEC
+Regular
+TBA
+TBA
+Daniel Immel
+08/29/2016 - 12/17/2016
+Closed
+MUP  238 - Applied Music: Organ (Pr) MUP 238 - Applied Music: Organ (Pr) 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2131
+010-LEC
+Regular
+TBA
+TBA
+Ina Grapenthin
+08/29/2016 - 12/17/2016
+Closed
+MUP  239 - Applied Music: Voice (Pr) MUP 239 - Applied Music: Voice (Pr) 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2132
+010-LEC
+Regular
+TBA
+TBA
+Trucilla Sabatino
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2161
+020-LEC
+Regular
+TBA
+TBA
+Henry Alviani
+08/29/2016 - 12/17/2016
+Open
+MUP  240 - Applied Music: Viola (Pr) MUP 240 - Applied Music: Viola (Pr) 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2159
+010-LEC
+Regular
+TBA
+TBA
+Mary Ogletree
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2133
+020-LEC
+Regular
+TBA
+TBA
+Peter Isaacson
+08/29/2016 - 12/17/2016
+Open
+MUP  241 - Applied Music: Cello (Pr) MUP 241 - Applied Music: Cello (Pr) 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2134
+010-LEC
+Regular
+TBA
+TBA
+Marie Cadieux
+08/29/2016 - 12/17/2016
+Open
+MUP  242 - Applied Music: String Bass (Pr) MUP 242 - Applied Music: String Bass (Pr) 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2162
+010-LEC
+Regular
+TBA
+TBA
+Marie Cadieux
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2135
+020-LEC
+Regular
+TBA
+TBA
+Carver Lee
+08/29/2016 - 12/17/2016
+Closed
+Topic: JAZZ STRING BASS
+MUP  243 - Applied Music: Flute (Pr) MUP 243 - Applied Music: Flute (Pr) 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2136
+010-LEC
+Regular
+TBA
+TBA
+Susanna Loewy
+08/29/2016 - 12/17/2016
+Closed
+MUP  244 - Applied Music: Oboe (Pr) MUP 244 - Applied Music: Oboe (Pr) 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2137
+010-LEC
+Regular
+TBA
+TBA
+Kim Webster
+08/29/2016 - 12/17/2016
+Closed
+MUP  245 - Applied Music: Clarinet (Pr) MUP 245 - Applied Music: Clarinet (Pr) 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2138
+010-LEC
+Regular
+TBA
+TBA
+Soo Goh
+08/29/2016 - 12/17/2016
+Open
+MUP  246 - Applied Music: Bassoon (Pr) MUP 246 - Applied Music: Bassoon (Pr) 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2139
+010-LEC
+Regular
+TBA
+TBA
+Valerie Trollinger
+08/29/2016 - 12/17/2016
+Open
+MUP  247 - Applied Music: Saxophone (Pr) MUP 247 - Applied Music: Saxophone (Pr) 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2140
+010-LEC
+Regular
+TBA
+TBA
+Jeremy Justeson
+08/29/2016 - 12/17/2016
+Closed
+MUP  248 - Applied Music: Trumpet (Pr) MUP 248 - Applied Music: Trumpet (Pr) 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2141
+010-LEC
+Regular
+TBA
+TBA
+Kevin Kjos
+08/29/2016 - 12/17/2016
+Open
+MUP  249 - Applied Music: Violin (Pr) MUP 249 - Applied Music: Violin (Pr) 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2142
+010-LEC
+Regular
+TBA
+TBA
+Mary Ogletree
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2160
+020-LEC
+Regular
+TBA
+TBA
+Peter Isaacson
+08/29/2016 - 12/17/2016
+Closed
+MUP  250 - Applied Music: Baritone Horn/Trombone (Pr) MUP 250 - Applied Music: Baritone Horn/Trombone (Pr) 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2143
+010-LEC
+Regular
+TBA
+TBA
+Staff
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2144
+020-LEC
+Regular
+TBA
+TBA
+Daniel Neuenschwander
+08/29/2016 - 12/17/2016
+Closed
+MUP  252 - Applied Music: Tuba (Pr) MUP 252 - Applied Music: Tuba (Pr) 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2145
+010-LEC
+Regular
+TBA
+TBA
+Staff
+08/29/2016 - 12/17/2016
+Closed
+MUP  253 - Applied Music: Percussion (Pr) MUP 253 - Applied Music: Percussion (Pr) 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2146
+010-LEC
+Regular
+TBA
+TBA
+Francis Kumor
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2170
+020-LEC
+Regular
+TBA
+TBA
+Anthony Merlino
+08/29/2016 - 12/17/2016
+Closed
+MUP  254 - Applied Music: Guitar (Pr) MUP 254 - Applied Music: Guitar (Pr) 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2147
+010-LEC
+Regular
+TBA
+TBA
+Nathaniel Radley
+08/29/2016 - 12/17/2016
+Closed
+MUP  275 - Jazz Combo MUP 275 - Jazz Combo 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2164
+10-LEC
+Regular
+Mo 11:00AM - 11:50AM
+SA REHEARSAL ROOM 14G
+Carver Lee
+08/29/2016 - 12/17/2016
+Open
+MUP  276 - Popular Music Ensemble MUP 276 - Popular Music Ensemble 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2169
+010-LEC
+Regular
+TBA
+TBA
+Nathaniel Radley
+08/29/2016 - 12/17/2016
+Open
+MUP  281 - University Band MUP 281 - University Band 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2148
+020-LEC
+Regular
+TuTh 3:00PM - 4:20PM
+TBA
+Daniel Neuenschwander
+08/29/2016 - 12/17/2016
+Open
+Topic: CONCERT BAND
+MUP  282 - University Marching Band MUP 282 - University Marching Band 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2157
+610-LEC
+Regular
+MoWeFr 3:00PM - 4:20PM
+Sa 8:00AM - 9:20AM
+MoWeFr 3:00PM - 4:20PM
+Sa 8:00AM - 9:20AM
+TBA
+TBA
+SA REHEARSAL ROOM 114
+SA REHEARSAL ROOM 114
+Daniel Neuenschwander
+Daniel Neuenschwander
+Daniel Neuenschwander
+Daniel Neuenschwander
+08/29/2016 - 12/17/2016
+08/29/2016 - 12/17/2016
+08/29/2016 - 12/17/2016
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2172
+611-LEC
+Regular
+MoWeFr 3:00PM - 4:20PM
+Sa 8:00AM - 9:20AM
+MoWeFr 3:00PM - 4:20PM
+Sa 8:00AM - 9:20AM
+TBA
+TBA
+OM 31
+OM 31
+Daniel Neuenschwander
+Daniel Neuenschwander
+Daniel Neuenschwander
+Daniel Neuenschwander
+08/29/2016 - 12/17/2016
+08/29/2016 - 12/17/2016
+08/29/2016 - 12/17/2016
+08/29/2016 - 12/17/2016
+Closed
+MUP  283 - University Choir MUP 283 - University Choir 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2149
+010-LEC
+Regular
+MoWeFr 2:00PM - 2:50PM
+SA MUSIC CLASSROOM13G
+Henry Alviani
+08/29/2016 - 12/17/2016
+Open
+MUP  285 - University Orchestra MUP 285 - University Orchestra 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2150
+010-LEC
+Regular
+TuTh 4:30PM - 5:50PM
+SA REHEARSAL ROOM 114
+Peter Isaacson
+08/29/2016 - 12/17/2016
+Open
+MUP  289 - Large Jazz Ensemble MUP 289 - Large Jazz Ensemble 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2151
+010-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+MoWeFr 12:00PM - 12:50PM
+SA LITTLE THEATER 1G
+SA REHEARSAL ROOM 114
+Kevin Kjos
+Kevin Kjos
+08/29/2016 - 12/17/2016
+08/29/2016 - 12/17/2016
+Open
+Topic: JAZZ ENSEMBLE I
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2152
+030-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+TuTh 1:30PM - 2:50PM
+SA LITTLE THEATER 1G
+SA REHEARSAL ROOM 114
+Kevin Kjos
+Kevin Kjos
+08/29/2016 - 12/17/2016
+08/29/2016 - 12/17/2016
+Open
+Topic: JAZZ ENSEMBLE II
+MUP  399 - Senior Recital MUP 399 - Senior Recital 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3483
+010-LEC
+Regular
+TBA
+TBA
+Soo Goh
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3484
+020-LEC
+Regular
+TBA
+TBA
+Jeremy Justeson
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2163
+030-LEC
+Regular
+TBA
+TBA
+Susanna Loewy
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2153
+050-LEC
+Regular
+TBA
+TBA
+Trucilla Sabatino
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2165
+060-LEC
+Regular
+TBA
+TBA
+Shari Gleason-Mayrhofer
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2166
+070-LEC
+Regular
+TBA
+TBA
+Mary Ogletree
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2167
+080-LEC
+Regular
+TBA
+TBA
+John Metcalf
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2168
+090-LEC
+Regular
+TBA
+TBA
+Daniel Neuenschwander
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3485
+110-LEC
+Regular
+TBA
+TBA
+Adriana Linares
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2155
+130-LEC
+Regular
+TBA
+TBA
+Francis Kumor
+08/29/2016 - 12/17/2016
+Closed

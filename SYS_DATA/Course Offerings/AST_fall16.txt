@@ -1,0 +1,114 @@
+ AST   20 - Introductory Astronomy AST 20 - Introductory Astronomy 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1492
+020-LEC
+Regular
+TuTh 4:00PM - 4:50PM
+BH 145
+Phillip Reed
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1494
+022-LAB
+Regular
+Tu 2:00PM - 3:50PM
+GR 302
+Paul Quinn
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1495
+023-LAB
+Regular
+We 12:00PM - 1:50PM
+GR 302
+Phillip Reed
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3482
+024-LAB
+Regular
+Mo 3:00PM - 4:50PM
+GR 302
+Erin Kraal
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1497
+323-LAB
+Regular
+Tu 6:00PM - 7:50PM
+GR 302
+Eric Laub
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1499
+525-LAB
+Regular
+Th 6:00PM - 7:50PM
+GR 302
+Eric Laub
+08/29/2016 - 12/17/2016
+Open
+ AST  140QL - Planetary Science AST 140QL - Planetary Science 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1506
+010-LEC
+Regular
+Tu 12:00PM - 1:50PM
+GR 302
+Erin Kraal
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1507
+011-LAB
+Regular
+Th 12:00PM - 1:50PM
+GR 302
+Erin Kraal
+08/29/2016 - 12/17/2016
+Open
+ AST  240 - The Planetarium AST 240 - The Planetarium 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3525
+990-LEC
+Regular
+TBA
+TBA
+Phillip Reed
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3526
+991-LAB
+Regular
+TBA
+TBA
+Phillip Reed
+08/29/2016 - 12/17/2016
+Closed
+ AST  342 - Astrophysics AST 342 - Astrophysics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2878
+010-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+GR 301
+Phillip Reed
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+ AST  370 - Research in Astronomy AST 370 - Research in Astronomy 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3546
+960-LEC
+Regular
+TBA
+TBA
+Phillip Reed
+08/29/2016 - 12/17/2016
+Closed

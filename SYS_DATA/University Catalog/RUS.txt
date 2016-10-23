@@ -1,0 +1,67 @@
+15
+Intensive Intro Rus Conv
+220
+Apl Linguistics In Rus
+255CD
+Masterpieces of Russian Literature in English Translation I
+256CD
+Masterpieces of Russian Literature in English Translation II
+301
+Surv Of Russian Lit I
+310
+Russian Lit Of 20th Cen
+335
+Russian Lyric Poetry
+370
+Sel Tps In Russian
+371
+Sel Tps In Russian
+372
+Sel Tps In Russian
+373
+Sel Tps In Russian
+374
+Sel Tps In Russian
+375
+Sel Tps In Russian
+376
+Sel Tps In Russian
+377
+Sel Tps In Russian
+378
+Sel Tps In Russian
+379
+Sel Tps In Russian
+395
+Hon:indpt Study/thesis
+398
+Honors Supplemen Research
+399
+HON:RUS EXP:LIT/GEO PERSP
+410
+Phon Of Rus Lang
+425
+Sem In Pushkin
+470
+503
+Thesis
+520
+Early Russian Lit
+530
+Sem In Dostoevsky
+535
+Contmp Russian Prose
+540
+Seminar In Russian Poetry
+545
+Seminar In Tolstoy
+549
+18th Cen Russian Lit
+557
+Old Church Slavonic
+565
+Sovt Lit & Polit Contrls
+573
+Str Of Modn Ser-croatian
+581
+Contrast Ruseng Str Ling

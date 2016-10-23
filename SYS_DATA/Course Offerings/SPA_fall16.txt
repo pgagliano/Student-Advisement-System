@@ -1,0 +1,321 @@
+
+SPA   11 - Elementary Spanish I SPA 11 - Elementary Spanish I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1429
+020-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+DF 206
+Jesus Rodriguez
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1459
+021-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+DF 115
+Sylvie Dewey
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1460
+031-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+DF 115
+Rachel Salerno
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1431
+040-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+DF 206
+Scheherazada Zuniga Murphy
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3586
+041-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+DF 115
+Rachel Salerno
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1432
+050-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+DF 115
+Rachel Salerno
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1434
+060-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+DF 206
+Rachel Salerno
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3046
+070-LEC
+Regular
+MoWeFr 2:00PM - 2:50PM
+DF 110
+Scheherazada Zuniga Murphy
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1435
+080-LEC
+Regular
+MoWe 3:00PM - 4:20PM
+DF 103
+Scheherazada Zuniga Murphy
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1430
+810-LEC
+Regular
+MoWe 10:00AM - 10:50AM
+DF 206
+Carolina Moctezuma
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3587
+811-LEC
+Regular
+MoWe 12:00PM - 12:50PM
+DF 110
+Carolina Moctezuma
+08/29/2016 - 12/17/2016
+Open
+SPA   12 - Elementary Spanish II SPA 12 - Elementary Spanish II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1458
+031-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+DF 201
+Jesus Rodriguez
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1438
+040-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+DF 201
+Jesus Rodriguez
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1439
+050-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+DF 201
+Scheherazada Zuniga Murphy
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1448
+061-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+DF 201
+Angelo Rodriguez
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3319
+070-LEC
+Regular
+MoWeFr 2:00PM - 2:50PM
+DF 201
+Angelo Rodriguez
+08/29/2016 - 12/17/2016
+Open
+SPA  103 - Intermediate Spanish III SPA 103 - Intermediate Spanish III 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1440
+010-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+DF 110
+Dawn Slack
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1441
+020-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+DF 101
+Dawn Slack
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1443
+031-LEC
+Regular
+MoWeFr 2:00PM - 2:50PM
+DF 200
+Maximiliano Zuniga
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1442
+050-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+DF 110
+Maximiliano Zuniga
+08/29/2016 - 12/17/2016
+Closed
+SPA  104 - Intermediate Spanish IV SPA 104 - Intermediate Spanish IV 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1444
+010-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+DF 202
+Nancy Zimmerman
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1445
+030-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+DF 101
+Nancy Zimmerman
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1446
+050-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+DF 202
+Maximiliano Zuniga
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3728
+990-LEC
+Regular
+TBA
+TBA
+Christine Nunez
+08/29/2016 - 12/17/2016
+Closed
+SPA  207 - Writing in Spanish for the Professional World SPA 207 - Writing in Spanish for the Professional World 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3029
+010-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+DF 116
+Dawn Slack
+08/29/2016 - 12/17/2016
+Open
+SPA  212WI - Spanish Composition SPA 212WI - Spanish Composition 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1450
+020-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+DF 202
+Nancy Zimmerman
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1455
+030-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+DF 202
+Dawn Slack
+08/29/2016 - 12/17/2016
+Open
+SPA  213CM - Advanced Conversation in Spanish SPA 213CM - Advanced Conversation in Spanish 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1453
+010-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+DF 202
+Angelo Rodriguez
+08/29/2016 - 12/17/2016
+Closed
+SPA  214CDCM - Written and Oral Communication for Spanish-speaking Heritage Learners SPA 214CDCM - Written and Oral Communication for Spanish-speaking Heritage Learners 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1451
+010-LEC
+Regular
+MoWeFr 2:00PM - 2:50PM
+DF 211
+Nancy Zimmerman
+08/29/2016 - 12/17/2016
+Open
+SPA  220 - Applied Linguistics in Spanish SPA 220 - Applied Linguistics in Spanish 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1447
+010-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+DF 212
+Christine Nunez
+08/29/2016 - 12/17/2016
+Open
+SPA  330 - Contemporary Spanish Drama SPA 330 - Contemporary Spanish Drama 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3031
+010-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+DF 115
+Jesus Rodriguez
+08/29/2016 - 12/17/2016
+Open
+SPA  345CDVL - Latin American Culture and Civilization to the Nineteenth Century SPA 345CDVL - Latin American Culture and Civilization to the Nineteenth Century 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3030
+010-LEC
+Regular
+MoWeFr 2:00PM - 2:50PM
+DF 116
+Carolina Moctezuma
+08/29/2016 - 12/17/2016
+Open
+SPA  414 - Major Spanish American Short Story Writers of the New Narrative Period SPA 414 - Major Spanish American Short Story Writers of the New Narrative Period 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3032
+010-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+DF 212
+Maximiliano Zuniga
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+SPA  495 - Independent Study in Spanish SPA 495 - Independent Study in Spanish 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3690
+960-LEC
+Regular
+TBA
+TBA
+Christine Nunez
+08/29/2016 - 12/17/2016
+Closed

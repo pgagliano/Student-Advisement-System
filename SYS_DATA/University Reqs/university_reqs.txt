@@ -1,0 +1,21 @@
+Competencies:
+3    WI -> wri205/7 + csc354 + csc355
+1 QL/CP -> csc136
+1 VL/CM ->   ?
+1    CD -> phi040
+1    CT -> csc125
+---------------------------------
+University Core:
+4 - 1(mat140/mat301)
+= 3 courses
+---------------------------------
+University Distribution:
+5 - 1(wri205/7)
+= 4 courses
+---------------------------------
+College Distribution:
+11 - 1(phi040)
+= 10 courses
+=======================================
+Total = 17 gen ed courses
+*note: 1 course must include VL or CM

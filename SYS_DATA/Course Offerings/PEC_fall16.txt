@@ -1,0 +1,48 @@
+PEC   13 - Aquatic Activities PEC 13 - Aquatic Activities 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2967
+010-LEC
+Regular
+MoWe 11:00AM - 11:50AM
+KY 115
+Judith Smith
+08/29/2016 - 12/17/2016
+Open
+PEC   78 - Strength Training & Resistance Exercise PEC 78 - Strength Training & Resistance Exercise 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2968
+010-LEC
+Regular
+MoWe 9:00AM - 9:50AM
+KY 200
+Michelle Vaughn
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2969
+020-LEC
+Regular
+MoWe 10:00AM - 10:50AM
+KY 200
+Michelle Vaughn
+08/29/2016 - 12/17/2016
+Closed
+PEC   95 - Hatha Yoga PEC 95 - Hatha Yoga 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2241
+010-LEC
+Regular
+TuTh 9:00AM - 9:50AM
+KY 212
+Dina Hayduk
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2242
+020-LEC
+Regular
+TuTh 10:00AM - 10:50AM
+KY 212
+Dina Hayduk
+08/29/2016 - 12/17/2016
+Open

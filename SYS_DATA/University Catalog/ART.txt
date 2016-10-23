@@ -1,0 +1,88 @@
+10VL
+Experiencing Art
+20
+Two-Dimensional Visual Literacy
+31VL
+Two-Dimensional Design
+32VL
+Three-Dimensional Design
+120
+Introduction to Product Design
+171CP
+Computer Aided Modeling and Rendering
+(171CPVL)
+Computer Aided Modeling and Rendering
+
+** available as of 08/22/2016
+182CP
+Introduction to Digital Media
+212
+Professional Practice: Digital Communication
+231
+Digital Animation
+270
+Installations
+320
+Introduction to Material Culture Conservation
+320CD
+Introduction to Material Culture Conservation
+321
+Product Design Studio I
+322
+Product Design Studio II
+323
+Product Design Studio III
+324
+Product Design Studio IV
+325
+Product Design Studio V
+331
+Animation Studio I
+332
+Animation Studio II
+333
+Animation Studio III
+334
+Animation Studio IV
+335
+Animation Studio V
+351
+3D Animation Studio I
+352
+3D Animation Studio II
+353
+3D Animation Studio III
+354
+3D Animation Studio IV
+355
+3D Animation Studio V
+370
+Selected Topics in Art Education
+371
+Selected Topics in Art Studio
+385
+Individual Problems Seminar
+386
+Digital Sculpture
+392
+Field Experience in Art
+395
+Honors Independent Study/Thesis
+399
+Student Exhibition
+503
+Thesis
+513
+Painting In Mexico
+540
+Weaving & Textiles
+547
+Product Design
+551
+Printmaking
+560
+Painting
+571
+Selected Topics in Art Studio
+577
+Independent Study

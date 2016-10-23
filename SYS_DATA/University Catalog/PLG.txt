@@ -1,0 +1,30 @@
+120
+Introduction to Paralegal Studies
+125
+Workers' Compensation Practice for Paralegals
+130
+Social Security Disability Practice
+135
+Interviewing for Paralegals
+150
+Torts and Personal Injury Law
+200
+Civil Litigation and Procedures
+215
+Law Office Management
+220
+Contract Law and Business Organizations
+228
+Immigration Law for Paralegals
+230
+Estates and Trusts
+235
+Family Law
+240
+Bankruptcy Law
+245
+Legal Research and Writing
+250
+Legal Internship
+255
+Legal Writing

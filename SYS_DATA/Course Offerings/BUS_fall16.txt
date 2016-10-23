@@ -1,0 +1,240 @@
+ BUS  120 - Principles of Business Statistics BUS 120 - Principles of Business Statistics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1870
+010-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+DF 117
+Muratcan Erkul
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1871
+020-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+DF 117
+Muratcan Erkul
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1872
+030-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+DF 117
+Qin Geng
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1873
+040-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+DF 117
+Qin Geng
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1874
+050-LEC
+Regular
+TuTh 3:00PM - 4:20PM
+DF 27
+John Walker
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1875
+060-LEC
+Regular
+TuTh 4:30PM - 5:50PM
+DF 27
+John Walker
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1888
+810-LEC
+Regular
+TBA
+TBA
+Muhammed Dalgin
+08/29/2016 - 12/17/2016
+Closed
+ BUS  131 - Business Law I BUS 131 - Business Law I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1867
+010-LEC
+Regular
+MoWe 3:00PM - 4:20PM
+DF 100
+Janie Slamon
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1868
+020-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+DF 100
+Janie Slamon
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1869
+030-LEC
+Regular
+TuTh 3:00PM - 4:20PM
+DF 100
+Janie Slamon
+08/29/2016 - 12/17/2016
+Open
+ BUS  171CP - Business Information Systems: Theory & Practice BUS 171CP - Business Information Systems: Theory & Practice 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1876
+010-LEC
+Regular
+MoWe 3:00PM - 4:20PM
+DF 26
+Su Kong
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1877
+020-LEC
+Regular
+MoWe 4:30PM - 5:50PM
+DF 26
+Su Kong
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1878
+030-LEC
+Regular
+TuTh 8:00AM - 9:20AM
+DF 26
+Rajeev Kumar
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1879
+040-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+DF 26
+Rajeev Kumar
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1880
+050-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+DF 26
+Christine Rhoads
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1881
+060-LEC
+Regular
+TuTh 3:00PM - 4:20PM
+DF 26
+Christine Rhoads
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1882
+070-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+DF 26
+Christine Rhoads
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3659
+080-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+DF 27
+Christine Rhoads
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1883
+610-LEC
+Regular
+MoWe 6:00PM - 7:20PM
+DF 26
+Su Kong
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1884
+810-LEC
+Regular
+TBA
+TBA
+Su Kong
+08/29/2016 - 12/17/2016
+Closed
+ BUS  332WI - Business Law II BUS 332WI - Business Law II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1885
+010-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+DF 200
+Donna Steslow
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1886
+020-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+DF 200
+Patrick McCormick
+08/29/2016 - 12/17/2016
+Closed
+ BUS  390 - Internship in Business BUS 390 - Internship in Business 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3629
+970-LEC
+Regular
+TBA
+TBA
+Therese Maskulka
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3632
+971-LEC
+Regular
+TBA
+TBA
+Ashwini Gangadharan
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3730
+972-LEC
+Regular
+TBA
+TBA
+Roger Hibbs
+08/29/2016 - 12/17/2016
+Closed
+ BUS  395 - Honors Independent Study/Thesis BUS 395 - Honors Independent Study/Thesis 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3544
+960-LEC
+Regular
+TBA
+TBA
+Roger Hibbs
+08/29/2016 - 12/17/2016
+Closed

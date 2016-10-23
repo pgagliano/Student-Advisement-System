@@ -1,0 +1,315 @@
+MGM  210 - Principles of Management MGM 210 - Principles of Management 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1958
+020-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+DF 210
+Jeffrey Whitmoyer
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1983
+030-LEC
+Regular
+MoWe 3:00PM - 4:20PM
+DF 210
+Staff
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3006
+040-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+DF 201
+Staff
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3044
+810-LEC
+Regular
+TBA
+TBA
+Ashwini Gangadharan
+08/29/2016 - 12/17/2016
+Closed
+MGM  315 - Management Science MGM 315 - Management Science 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2876
+010-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+DF 27
+Gary Chao
+08/29/2016 - 12/17/2016
+Closed
+MGM  327 - Small Business Management MGM 327 - Small Business Management 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1988
+010-LEC
+Regular
+MoWe 4:30PM - 5:50PM
+DF 116
+Shawn Riley
+08/29/2016 - 12/17/2016
+Open
+MGM  335CM - Human Resource Management MGM 335CM - Human Resource Management 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1977
+020-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+DF 23
+Lee Weyant
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1978
+030-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+DF 23
+Lee Weyant
+08/29/2016 - 12/17/2016
+Closed
+MGM  338 - Management of Compensation and Benefits MGM 338 - Management of Compensation and Benefits 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2889
+810-LEC
+Regular
+TBA
+TBA
+Lee Weyant
+08/29/2016 - 12/17/2016
+Closed
+MGM  350 - Organizational Behavior in Management MGM 350 - Organizational Behavior in Management 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1955
+010-LEC
+Regular
+TuTh 3:00PM - 4:20PM
+DF 211
+Ashwini Gangadharan
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1956
+020-LEC
+Regular
+TuTh 4:30PM - 5:50PM
+DF 211
+Ashwini Gangadharan
+08/29/2016 - 12/17/2016
+Open
+MGM  351 - Operations Management MGM 351 - Operations Management 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1968
+010-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+DF 117
+Stephen Hensler
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1969
+020-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+DF 117
+Stephen Hensler
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1970
+030-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+DF 117
+Rajeev Kumar
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1971
+040-LEC
+Regular
+TuTh 3:00PM - 4:20PM
+DF 117
+Rajeev Kumar
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2893
+410-LEC
+Regular
+We 6:00PM - 8:50PM
+DF 27
+Muratcan Erkul
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1966
+810-LEC
+Regular
+TBA
+TBA
+Qin Geng
+08/29/2016 - 12/17/2016
+Open
+MGM  352CD - International Management MGM 352CD - International Management 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1975
+010-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+DF 24
+Staff
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1976
+020-LEC
+Regular
+TuTh 4:30PM - 5:50PM
+DF 215
+Staff
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3560
+810-LEC
+Regular
+TBA
+TBA
+Carolyn Gardner
+08/29/2016 - 12/17/2016
+Closed
+MGM  360 - Business and Social Environment MGM 360 - Business and Social Environment 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1963
+010-LEC
+Regular
+MoWe 3:00PM - 4:20PM
+DF 23
+Carolyn Gardner
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1984
+020-LEC
+Regular
+MoWe 4:30PM - 5:50PM
+DF 23
+Carolyn Gardner
+08/29/2016 - 12/17/2016
+Open
+MGM  361 - Principles of Business Logistics MGM 361 - Principles of Business Logistics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1964
+010-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+DF 215
+Stephen Hensler
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1965
+020-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+DF 215
+Stephen Hensler
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+MGM  362 - Supply Chain Planning and Management MGM 362 - Supply Chain Planning and Management 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2880
+010-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+DF 26
+Qin Geng
+08/29/2016 - 12/17/2016
+Open
+MGM  363 - TRANSPORTATION MANAGEMENT MGM 363 - TRANSPORTATION MANAGEMENT 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2864
+020-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+DF 114
+Gary Chao
+08/29/2016 - 12/17/2016
+Open
+MGM  371 - Selected Topics in Management MGM 371 - Selected Topics in Management 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3007
+010-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+DF 210
+Lee Weyant
+08/29/2016 - 12/17/2016
+Open
+Topic: EMPLOYEE BENEFITS
+MGM  380WI - Senior Seminar in Management MGM 380WI - Senior Seminar in Management 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1989
+010-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+DF 210
+Roger Hibbs
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2866
+020-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+DF 212
+Roger Hibbs
+08/29/2016 - 12/17/2016
+Open
+MGM  399CT - Business Strategy and Policy MGM 399CT - Business Strategy and Policy 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1959
+010-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+DF 215
+Shawn Riley
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1960
+020-LEC
+Regular
+TuTh 3:00PM - 4:20PM
+DF 206
+Shawn Riley
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1961
+030-LEC
+Regular
+MoWe 3:00PM - 4:20PM
+DF 206
+Roger Hibbs
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1962
+410-LEC
+Regular
+We 6:00PM - 8:50PM
+DF 212
+Roger Hibbs
+08/29/2016 - 12/17/2016
+Closed

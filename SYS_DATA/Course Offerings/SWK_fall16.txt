@@ -1,0 +1,423 @@
+SWK  100CDCT - Introduction to Social Work and Social Welfare SWK 100CDCT - Introduction to Social Work and Social Welfare 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1642
+010-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+AF 103
+FangHsun Wei
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1643
+020-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+AF 103
+FangHsun Wei
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1644
+030-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+BH 260
+Yoon Mi Kim
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1645
+040-LEC
+Regular
+TuTh 3:00PM - 4:20PM
+OM 25
+Yoon Mi Kim
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1646
+810-LEC
+Regular
+TBA
+TBA
+Barth Yeboah
+08/29/2016 - 12/17/2016
+Open
+SWK  130CDCT - Poverty and Social Welfare SWK 130CDCT - Poverty and Social Welfare 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1647
+010-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+OM 25
+Stephen Stoeffler
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1648
+020-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+OM 25
+Stephen Stoeffler
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1649
+040-LEC
+Regular
+MoWeFr 2:00PM - 2:50PM
+OM 25
+Stephen Stoeffler
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1669
+050-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+OM 25
+Juliana Svistova
+08/29/2016 - 12/17/2016
+Closed
+SWK  160CD - Human Behavior and Social Environment SWK 160CD - Human Behavior and Social Environment 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1650
+010-LEC
+Regular
+Mo 3:00PM - 5:50PM
+OM 25
+Mary Weller
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1652
+030-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+OM 23
+Staff
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1651
+810-LEC
+Regular
+TBA
+TBA
+Juliana Svistova
+08/29/2016 - 12/17/2016
+Open
+SWK  200CMWI - The Professional Context of Social Work Practice SWK 200CMWI - The Professional Context of Social Work Practice 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1664
+410-LEC
+Regular
+We 6:00PM - 8:50PM
+OM 123
+Mary Weller
+08/29/2016 - 12/17/2016
+Open
+SWK  250 - Social Work With Individuals: Practice I SWK 250 - Social Work With Individuals: Practice I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1615
+010-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+OM 21
+Edward Hanna
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1616
+020-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+OM 23
+Staff
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1660
+030-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+OM 21
+FangHsun Wei
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1661
+040-LEC
+Regular
+Mo 3:00PM - 5:50PM
+OM 21
+Staff
+08/29/2016 - 12/17/2016
+Open
+SWK  255WICD - Social Welfare Policy SWK 255WICD - Social Welfare Policy 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1653
+010-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+OM 23
+Yasoda Sharma
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1659
+020-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+OM 25
+Yasoda Sharma
+08/29/2016 - 12/17/2016
+Open
+SWK  280 - Social Work Practice With Communities and Organizations: Practice III SWK 280 - Social Work Practice With Communities and Organizations: Practice III 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1618
+010-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+OM 23
+Juliana Svistova
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1665
+020-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+OM 123
+Juliana Svistova
+08/29/2016 - 12/17/2016
+Open
+SWK  285 - Essential Skills for Helping People SWK 285 - Essential Skills for Helping People 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1619
+010-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+OM 21
+Janice Gasker
+08/29/2016 - 12/17/2016
+Closed
+SWK  286 - Social Work and Substance Abuse SWK 286 - Social Work and Substance Abuse 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1668
+510-LEC
+Regular
+Th 6:00PM - 8:50PM
+OM 21
+Staff
+08/29/2016 - 12/17/2016
+Closed
+SWK  290 - Social Gerontology and Social Welfare SWK 290 - Social Gerontology and Social Welfare 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3035
+010-LEC
+Regular
+Mo 3:00PM - 5:50PM
+OM 280
+Staff
+08/29/2016 - 12/17/2016
+Open
+SWK  320 - Case Management - an Interdisciplinary Approach SWK 320 - Case Management - an Interdisciplinary Approach 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1654
+010-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+OM 23
+Staff
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1662
+210-LEC
+Regular
+Mo 6:00PM - 8:50PM
+OM 25
+Staff
+08/29/2016 - 12/17/2016
+Open
+SWK  328 - Child Welfare and Social Work Practice SWK 328 - Child Welfare and Social Work Practice 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3010
+310-LEC
+Regular
+Tu 6:00PM - 8:50PM
+OM 25
+Staff
+08/29/2016 - 12/17/2016
+Open
+SWK  360CTQL - Methods and Practice of Social Work Research SWK 360CTQL - Methods and Practice of Social Work Research 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1655
+010-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+OM 25
+Yasoda Sharma
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1656
+020-LEC
+Regular
+MoWeFr 2:00PM - 2:50PM
+OM 21
+Varsha Pandya
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1666
+030-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+OM 21
+Yasoda Sharma
+08/29/2016 - 12/17/2016
+Closed
+SWK  379 - Independent Study SWK 379 - Independent Study 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3689
+960-LEC
+Regular
+TBA
+TBA
+Yasoda Sharma
+08/29/2016 - 12/17/2016
+Closed
+SWK  381 - Field Instruction in Social Work I SWK 381 - Field Instruction in Social Work I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3634
+970-LEC
+Regular
+TBA
+TBA
+Heather LaBarre
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3635
+971-LEC
+Regular
+TBA
+TBA
+Timothy Seip
+08/29/2016 - 12/17/2016
+Closed
+SWK  382CTWI - Professional Seminar in Social Work I SWK 382CTWI - Professional Seminar in Social Work I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1657
+010-LEC
+Regular
+We 3:00PM - 5:50PM
+OM 21
+Barth Yeboah
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1658
+020-LEC
+Regular
+We 3:00PM - 5:50PM
+OM 25
+Sharon Lyter
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1667
+030-LEC
+Regular
+We 3:00PM - 5:50PM
+OM 22A
+Varsha Pandya
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1672
+040-LEC
+Regular
+We 3:00PM - 5:50PM
+OM 280
+John Conahan
+08/29/2016 - 12/17/2016
+Closed
+SWK  400 - Foundations in Human Behavior in the Social Environment SWK 400 - Foundations in Human Behavior in the Social Environment 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1622
+010-LEC
+Regular
+Mo 7:00AM - 9:50AM
+OM 25
+Stephen Stoeffler
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1623
+810-LEC
+Regular
+Sa 3:00PM - 4:50PM
+TBA
+Mary Weller
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+SWK  450 - Foundations of Social Work Practice with Individuals SWK 450 - Foundations of Social Work Practice with Individuals 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1626
+010-LEC
+Regular
+Tu 7:00AM - 9:50AM
+OM 26
+Edward Hanna
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1627
+610-LEC
+Regular
+Sa 12:00PM - 2:50PM
+OM 25
+Staff
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+SWK  460 - Foundations of Social Work Research Methods SWK 460 - Foundations of Social Work Research Methods 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1630
+010-LEC
+Regular
+We 7:00AM - 9:50AM
+OM 25
+Yoon Mi Kim
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1631
+610-LEC
+Regular
+Sa 8:00AM - 10:50AM
+OM 23
+Yoon Mi Kim
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+SWK  482 - Integrated Generalist Social Work Practice Seminar SWK 482 - Integrated Generalist Social Work Practice Seminar 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1632
+010-LEC
+Regular
+Fr 7:00AM - 9:50AM
+OM 25
+Sharon Lyter
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class

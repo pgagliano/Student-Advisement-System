@@ -1,0 +1,95 @@
+ENV  100 - Introduction to Environmental Science ENV 100 - Introduction to Environmental Science 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1064
+010-LEC
+Regular
+TuTh 12:00PM - 12:50PM
+BH 104
+Christopher Habeck, 
+Jacob Sewall, 
+Julie Palkendo
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1065
+011-LAB
+Regular
+We 2:00PM - 4:50PM
+BH 109
+Christopher Habeck, 
+Jacob Sewall, 
+Julie Palkendo
+08/29/2016 - 12/17/2016
+Closed
+ENV  210 - Environmental Geology ENV 210 - Environmental Geology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1066
+010-LEC
+Regular
+MoWe 9:00AM - 9:50AM
+BH 126
+Jacob Sewall
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1067
+011-LAB
+Regular
+Th 2:00PM - 4:50PM
+BH 126
+Jacob Sewall
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+ENV  224 - Applied Environmental Microbiology ENV 224 - Applied Environmental Microbiology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1068
+010-LEC
+Regular
+MoWe 10:00AM - 10:50AM
+AF 201
+Daniel Aruscavage
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1069
+011-LAB
+Regular
+Tu 2:00PM - 4:50PM
+BH 211
+Daniel Aruscavage
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1071
+012-LAB
+Regular
+Mo 2:00PM - 4:50PM
+BH 211
+Daniel Aruscavage
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1072
+013-LAB
+Regular
+We 2:00PM - 4:50PM
+BH 211
+Daniel Aruscavage
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1070
+014-LAB
+Regular
+Th 1:00PM - 3:50PM
+BH 211
+Daniel Aruscavage
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class

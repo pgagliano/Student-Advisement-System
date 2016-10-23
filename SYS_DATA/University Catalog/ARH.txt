@@ -1,0 +1,84 @@
+24VL
+Art History A
+25VL
+Art History B
+26VL
+Art History C
+124CTWI
+Art History A
+125CTWI
+Art History B
+126CTWI
+Art History C
+170
+Aesthetics
+301
+Art Anc Near East & Egypt
+302
+Early Christian and Byzantine Art
+303
+Art of Ancient Greece and Rome
+304
+Renaissance Art
+305
+Medieval Art: Carolingian to High Gothic
+306
+Art of Northern Europe: 1350-1580
+307
+European Art: 1580-1780
+308
+European Art: 1780 - 1880
+308VLWI
+European Art: 1780 - 1880
+309
+Art Since 1950
+311
+English Cathedrals
+318
+Picturing Gender
+319
+Arts of the Islamic World
+321CTWI
+The History of Photography
+324CDWI
+Contemporary African-American Art
+325CDVL
+Contemporary African Art and the Diaspora
+332
+Primitive Art
+333
+Black Art
+334VLWI
+American Art
+335
+Oriental Art
+338CTWI
+European Modernism: 1880 - 1940
+339
+Independent Studies in the History of Art
+340
+Pompeii and Ravenna: Bookends of the Roman Empire
+345
+Crosscurrents in Italian and Northern Renaissance Art
+350
+Baroque Art in Italy, France and Spain between 1590 and 1700
+351
+Baroque Art in The Dutch Republic, Flanders, and England between 1590 and 1700
+365WICT
+Cut and Paste: A History of Collage
+367
+COMTEMPORARY BRITISH ART
+370CDWI
+Art Today: The Next Decade
+380
+Senior Seminar in the History of Art
+385
+Selected Topics in Art History
+390
+Internship in Art History
+395
+Honors Independent Study/Thesis
+406
+17 CNTRY DUTCH/FLEMIH PTG
+577
+Independent Study

@@ -1,0 +1,90 @@
+GER   11 - Elementary German I GER 11 - Elementary German I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1422
+010-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+DF 114
+Gregory Hanson
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3714
+020-LEC
+Regular
+MoWeFr 2:00PM - 2:50PM
+OM 136
+Gregory Hanson
+08/29/2016 - 12/17/2016
+Open
+GER   12 - Elementary German II GER 12 - Elementary German II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1423
+020-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+DF 114
+Lynn Kutch
+08/29/2016 - 12/17/2016
+Open
+GER  103 - Intermediate German III GER 103 - Intermediate German III 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1424
+010-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+DF 211
+Gregory Hanson
+08/29/2016 - 12/17/2016
+Open
+GER  104 - Intermediate German IV GER 104 - Intermediate German IV 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1425
+010-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+DF 102
+Lynn Kutch
+08/29/2016 - 12/17/2016
+Open
+GER  211WI - German Composition & Conversation I GER 211WI - German Composition & Conversation I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1426
+010-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+DF 103
+Gregory Hanson
+08/29/2016 - 12/17/2016
+Open
+GER  213 - Business German GER 213 - Business German 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3025
+010-LEC
+Regular
+MoWe 3:00PM - 4:20PM
+DF 114
+Lynn Kutch
+08/29/2016 - 12/17/2016
+Open
+GER  220 - Apl Linguistics In German GER 220 - Apl Linguistics In German 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3024
+010-LEC
+Regular
+Mo 4:30PM - 7:20PM
+DF 114
+Gregory Hanson
+08/29/2016 - 12/17/2016
+Open
+GER  253 - German Literature in English Translation I GER 253 - German Literature in English Translation I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3027
+010-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+BK 209
+Lynn Kutch
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class

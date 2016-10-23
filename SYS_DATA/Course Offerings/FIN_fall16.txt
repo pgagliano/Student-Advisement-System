@@ -1,0 +1,143 @@
+FIN  350QL - Financial Management FIN 350QL - Financial Management 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1918
+010-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+DF 213
+Justine Page
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1919
+020-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+DF 213
+Qian Sun
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1922
+030-LEC
+Regular
+TuTh 8:00AM - 9:20AM
+DF 212
+Keshav Gupta
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1923
+040-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+DF 212
+Keshav Gupta
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1924
+050-LEC
+Regular
+MoWe 3:00PM - 4:20PM
+DF 215
+Qian Sun
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1925
+410-LEC
+Regular
+We 6:00PM - 8:50PM
+DF 117
+Justine Page
+08/29/2016 - 12/17/2016
+Open
+FIN  351 - Personal Financial Planning FIN 351 - Personal Financial Planning 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1926
+020-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+BK 218
+Jonathan Kramer
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1927
+030-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+BK 218
+Jonathan Kramer
+08/29/2016 - 12/17/2016
+Closed
+FIN  354 - Investments FIN 354 - Investments 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1928
+010-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+DF 213
+Keshav Gupta
+08/29/2016 - 12/17/2016
+Closed
+FIN  355 - Investment Portfolio Management FIN 355 - Investment Portfolio Management 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1929
+010-LEC
+Regular
+TuTh 3:00PM - 4:20PM
+DF 213
+Keshav Gupta
+08/29/2016 - 12/17/2016
+Closed
+FIN  360 - Financial Markets and Institutions FIN 360 - Financial Markets and Institutions 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1930
+010-LEC
+Regular
+MoWe 3:00PM - 4:20PM
+DF 202
+John Walker
+08/29/2016 - 12/17/2016
+Open
+FIN  363 - Intermediate Financial Management FIN 363 - Intermediate Financial Management 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1920
+010-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+DF 212
+Qian Sun
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1921
+020-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+DF 212
+Qian Sun
+08/29/2016 - 12/17/2016
+Closed
+FIN  365 - Multinational Financial Management FIN 365 - Multinational Financial Management 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3643
+990-LEC
+Regular
+TBA
+TBA
+Earl Osterstock
+08/29/2016 - 12/17/2016
+Closed
+FIN  375CTWI - Applied Investment Management FIN 375CTWI - Applied Investment Management 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1931
+010-LEC
+Regular
+MoWe 4:30PM - 5:50PM
+DF 207
+John Walker
+08/29/2016 - 12/17/2016
+Closed

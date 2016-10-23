@@ -1,0 +1,73 @@
+UST    1 - University Studies: The First Year Seminar UST 1 - University Studies: The First Year Seminar 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3612
+010-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+OM 159
+Loriann Irving
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3403
+110-LEC
+Regular
+We 1:00PM - 1:50PM
+BK 240
+Carolina Moctezuma
+08/23/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3605
+111-LEC
+Regular
+We 1:00PM - 1:50PM
+BK 240
+Eric Johnson
+08/23/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3606
+112-LEC
+Regular
+We 2:00PM - 2:50PM
+AF 200
+Denise Darrah
+08/23/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3607
+113-LEC
+Regular
+We 2:00PM - 2:50PM
+AF 200
+Patricia Lutz
+08/23/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3608
+114-LEC
+Regular
+We 2:00PM - 2:50PM
+AF 200
+Thomas Stewart
+08/23/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3609
+115-LEC
+Regular
+Th 2:00PM - 2:50PM
+BH 145
+Mary O Neil
+08/23/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3610
+116-LEC
+Regular
+Th 2:00PM - 2:50PM
+BH 145
+Erin Kraal
+08/23/2016 - 12/17/2016
+Closed

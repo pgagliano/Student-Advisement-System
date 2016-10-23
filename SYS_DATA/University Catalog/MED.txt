@@ -1,0 +1,14 @@
+320
+Clinical Microbiology
+330
+Clinical Chemistry
+340
+Clinical Hematology/Coagulation
+350
+Clinical Immunohematology
+360
+Clinical Immunology/Serology
+370
+Clinical Seminar
+395
+Honors Independent Study/Thesis

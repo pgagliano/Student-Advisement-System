@@ -1,0 +1,217 @@
+ ACC  121 - Financial Accounting ACC 121 - Financial Accounting 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1843
+010-LEC
+Regular
+MoWe 3:00PM - 4:20PM
+DF 200
+David Wagaman
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1844
+020-LEC
+Regular
+MoWe 4:30PM - 5:50PM
+DF 200
+David Wagaman
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1845
+030-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+DF 214
+Mostafa Maksy
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1846
+040-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+DF 200
+Mostafa Maksy
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1848
+060-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+DF 110
+Staff
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1863
+070-LEC
+Regular
+TuTh 3:00PM - 4:20PM
+DF 110
+Staff
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1861
+210-LEC
+Regular
+Mo 6:00PM - 8:50PM
+DF 214
+Martin Levin
+08/29/2016 - 12/17/2016
+Open
+ ACC  122 - Managerial Accounting ACC 122 - Managerial Accounting 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1864
+010-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+DF 214
+Thomas Grant
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1856
+020-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+DF 214
+Thomas Grant
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1858
+030-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+DF 23
+Qian Hao
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1859
+040-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+DF 23
+Qian Hao
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1857
+410-LEC
+Regular
+We 6:00PM - 8:50PM
+DF 215
+Staff
+08/29/2016 - 12/17/2016
+Open
+ ACC  305 - Cost Accounting ACC 305 - Cost Accounting 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1853
+020-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+DF 110
+Staff
+08/29/2016 - 12/17/2016
+Closed
+ ACC  312 - Accounting Information Systems ACC 312 - Accounting Information Systems 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1860
+010-LEC
+Regular
+TuTh 4:30PM - 5:50PM
+DF 26
+Staff
+08/29/2016 - 12/17/2016
+Closed
+ ACC  317 - Tax Accounting I ACC 317 - Tax Accounting I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1854
+010-LEC
+Regular
+TuTh 8:00AM - 9:20AM
+DF 201
+David Wagaman
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1855
+020-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+DF 201
+David Wagaman
+08/29/2016 - 12/17/2016
+Closed
+ ACC  321 - Intermediate Accounting I ACC 321 - Intermediate Accounting I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1849
+010-LEC
+Regular
+MoWe 3:00PM - 4:20PM
+DF 201
+Staff
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1850
+020-LEC
+Regular
+MoWe 4:30PM - 5:50PM
+DF 201
+Staff
+08/29/2016 - 12/17/2016
+Open
+ ACC  322 - Intermediate Accounting II ACC 322 - Intermediate Accounting II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1851
+010-LEC
+Regular
+MoWe 3:00PM - 4:20PM
+DF 212
+Mostafa Maksy
+08/29/2016 - 12/17/2016
+Closed
+ ACC  323 - Advanced Accounting ACC 323 - Advanced Accounting 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1841
+010-LEC
+Regular
+MoWe 3:00PM - 4:20PM
+DF 214
+Qian Hao
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1842
+020-LEC
+Regular
+MoWe 4:30PM - 5:50PM
+DF 214
+Qian Hao
+08/29/2016 - 12/17/2016
+Open
+ ACC  330 - Auditing Practice and Standards ACC 330 - Auditing Practice and Standards 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1862
+010-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+DF 211
+Staff
+08/29/2016 - 12/17/2016
+Open
+ ACC  395 - Honors Thesis in Accounting ACC 395 - Honors Thesis in Accounting 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3727
+960-LEC
+Regular
+TBA
+TBA
+Mostafa Maksy
+08/29/2016 - 12/17/2016
+Closed

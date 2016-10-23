@@ -1,0 +1,523 @@
+ CDE  122 - Introduction to Digital Design II CDE 122 - Introduction to Digital Design II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2451
+010-LEC
+Regular
+MoWeFr 8:00AM - 8:50AM
+SH 211
+Dannell MacIlwraith
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2452
+020-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+SH 211
+Dannell MacIlwraith
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3464
+030-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+SH 214
+Miles Decoster
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3465
+040-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+SH 214
+Miles Decoster
+08/29/2016 - 12/17/2016
+Open
+ CDE  130CPVL - Typography CDE 130CPVL - Typography 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2455
+010-LEC
+Regular
+MoWeFr 10:00AM - 11:50AM
+SH 212
+Denise Bosler
+08/29/2016 - 12/17/2016
+Closed
+Topic: HONORS
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2498
+019-LEC
+Regular
+MoWeFr 10:00AM - 11:50AM
+TBA
+Karen Kresge
+08/29/2016 - 12/17/2016
+Closed
+Topic: HONORS
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2456
+020-LEC
+Regular
+MoWeFr 10:00AM - 11:50AM
+SH 213
+Karen Kresge
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2457
+030-LEC
+Regular
+TuTh 12:00PM - 2:50PM
+SH 212
+Kate Clair
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2458
+040-LEC
+Regular
+TuTh 12:00PM - 2:50PM
+SH 213
+Todd McFeely
+08/29/2016 - 12/17/2016
+Closed
+ CDE  147 - Visual Thinking CDE 147 - Visual Thinking 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2461
+010-LEC
+Regular
+MoWe 12:00PM - 1:20PM
+SH 209
+Dannell MacIlwraith
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2462
+020-LEC
+Regular
+MoWe 1:30PM - 2:50PM
+SH 209
+Dannell MacIlwraith
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2459
+030-LEC
+Regular
+MoWe 3:00PM - 4:20PM
+SH 105
+Miles Decoster
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2460
+040-LEC
+Regular
+MoWe 4:30PM - 5:50PM
+SH 105
+Miles Decoster
+08/29/2016 - 12/17/2016
+Closed
+ CDE  151 - Illustration Techniques CDE 151 - Illustration Techniques 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2464
+010-LEC
+Regular
+MoWe 3:00PM - 5:50PM
+SH 209
+Kevin McCloskey
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2463
+020-LEC
+Regular
+TuTh 3:00PM - 5:50PM
+SH 209
+Kevin McCloskey
+08/29/2016 - 12/17/2016
+Closed
+ CDE  238 - Graphic Design I: The Visual Message CDE 238 - Graphic Design I: The Visual Message 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2465
+010-LEC
+Regular
+MoWe 12:00PM - 2:50PM
+SH 105
+Vicki Meloney
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2466
+020-LEC
+Regular
+TuTh 8:00AM - 10:50AM
+SH 212
+Kate Clair
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2467
+030-LEC
+Regular
+TuTh 12:00PM - 2:50PM
+SH 105
+Elaine Cunfer
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2468
+040-LEC
+Regular
+MoWe 3:00PM - 5:50PM
+SH 212
+Holly Tienken
+08/29/2016 - 12/17/2016
+Closed
+ CDE  241 - Advertising Design I CDE 241 - Advertising Design I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2469
+010-LEC
+Regular
+MoWe 8:00AM - 10:50AM
+SH 105
+Summer Doll-Myers
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2470
+020-LEC
+Regular
+MoWe 12:00PM - 2:50PM
+SH 212
+Summer Doll-Myers
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2471
+030-LEC
+Regular
+TuTh 3:00PM - 5:50PM
+SH 213
+Ann Lemon
+08/29/2016 - 12/17/2016
+Closed
+ CDE  252 - Illustration I CDE 252 - Illustration I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2472
+010-LEC
+Regular
+MoWe 12:00PM - 2:50PM
+SH 214
+Kevin McCloskey
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2473
+020-LEC
+Regular
+TuTh 3:00PM - 5:50PM
+SH 105
+Elaine Cunfer
+08/29/2016 - 12/17/2016
+Open
+ CDE  276 - Interactive Design I: Web Design CDE 276 - Interactive Design I: Web Design 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2474
+010-LEC
+Regular
+MoWeFr 10:00AM - 11:50AM
+SH 211
+Todd McFeely
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2475
+020-LEC
+Regular
+TuTh 8:00AM - 10:50AM
+SH 211
+Joshua Miller
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2476
+030-LEC
+Regular
+TuTh 3:00PM - 5:50PM
+SH 211
+Dannell MacIlwraith
+08/29/2016 - 12/17/2016
+Closed
+ CDE  356 - Workshop: Creative Coding CDE 356 - Workshop: Creative Coding 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2500
+016-LEC
+Regular
+TuTh 12:00PM - 2:50PM
+SH 211
+Joshua Miller
+10/19/2016 - 12/17/2016
+Open
+ CDE  357 - Workshop: Typeface Design CDE 357 - Workshop: Typeface Design 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2477
+016-LEC
+Regular
+MoWe 12:00PM - 2:50PM
+SH 213
+Karen Kresge
+10/19/2016 - 12/17/2016
+Closed
+ CDE  361 - CDE Workshop: Restaurant Graphics CDE 361 - CDE Workshop: Restaurant Graphics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2478
+015-LEC
+Regular
+MoWe 3:00PM - 5:50PM
+SH 213
+Vicki Meloney
+08/29/2016 - 10/18/2016
+Closed
+Notes: This is a combined section class
+ CDE  364 - CDE Workshop: Poster Design CDE 364 - CDE Workshop: Poster Design 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2479
+015-LEC
+Regular
+TuTh 3:00PM - 5:50PM
+SH 212
+Holly Tienken
+08/29/2016 - 10/18/2016
+Closed
+ CDE  366 - CDE Workshop: Motion Graphics CDE 366 - CDE Workshop: Motion Graphics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2480
+015-LEC
+Regular
+TuTh 12:00PM - 2:50PM
+SH 211
+Joshua Miller
+08/29/2016 - 10/18/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3651
+990-LEC
+Regular
+TBA
+TBA
+Joshua Miller
+08/29/2016 - 12/17/2016
+Closed
+ CDE  367 - CDE Workshop: Package Design CDE 367 - CDE Workshop: Package Design 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2481
+016-LEC
+Regular
+MoWe 3:00PM - 5:50PM
+SH 213
+Vicki Meloney
+10/19/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+ CDE  374 - Portfolio Seminar CDE 374 - Portfolio Seminar 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2482
+016-LEC
+Regular
+TuTh 3:00PM - 5:50PM
+SH 212
+Holly Tienken
+10/19/2016 - 12/17/2016
+Open
+ CDE  377 - Independent Study in Communication Design CDE 377 - Independent Study in Communication Design 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3669
+960-LEC
+Regular
+TBA
+TBA
+Elaine Cunfer
+08/29/2016 - 12/17/2016
+Closed
+ CDE  381 - Senior Design Seminar: Corporate Publications CDE 381 - Senior Design Seminar: Corporate Publications 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2484
+016-LEC
+Regular
+MoWeFr 8:00AM - 9:50AM
+SH 213
+Denise Bosler
+10/19/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2483
+616-LEC
+Regular
+MoWe 6:00PM - 8:50PM
+SH 212
+Staff
+10/19/2016 - 12/17/2016
+Closed
+ CDE  382 - Senior Design Seminar: Identity Systems CDE 382 - Senior Design Seminar: Identity Systems 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2485
+015-LEC
+Regular
+MoWe 12:00PM - 2:50PM
+SH 213
+Karen Kresge
+08/29/2016 - 10/18/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2486
+025-LEC
+Regular
+MoWeFr 8:00AM - 9:50AM
+SH 213
+Denise Bosler
+08/29/2016 - 10/18/2016
+Closed
+Notes: This is a combined section class
+ CDE  383 - Senior Advertising Seminar: Non-Profit/Corporate I CDE 383 - Senior Advertising Seminar: Non-Profit/Corporate I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2487
+015-LEC
+Regular
+TuTh 8:00AM - 10:50AM
+SH 213
+Summer Doll-Myers
+08/29/2016 - 10/18/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2488
+025-LEC
+Regular
+TuTh 8:00AM - 10:50AM
+SH 105
+Ann Lemon
+08/29/2016 - 10/18/2016
+Open
+ CDE  384 - Senior Advertising Seminar: Consumer Product Adver CDE 384 - Senior Advertising Seminar: Consumer Product Adver 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2489
+016-LEC
+Regular
+TuTh 8:00AM - 10:50AM
+SH 213
+Summer Doll-Myers
+10/19/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2490
+026-LEC
+Regular
+TuTh 8:00AM - 10:50AM
+SH 105
+Ann Lemon
+10/19/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+ CDE  385 - Senior Interactive Design Seminar:  Advanced Web CDE 385 - Senior Interactive Design Seminar:  Advanced Web 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2491
+015-LEC
+Regular
+MoWe 12:00PM - 2:50PM
+SH 211
+Miles Decoster
+08/29/2016 - 10/18/2016
+Open
+ CDE  386 - Senior Interactive Design Seminar:  Advanced Multimedia CDE 386 - Senior Interactive Design Seminar:  Advanced Multimedia 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2492
+016-LEC
+Regular
+MoWe 12:00PM - 2:50PM
+SH 211
+Miles Decoster
+10/19/2016 - 12/17/2016
+Open
+ CDE  387 - Senior Illustration Seminar:  The Visual Essay CDE 387 - Senior Illustration Seminar:  The Visual Essay 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2493
+615-LEC
+Regular
+MoWe 6:00PM - 8:50PM
+SH 105
+Elaine Cunfer
+08/29/2016 - 10/18/2016
+Closed
+Notes: This is a combined section class
+ CDE  389 - Senior Illustration Seminar: Developing a Personal Style CDE 389 - Senior Illustration Seminar: Developing a Personal Style 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2494
+616-LEC
+Regular
+MoWe 6:00PM - 8:50PM
+SH 105
+Elaine Cunfer
+10/19/2016 - 12/17/2016
+Open
+ CDE  394 - Communication Design Internship CDE 394 - Communication Design Internship 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3561
+970-LEC
+Regular
+TBA
+TBA
+Karen Kresge
+08/29/2016 - 10/18/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3562
+971-LEC
+Regular
+TBA
+TBA
+Karen Kresge
+10/19/2016 - 12/17/2016
+Closed
+ CDE  395 - Honors Independent Study/Thesis CDE 395 - Honors Independent Study/Thesis 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3542
+960-LEC
+Regular
+TBA
+TBA
+Joshua Miller
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3668
+961-LEC
+Regular
+TBA
+TBA
+Summer Doll-Myers
+08/29/2016 - 12/17/2016
+Closed
+ CDE  398 - Communication Design Professional Practices CDE 398 - Communication Design Professional Practices 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2497
+610-LEC
+Regular
+TuTh 6:00PM - 8:50PM
+AF 202
+Holly Tienken
+08/29/2016 - 12/17/2016
+Closed
+ CDE  399 - Student Exhibition CDE 399 - Student Exhibition 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2499
+010-LEC
+Regular
+TBA
+TBA
+Kate Clair
+08/29/2016 - 12/17/2016
+Open

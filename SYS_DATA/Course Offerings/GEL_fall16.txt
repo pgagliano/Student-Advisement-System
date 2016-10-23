@@ -1,0 +1,255 @@
+GEL    1 - Dinosaurs GEL 1 - Dinosaurs 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1561
+010-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+BH 145
+Edward Simpson
+08/29/2016 - 12/17/2016
+Closed
+GEL   20 - Introduction to Geology GEL 20 - Introduction to Geology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1562
+010-LEC
+Regular
+MoWe 10:00AM - 10:50AM
+BH 145
+Sarah Tindall
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1563
+011-LAB
+Regular
+Mo 1:00PM - 2:50PM
+BH 130
+Kurt Friehauf
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1564
+012-LAB
+Regular
+Tu 1:00PM - 2:50PM
+BH 130
+Sarah Tindall
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1565
+013-LAB
+Regular
+We 2:00PM - 3:50PM
+BH 130
+Kurt Friehauf
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1573
+014-LAB
+Regular
+Th 9:00AM - 10:50AM
+BH 130
+Christopher Bochicchio
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2907
+015-LAB
+Regular
+Th 1:00PM - 2:50PM
+BH 130
+Sarah Tindall
+08/29/2016 - 12/17/2016
+Open
+GEL   31 - Geology of the National Parks and Monuments GEL 31 - Geology of the National Parks and Monuments 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2835
+010-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+AF 201
+Kurt Friehauf
+08/29/2016 - 12/17/2016
+Open
+GEL  100 - Physical Geology GEL 100 - Physical Geology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1566
+010-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+BH 260
+Laura Sherrod
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1567
+011-LAB
+Regular
+Mo 2:00PM - 4:50PM
+BH 132
+Christopher Bochicchio
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1568
+012-LAB
+Regular
+We 2:00PM - 4:50PM
+BH 132
+Laura Sherrod
+08/29/2016 - 12/17/2016
+Closed
+GEL  110 - Introduction to Oceanography GEL 110 - Introduction to Oceanography 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1569
+010-LEC
+Regular
+MoWe 1:00PM - 1:50PM
+BH 260
+Christopher Bochicchio
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1570
+011-LAB
+Regular
+Tu 2:00PM - 4:50PM
+BH 256
+Christopher Bochicchio
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1580
+012-LAB
+Regular
+We 2:00PM - 4:50PM
+BH 256
+Christopher Bochicchio
+08/29/2016 - 12/17/2016
+Closed
+Notes: This is a combined section class
+GEL  200VL - Field Geology GEL 200VL - Field Geology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1574
+010-LEC
+Regular
+TuTh 9:30AM - 10:20AM
+BH 126
+Sarah Tindall
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1575
+611-LAB
+Regular
+Sa 8:00AM - 4:50PM
+TBA
+Sarah Tindall
+08/29/2016 - 12/17/2016
+Closed
+GEL  210 - Environmental Geology GEL 210 - Environmental Geology 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1571
+010-LEC
+Regular
+MoWe 9:00AM - 9:50AM
+BH 126
+Jacob Sewall
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1572
+011-LAB
+Regular
+Th 2:00PM - 4:50PM
+BH 126
+Jacob Sewall
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+GEL  220CT - Mineralogy GEL 220CT - Mineralogy 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2851
+010-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+BH 126
+Kurt Friehauf
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2903
+011-LAB
+Regular
+Tu 2:00PM - 4:50PM
+BH 126
+Kurt Friehauf
+08/29/2016 - 12/17/2016
+Closed
+GEL  346WI - Sedimentology and Stratigraphy GEL 346WI - Sedimentology and Stratigraphy 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1576
+010-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+BH 126
+Jacob Sewall
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1577
+011-LAB
+Regular
+Mo 2:00PM - 4:50PM
+BH 126
+Jacob Sewall
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+GEL  358CP - General Geophysics GEL 358CP - General Geophysics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1578
+010-LEC
+Regular
+WeFr 12:00PM - 12:50PM
+BH 126
+Laura Sherrod
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1579
+011-LAB
+Regular
+Fr 2:00PM - 4:50PM
+BH 126
+Laura Sherrod
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+GEL  368 - Research in Geology I GEL 368 - Research in Geology I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3676
+960-LEC
+Regular
+TBA
+TBA
+Edward Simpson
+08/29/2016 - 12/17/2016
+Closed
+GEL  369 - Research in Geology II GEL 369 - Research in Geology II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3666
+960-LEC
+Regular
+TBA
+TBA
+Edward Simpson
+08/29/2016 - 12/17/2016
+Open

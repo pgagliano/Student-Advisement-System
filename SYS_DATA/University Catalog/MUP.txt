@@ -1,0 +1,158 @@
+229
+Applied Jazz Instruction
+230
+Chamber Ensemble
+231
+String Ensemble
+232
+Woodwind Ensemble
+233
+Brass Ensemble
+234
+Percussion Ensemble
+235
+Vocal Ensemble
+236
+Applied Music: French Horn (Pr)
+237
+Applied Music: Piano (Pr)
+238
+Applied Music: Organ (Pr)
+239
+Applied Music: Voice (Pr)
+240
+Applied Music: Viola (Pr)
+241
+Applied Music: Cello (Pr)
+242
+Applied Music: String Bass (Pr)
+243
+Applied Music: Flute (Pr)
+244
+Applied Music: Oboe (Pr)
+245
+Applied Music: Clarinet (Pr)
+246
+Applied Music: Bassoon (Pr)
+247
+Applied Music: Saxophone (Pr)
+248
+Applied Music: Trumpet (Pr)
+249
+Applied Music: Violin (Pr)
+250
+Applied Music: Baritone Horn/Trombone (Pr)
+251
+Recorder Ensemble
+252
+Applied Music: Tuba (Pr)
+253
+Applied Music: Percussion (Pr)
+254
+Applied Music: Guitar (Pr)
+275
+Jazz Combo
+276
+Popular Music Ensemble
+277
+Studio Performance Seminar
+281
+University Band
+282
+University Marching Band
+283
+University Choir
+285
+University Orchestra
+287
+New Music Ensemble
+289
+Large Jazz Ensemble
+296
+Musical Theatre Workshop
+399
+Senior Recital
+430
+Chamber Ensemble
+431
+String Ensemble
+432
+Woodwind Ensemble
+433
+Brass Ensemble
+434
+Percussion Ensemble
+435
+Vocal Ensemble
+436
+Applied Music: French Horn (Pr)
+437
+Applied Music: Piano (Pr)
+438
+Applied Music: Organ (Pr)
+439
+Applied Music: Voice (Pr)
+440
+Applied Music: Viola (Pr)
+441
+Applied Music: Cello (Pr)
+442
+Applied Music: String Bass (Pr)
+443
+Applied Music: Flute (Pr)
+444
+Applied Music: Oboe (Pr)
+445
+Applied Music: Clarinet (Pr)
+446
+Applied Music: Bassoon (Pr)
+447
+Applied Music: Saxophone (Pr)
+448
+Applied Music: Trumpet (Pr)
+449
+Applied Music: Violin (Pr)
+450
+Applied Music: Trombone (Pr)
+455
+String Ensemble
+456
+Woodwind Ensemble
+457
+Brass Ensemble
+458
+Percussion Ensemble
+459
+Vocal Ensemble
+460
+Applied Music: French Horn (Pr)
+461
+Applied Music: Piano (Pr)
+462
+Applied Music: Organ (Pr)
+463
+Applied Music: Voice (Pr)
+464
+Applied Music: Viola (Pr)
+465
+Applied Music: Cello (Pr)
+466
+Applied Music: String Bass (Pr)
+467
+Applied Music: Flute (Pr)
+468
+Applied Music: Oboe (Pr)
+469
+Applied Music: Clarinet (Pr)
+470
+Applied Music: Bassoon (Pr)
+471
+Applied Music: Saxophone (Pr
+472
+Applied Music: Trumpet (Pr)
+473
+Applied Music: Violin (Pr)
+474
+Applied Music: Trombone (Pr)
+480
+Chamber Ensemble

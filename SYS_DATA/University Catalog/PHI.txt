@@ -1,0 +1,108 @@
+15CT
+Critical Thinking
+20CT
+Introduction to Logic
+30CT
+Introduction to Philosophy
+40CDCT
+Introduction to Ethics
+60CDCT
+Introduction to Religious Studies
+80CDCT
+Business Ethics
+105CDWI
+Medieval Philosophy
+110WICD
+Comparative Study of Religion
+113WI
+Environmental Philosophy
+116CTWI
+Ancient Philosophy
+121CTWI
+Modern Philosophy
+125CDWI
+Philosophical Aspects of Death and Dying
+130CDWI
+Asian Philosophy
+136WI
+Kant to Hegel
+140CTQL
+Symbolic Logic
+150CDWI
+History of Scientific Ideas
+160
+Philosophy of Sport
+160CTWI
+Philosophy of Sport
+170WICT
+Philosophy of Religion
+202CTWI
+HON: Two Philosophers Worth Knowing Well
+210WICT
+Medical Ethics
+215CDWI
+PERSONS LIFE AND DEATH
+225
+Metalogic
+225CT
+Metalogic
+230
+Philosophy of History
+230CTWI
+Philosophy of History
+235CDWI
+Topics in Moral Theory
+240CDWI
+Philosophy of the Social Sciences
+241CTWI
+Philosophy of Mind
+245CDWI
+Human Love and Sexual Morality
+249CDWI
+Interpretations of the Quran
+260CTWI
+Philosophy of Art
+265WICD
+Social and Political Philosophy
+270
+Interpretation of Religious Texts: Theories and Methods
+270CDWI
+Interpretation of Religious Texts: Theories and Methods
+280CTWI
+American Philosophy
+310CTWI
+Theory of Knowledge
+320
+Surv Contemp Phil
+330CTWI
+Philosophy of Science
+345WICT
+Metaphysics
+350
+Selected Topics in Philosophy
+351
+Selected Topics in Philosophy
+352
+Selected Topics in Philosophy
+353
+Selected Topics in Philosophy
+354
+Selected Topics in Philosophy
+355CTWI
+Existentialism and Phenomenology
+360
+Process Philosophy
+375CTWI
+Philosophy of Language
+379
+Independent Study
+380CTWI
+Senior Seminar in Philosophy
+381CTWI
+Senior Seminar in Philosophy and Religion
+395
+Honors Independent Study/Thesis
+398
+Honors Supplemental Research
+470
+Selected Topics in Philosophy

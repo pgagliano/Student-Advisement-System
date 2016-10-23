@@ -1,0 +1,128 @@
+21VL
+Ceramics I for Non Majors
+31VL
+Weaving for Non Majors
+41VL
+Textiles and Material Studies for Non Majors
+51VL
+Wood Design for Non Majors
+61VL
+Fine Metals for Non Majors
+68VL
+Enameling for Non Majors
+110CDVL
+Craft Design
+115
+Drawing For Designers
+121VL
+Ceramics I
+131VL
+Weaving I
+141VL
+Textiles and Material Studies I
+151VL
+Wood Design I
+161VL
+Fine Metals I
+210
+Applied Design for Crafts
+221
+Ceramics II
+231
+Weaving II
+241
+Textiles and Material Studies II
+251
+Wood Design II
+261
+Fine Metals II
+268VL
+Enameling
+307
+The Visual Journal: Drawing and Designing Abroad
+321CT
+Ceramics Studio I
+322
+Ceramics Studio II
+323
+Ceramics Studio III
+324
+Ceramics Studio IV
+325
+Ceramics Studio V
+331CT
+Weaving Studio I
+332
+Weaving Studio II
+333
+Weaving Studio III
+334
+Weaving Studio IV
+335
+Weaving Studio V
+341CT
+Textiles Studio I
+342
+Textiles Studio II
+343
+Textiles Studio III
+344
+Textiles Studio IV
+345
+Textiles Studio V
+351CT
+Furniture Studio I
+352
+Furniture Studio II
+353
+Furniture Studio III
+354
+Furniture Studio IV
+355
+Furniture Studio V
+361CT
+Fine Metals Studio I
+362
+Fine Metals Studio II
+363
+Fine Metals Studio III
+364
+Fine Metals Studio IV
+365
+Fine Metals Studio V
+368
+Product Research and Development
+370
+Selected Topics In Crafts
+376
+Advanced Studio Technique
+377
+Independent  Study: Craft Studio I
+378
+Independent  Study: Craft Studio II
+379
+Independent  Study: Craft Studio III
+380
+Independent  Study: Craft Studio IV
+381
+Professional Practices: Entrepreneurial Studies
+392
+Field Experience in Craft
+395
+Honors Independent Study/Thesis
+399
+Student Exhibition
+526
+Perspectives On Crafts
+542
+Weaving and Textiles
+543
+Ceramics
+545
+Wood Design
+546
+Jewelry and Metalcraft
+577
+Independent Study in Crafts
+579
+Selected Topics: Crafts

@@ -1,0 +1,220 @@
+SEU  312WICD - Principles of Learning SEU 312WICD - Principles of Learning 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2787
+010-LEC
+Regular
+Tu 8:00AM - 10:50AM
+BK 227/229
+Theresa Stahler
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2802
+020-LEC
+Regular
+Tu 8:00AM - 10:50AM
+BK 241
+Georgeos Sirrakos
+08/29/2016 - 12/17/2016
+Open
+SEU  313 - Principles of Learning Clinical Lab SEU 313 - Principles of Learning Clinical Lab 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2790
+010-CLN
+Regular
+Th 8:00AM - 10:50AM
+BK 227/229
+Theresa Stahler
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2803
+020-CLN
+Regular
+Th 8:00AM - 10:50AM
+BK 241
+Georgeos Sirrakos
+08/29/2016 - 12/17/2016
+Open
+SEU  321WI - Methods of Teaching Secondary School Subject: Communication SEU 321WI - Methods of Teaching Secondary School Subject: Communication 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2796
+010-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+LY 204
+Carissa Pokorny Golden
+08/29/2016 - 12/17/2016
+Open
+SEU  322WI - Methods of Teaching Secondary School Subject: Foreign Language SEU 322WI - Methods of Teaching Secondary School Subject: Foreign Language 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2886
+010-LEC
+Regular
+Tu 3:00PM - 5:50PM
+DF 24
+Angelo Rodriguez
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3533
+990-LEC
+Regular
+TBA
+TBA
+Angelo Rodriguez
+08/29/2016 - 12/17/2016
+Closed
+SEU  323WI - Methods of Teaching Secondary School Subject: Mathematics SEU 323WI - Methods of Teaching Secondary School Subject: Mathematics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2797
+010-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+BK 245
+Mark Wolfmeyer
+08/29/2016 - 12/17/2016
+Open
+SEU  325WI - Methods of Teaching Secondary School Subject: Social Studies SEU 325WI - Methods of Teaching Secondary School Subject: Social Studies 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2798
+010-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+BK 243
+Maria Sanelli
+08/29/2016 - 12/17/2016
+Open
+SEU  342WIVL - Principles of Teaching SEU 342WIVL - Principles of Teaching 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2788
+020-LEC
+Regular
+Mo 8:00AM - 10:50AM
+BK 227/229
+Adriane Golden
+08/29/2016 - 12/17/2016
+Open
+SEU  343 - Principles of Teaching Clinical Lab SEU 343 - Principles of Teaching Clinical Lab 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2791
+020-CLN
+Regular
+We 8:00AM - 10:50AM
+BK 227/229
+Adriane Golden
+08/29/2016 - 12/17/2016
+Open
+SEU  390 - Clinical Experience and Practicum: Secondary I SEU 390 - Clinical Experience and Practicum: Secondary I 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2781
+015-LEC
+Regular
+Tu 3:00PM - 4:50PM
+LY 204
+Carissa Pokorny Golden
+08/29/2016 - 10/21/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2782
+025-LEC
+Regular
+Tu 3:00PM - 4:50PM
+BK 245
+Mark Wolfmeyer
+08/29/2016 - 10/21/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2793
+035-LEC
+Regular
+Tu 3:00PM - 4:50PM
+BK 243
+Maria Sanelli
+08/29/2016 - 10/21/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2794
+045-LEC
+Regular
+Tu 3:00PM - 4:50PM
+DF 23
+Nancy Zimmerman
+08/29/2016 - 10/21/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2800
+055-LEC
+Regular
+Tu 3:00PM - 4:50PM
+BK 227/229
+Georgeos Sirrakos
+08/29/2016 - 10/21/2016
+Open
+SEU  391 - Clinical Experience and Practicum: Secondary II SEU 391 - Clinical Experience and Practicum: Secondary II 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2783
+016-LEC
+Regular
+Tu 3:00PM - 4:50PM
+LY 204
+Carissa Pokorny Golden
+10/22/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2784
+026-LEC
+Regular
+Tu 3:00PM - 4:50PM
+BK 245
+Mark Wolfmeyer
+10/22/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2792
+036-LEC
+Regular
+Tu 3:00PM - 4:50PM
+BK 243
+Maria Sanelli
+10/22/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2795
+046-LEC
+Regular
+Tu 3:00PM - 4:50PM
+DF 23
+Nancy Zimmerman
+10/22/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2801
+056-LEC
+Regular
+Tu 3:00PM - 4:50PM
+BK 227/229
+Georgeos Sirrakos
+10/22/2016 - 12/17/2016
+Open
+SEU  420 - Education Theory and Practice SEU 420 - Education Theory and Practice 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3480
+010-LEC
+Regular
+Tu 5:00PM - 7:50PM
+BK 227/229
+Adriane Golden
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3492
+020-LEC
+Regular
+Tu 5:00PM - 7:50PM
+BK 245
+Georgeos Sirrakos
+08/29/2016 - 12/17/2016
+Open
+Notes: This is a combined section class

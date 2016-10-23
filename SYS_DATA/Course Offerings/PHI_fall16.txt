@@ -1,0 +1,220 @@
+PHI   15CT - Critical Thinking PHI 15CT - Critical Thinking 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1465
+010-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+OM 278
+Joseph Jedwab
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1466
+020-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+OM 287
+Joseph Jedwab
+08/29/2016 - 12/17/2016
+Closed
+PHI   20CT - Introduction to Logic PHI 20CT - Introduction to Logic 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1476
+010-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+OM 123
+Mohammad Adeel
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1477
+020-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+OM 288
+Mohammad Adeel
+08/29/2016 - 12/17/2016
+Open
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1478
+030-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+OM 287
+Mohammad Adeel
+08/29/2016 - 12/17/2016
+Open
+PHI   30CT - Introduction to Philosophy PHI 30CT - Introduction to Philosophy 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1475
+019-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+OM 283
+John Lizza
+08/29/2016 - 12/17/2016
+Closed
+Topic: HONORS
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1468
+020-LEC
+Regular
+MoWeFr 3:00PM - 3:50PM
+OM 276
+Allan Back
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1469
+030-LEC
+Regular
+MoWeFr 10:00AM - 10:50AM
+OM 141
+Staff
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1470
+040-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+OM 283
+John Lizza
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1467
+050-LEC
+Regular
+MoWeFr 2:00PM - 2:50PM
+OM 276
+Allan Back
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2850
+060-LEC
+Regular
+MoWeFr 9:00AM - 9:50AM
+OM 136
+Staff
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3093
+070-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+OM 283
+Staff
+08/29/2016 - 12/17/2016
+Closed
+PHI   40CDCT - Introduction to Ethics PHI 40CDCT - Introduction to Ethics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1471
+010-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+OM 276
+Staff
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1472
+020-LEC
+Regular
+MoWeFr 2:00PM - 2:50PM
+OM 141
+Staff
+08/29/2016 - 12/17/2016
+Closed
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3101
+030-LEC
+Regular
+MoWeFr 11:00AM - 11:50AM
+OM 276
+Staff
+08/29/2016 - 12/17/2016
+Closed
+PHI   60CDCT - Introduction to Religious Studies PHI 60CDCT - Introduction to Religious Studies 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1479
+010-LEC
+Regular
+MoWeFr 1:00PM - 1:50PM
+OM 136
+Joseph Jedwab
+08/29/2016 - 12/17/2016
+Closed
+PHI  105CDWI - Medieval Philosophy PHI 105CDWI - Medieval Philosophy 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3098
+010-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+OM 140
+Allan Back
+08/29/2016 - 12/17/2016
+Open
+PHI  125CDWI - Philosophical Aspects of Death and Dying PHI 125CDWI - Philosophical Aspects of Death and Dying 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+2855
+010-LEC
+Regular
+TuTh 1:30PM - 2:50PM
+OM 280
+Staff
+08/29/2016 - 12/17/2016
+Closed
+PHI  140CT - Symbolic Logic PHI 140CT - Symbolic Logic 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1474
+010-LEC
+Regular
+MoWeFr 12:00PM - 12:50PM
+OM 140
+Allan Back
+08/29/2016 - 12/17/2016
+Closed
+PHI  210WICT - Medical Ethics PHI 210WICT - Medical Ethics 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+1487
+010-LEC
+Regular
+MoWe 3:00PM - 4:20PM
+OM 138
+John Lizza
+08/29/2016 - 12/17/2016
+Closed
+PHI  235CDWI - Topics in Moral Theory PHI 235CDWI - Topics in Moral Theory 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3099
+010-LEC
+Regular
+TuTh 12:00PM - 1:20PM
+OM 140
+Staff
+08/29/2016 - 12/17/2016
+Open
+PHI  241CTWI - Philosophy of Mind PHI 241CTWI - Philosophy of Mind 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3097
+010-LEC
+Regular
+TuTh 9:30AM - 10:50AM
+OM 283
+Joseph Jedwab
+08/29/2016 - 12/17/2016
+Open
+PHI  330CTWI - Philosophy of Science PHI 330CTWI - Philosophy of Science 
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status
+3100
+010-LEC
+Regular
+TuTh 3:00PM - 4:20PM
+OM 276
+Mohammad Adeel
+08/29/2016 - 12/17/2016
+Open

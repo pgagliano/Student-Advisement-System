@@ -1,0 +1,190 @@
+5
+Visualization for the Masses
+10
+Computer Applications
+20CPVL
+Computer Graphics
+111
+Computer Forensics
+112
+Visual Basic Programming
+120CPVL
+Introduction to Creative Graphical Coding
+122
+Web Site Design
+(122CPVL)
+Web Site Design
+** available as of 08/22/2016
+123
+Introduction to Scientific Programming
+125CT
+Discrete Math for Computing I
+130
+Information Technology Fundamentals
+135
+Computer Science I
+136CP
+Computer Science II
+220CPVL
+Object-Oriented Multimedia Programming
+225
+Discrete Math for Computing II
+235
+Computer Organization and Assembly Language
+237
+Data Structures
+241CP
+Advanced Visual Basic Programming
+242
+Web Programming
+243
+Java Programming
+253
+Information Technology Systems
+280
+Cooperative Internship in Computer Science I
+310
+Procedure Oriented Programming Languages
+311
+Computer Networks
+315
+Computer & Natural Lang
+320
+Game Development for Computer Scientists
+325
+Introduction to Computer Science Theory
+328
+Network Programming
+330
+Introduction to Mobile Architecture and Systems
+341
+Introduction to Information Security
+342
+Web Technologies
+343
+Operating Systems
+345
+Simulation
+351
+Digital Forensics for Computer Scientists
+352
+UNIX: Systems Programming and Administration
+354WI
+Software Engineering I
+355WI
+Software Engineering II
+356
+Introduction to Database Management Systems
+361
+Finite Automata & Formal Languages
+363
+Interdisciplinary Software Rapid Prototyping
+372
+Indpt Std/or Proj In Cis
+378
+Intro To Computer Graph
+380
+Cooperative Internship In Computer Science II
+385WI
+Computer Science Seminar
+395
+Honors Independent Study/Thesis
+398
+Honors Supplementary Research
+402
+Data Structures II
+411
+Advanced Networking
+415
+Design and Analysis of Algorithms I
+420
+Numerical Analysis
+421
+Web-Based Software Design and Development
+422
+Object Oriented Programming I
+423
+Game Development for Computer Scientists II
+425
+Compiler Design I
+441
+Advanced Information Security
+445
+Introduction to Intelligent Robotics
+447
+Artificial Intelligence I
+456
+Database Management Systems I
+464
+Human Computer Interaction
+472
+Independent Study and/or Projects in Computer Science
+480
+Selected Topics in Computer Science
+505
+Fundamentals of Computer Systems
+510
+Advanced Operating Systems
+512
+Network Architecture and Protocols
+516
+Design and Analysis of Algorithms II
+518
+Concurrent Programming
+520
+Advanced Object Oriented Programming
+521
+Advanced Web-Based Software Development
+526
+Principles of Compiler Design II
+540
+Engineering Enterprise Object Oriented Systems
+541
+Advanced Information Security
+543
+Multiprocessing and Concurrent Programming
+545
+Simulation
+548
+Artificial Intelligence II
+550
+Information Systems I: Systems Analysis and Design
+551
+Information Systems II: Software Engineering
+552
+Advanced UNIX Programming
+554
+Project Management
+555
+Applied Cryptography
+556
+Database Management Systems II
+565
+Numer Computation (anal)
+566
+Numer Computation(algebra
+570
+Independent Study and/or Projects in Computer Science
+572
+Computer Network Programming
+578
+Computer Graphics I
+580
+Special Topics in Computer Science
+581
+Special Topics in Computer Science
+582
+Special Topics in Computer Science
+583
+Special Topics in Computer Science
+584
+Special Topics in Computer Science
+585
+Special Topics in Computer Science
+590
+CS Cooperative Internship
+(599)
+Graduate Thesis in Computer Science and Information Technology
+** available as of 01/23/2017
+599
+Thesis

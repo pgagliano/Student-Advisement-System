@@ -1,0 +1,10 @@
+121
+Engineering Drawing and Lettering
+130
+Engineering Mechanics
+230
+Strength of Materials
+330
+Fluid Mechanics
+370
+Research in Engineering

@@ -1,0 +1,27 @@
+-------------------
+::GENERAL NOTES:::
+-------------------
+Do we actually need course catalog? or just offerings?
+Should we limit the schedule recommendations to a 0-100 course number pool?
+What should we do about minors?
+
+--------------------
+::FOR UNDERGRAD::
+--------------------
+-break down 8 main semesters.
+  ^it, sd, cit, csd, each have their own unique 8 semester breakdowns
+-create deviation path
+  ^course correct to get back on main semester path
+-total GenEds remaining vs semesters left + total amount completed of CS courses vs left to complete
+  ^Spell out remaining things to be completed in "main semester units" visualization?
+
+^::->FOR (First Visit) UNDERGRAD TRANSFERS / First semester of implementing the system
+-after parsing in transcript, determine which of the 8 main semester breakdowns they fall into
+
+------------------
+::FOR GRAD::
+------------------
+-enter their desired graduation date, create break down of main semester units based on desired grad date
+  ^mit, msd, psm, each have their own unique semester breakdowns
+-total amount completed of CS courses vs left to complete
+  ^spell out remaining things to be completed in "main semester units" visualization?

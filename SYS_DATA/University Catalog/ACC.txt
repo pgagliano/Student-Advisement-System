@@ -1,0 +1,36 @@
+121
+Financial Accounting
+122
+Managerial Accounting
+305
+Cost Accounting
+306
+Advanced Cost Accounting
+312
+Accounting Information Systems
+313
+Concepts of Taxation and Tax Planning
+317
+Tax Accounting I
+318
+Tax Accounting II
+321
+Intermediate Accounting I
+322
+Intermediate Accounting II
+323
+Advanced Accounting
+325
+Not-For-Profit and Governmental Accounting
+330
+Auditing Practice and Standards
+380
+Senior Seminar in Accounting
+395
+Honors Thesis in Accounting
+520
+Management Accounting Control Systems
+521
+Tax and Financial Planning
+571
+Selected Topics

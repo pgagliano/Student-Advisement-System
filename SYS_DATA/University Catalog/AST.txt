@@ -1,0 +1,26 @@
+20
+Introductory Astronomy
+26
+Elements of Modern Astronomy
+30QL
+Mission To The Planets
+40
+Honors Astronomy; The History of Astronomical Disc
+140QL
+Planetary Science
+142
+Stellar & Galactic Astronomy
+205
+Planetary Surface Processes
+240
+The Planetarium
+340
+Introduction to Astrophysics
+342
+Astrophysics
+350
+Practical Astronomy
+370
+Research in Astronomy
+395
+Honors Independent Study/Thesis
