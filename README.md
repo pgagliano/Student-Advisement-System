@@ -1,9 +1,9 @@
 # Student-Advisement-System
-*CSC355 Project*    
+CSC355 Project    
 
-*Patrick - ui_mods->faculty and it*   
+Patrick - ui_mods->faculty and it   
 
-*Alan - sched_mod*   
+Alan - sched_mod   
 
-*Geoffrey - advise_mod*   
+Geoffrey - advise_mod   
 
