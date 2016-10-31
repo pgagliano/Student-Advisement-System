@@ -75,6 +75,19 @@
     "days": "MWF",
     "start": "8:00am",
     "end": "8:50am"
+  },
+  {
+    "code": "CSC130",
+    "section": "010",
+    "days": "MWF",
+    "start": "10:00am",
+    "end": "10:50am"
+  },
+  {
+    "code": "CSC130",
+    "section": "020",
+    "days": "MWF",
+    "start": "11:00am",
+    "end": "11:50am"
   }
-
 ]}
