@@ -2,7 +2,7 @@
   {
     "code": "CSC010",
     "section": "010",
-    "days": "TR",
+    "days": "TH",
     "start": "9:30am",
     "end": "10:50am"
   },
@@ -257,5 +257,47 @@
     "days": "TH",
     "start": "1:30pm",
     "end": "2:50pm"
+  },
+  {
+    "code": "CSC356",
+    "section": "010",
+    "days": "MWF",
+    "start": "1:00pm",
+    "end": "1:50pm"
+  },
+  {
+    "code": "CSC356",
+    "section": "020",
+    "days": "MWF",
+    "start": "2:00pm",
+    "end": "2:50pm"
+  },
+  {
+    "code": "CSC363",
+    "section": "010",
+    "days": "F",
+    "start": "10:00am",
+    "end": "12:50pm"
+  },
+  {
+    "code": "CSC411",
+    "section": "010",
+    "days": "TH",
+    "start": "8:00am",
+    "end": "9:20am"
+  },
+  {
+    "code": "CSC423",
+    "section": "010",
+    "days": "TH",
+    "start": "4:30pm",
+    "end": "5:50pm"
+  },
+  {
+    "code": "CSC443",
+    "section": "010",
+    "days": "MW",
+    "start": "4:30pm",
+    "end": "5:50pm"
   }
 ]}
