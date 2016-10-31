@@ -1,4 +1,3 @@
-<script>
 /* 
  A. Course Prioritization Filter:
  1. Major requirements + Concomittant (don't forget SD 200 lvl course rule)
@@ -44,4 +43,18 @@ Do grad courses have different grade requirements? No C's etc?
 Should I assume specific semester courses, or base more off of courses offered?
 Should I ask to see new IT major check sheet?
 */
-</script>
+
+var deps = require('./dependencies.json');
+var stud = require('./student.json');
+var courses = require('./courses.json');
+var gened = require('./gened_f11.json');
+var sequence = require('./sequence.json')
+var uit = require('./uit_s16');
+
+
+ for(var i = 0; i < deps.dependencies.length; i++) {
+      console.log(deps.dependencies[i].code);
+      console.log(deps.dependencies[i].semOffered);
+      console.log(deps.dependencies[i].orCourses);
+      console.log(deps.dependencies[i].andCourses);
+ }
