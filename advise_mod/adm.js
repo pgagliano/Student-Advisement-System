@@ -27,7 +27,6 @@
     1. Flag on any courses identified
 
 
-	
 Assumptions:
 All 300 level courses require 6 CS credits and CS GPA of >=2.25 
 ^[125,130,135,136,242,253]it
@@ -47,9 +46,10 @@ Should I ask to see new IT major check sheet?
 var deps = require('./dependencies.json');
 var stud = require('./student.json');
 var courses = require('./courses.json');
-var gened = require('./gened_f11.json'); //
-var uit = require('./uit_s16'); //
-var sequence = require('./sequence.json') //
+var gened = require('./gened_f11.json');
+var uit = require('./uit_s16.json');
+var offer = require('./offered.json')
+var sequence = require('./sequence.json')
 
 
 console.log(stud.student[0].sid);
@@ -59,6 +59,8 @@ console.log(stud.student[0].major);
 console.log(stud.student[0].checksheet);
 console.log(stud.student[0].credits);
 console.log(stud.student[0].gpa);
+
+console.log(uit.uit[0].required);
 
 for(var i = 0; i < deps.dependencies.length; i++) 
 {
@@ -86,7 +88,11 @@ for(var i = 0; i < gened.geneds.length; i++)
       console.log(gened.geneds[i].competencies);
  }
 
-
-console.log(uit.uit[0].required);
-
-
+for(var i = 0; i < offer.offered.length; i++) 
+{
+      console.log(offer.offered[i].code);
+      console.log(offer.offered[i].section);
+      console.log(offer.offered[i].days);
+      console.log(offer.offered[i].start);
+      console.log(offer.offered[i].end);
+ }
