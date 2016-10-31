@@ -62,5 +62,21 @@
         "grade": "pending",
         "credits": 3,
         "comptency": "null"
+    },
+	{
+        "code": "MAT140",
+        "name": "Applied Stat Methods",
+        "semester": "spring15",
+        "grade": "pending",
+        "credits": 3,
+        "comptency": "QL"
+    },
+	{
+        "code": "PHI040",
+        "name": "Intro to Ethics",
+        "semester": "spring15",
+        "grade": "pending",
+        "credits": 3,
+        "comptency": "CDCT"
     }
 ]}
