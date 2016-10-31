@@ -1,0 +1,6 @@
+{"uit":[
+    {
+		"required": ["MAT140", "MAT181", "MAT182", "MAT260", "PHI040", "CSC125", "CSC135", "CSC136", "CSC225","CSC235", "CSC237", "CSC310", "CSC328", "CSC343", "CSC354", "CSC355"], 
+		"electives": 24
+	}
+]}
