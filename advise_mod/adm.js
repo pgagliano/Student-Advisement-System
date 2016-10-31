@@ -47,14 +47,46 @@ Should I ask to see new IT major check sheet?
 var deps = require('./dependencies.json');
 var stud = require('./student.json');
 var courses = require('./courses.json');
-var gened = require('./gened_f11.json');
-var sequence = require('./sequence.json')
-var uit = require('./uit_s16');
+var gened = require('./gened_f11.json'); //
+var uit = require('./uit_s16'); //
+var sequence = require('./sequence.json') //
 
 
- for(var i = 0; i < deps.dependencies.length; i++) {
+console.log(stud.student[0].sid);
+console.log(stud.student[0].firstName);
+console.log(stud.student[0].lastName);
+console.log(stud.student[0].major);
+console.log(stud.student[0].checksheet);
+console.log(stud.student[0].credits);
+console.log(stud.student[0].gpa);
+
+for(var i = 0; i < deps.dependencies.length; i++) 
+{
       console.log(deps.dependencies[i].code);
       console.log(deps.dependencies[i].semOffered);
       console.log(deps.dependencies[i].orCourses);
       console.log(deps.dependencies[i].andCourses);
  }
+  
+for(var i = 0; i < courses.courses.length; i++) 
+{
+      console.log(courses.courses[i].code);
+      console.log(courses.courses[i].name);
+      console.log(courses.courses[i].semester);
+      console.log(courses.courses[i].grade);
+      console.log(courses.courses[i].credits);
+      console.log(courses.courses[i].competency);
+ }
+
+for(var i = 0; i < gened.geneds.length; i++) 
+{
+      console.log(gened.geneds[i].unicore);
+      console.log(gened.geneds[i].unidist);
+      console.log(gened.geneds[i].collegedist);
+      console.log(gened.geneds[i].competencies);
+ }
+
+
+console.log(uit.uit[0].required);
+
+
