@@ -50,8 +50,39 @@ var gened = require('./gened_f11.json');
 var uit = require('./uit_s16.json');
 var offer = require('./offered.json')
 var sequence = require('./sequence.json')
+var fs = require('fs');
+var PDFParser = require("pdf2json");
+var path = require('path')
+var filePath = path.join(__dirname, './trans.pdf')
+var extract = require('pdf-text-extract')
+extract(filePath, { splitPages: false, eol: "unix" }, function (err, text) {
+  if (err) {
+    console.dir(err)
+    return
+  }
+  console.dir(text)
+   fs.writeFile("./content.txt", text);
+})
 
+/*
+   pdfParser = new PDFParser(this,1);
 
+    pdfParser.on("pdfParser_dataError", errData => console.error(errData.parserError) );
+    pdfParser.on("pdfParser_dataReady", pdfData => {
+        fs.writeFile("./content.txt", pdfParser.getRawTextContent());
+    });
+
+    pdfParser.loadPDF("./trans.pdf");
+
+    pdfParser.on("pdfParser_dataError", errData => console.error(errData.parserError) );
+    pdfParser.on("pdfParser_dataReady", pdfData => {
+        fs.writeFile("./content.json", JSON.stringify(pdfData));
+    });
+
+    pdfParser.loadPDF("./trans.pdf");
+
+*/
+/*
 console.log(stud.student[0].sid);
 console.log(stud.student[0].firstName);
 console.log(stud.student[0].lastName);
@@ -96,3 +127,4 @@ for(var i = 0; i < offer.offered.length; i++)
       console.log(offer.offered[i].start);
       console.log(offer.offered[i].end);
  }
+*/
