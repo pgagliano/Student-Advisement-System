@@ -1,3 +1,11 @@
+var deps = require('./dependencies.json');  // cs course prereqs
+var stud = require('./student.json');       // student data
+var courses = require('./courses.json');    // courses taken
+var gened = require('./gened_f11.json');    // gen ed requirements
+var uit = require('./uit_s16.json');        // uit courses required
+var offer = require('./offered.json');      // being offered this semester
+var completed = [];
+var remaining = [];
 /* 
  A. Course Prioritization Filter:
  1. Major requirements + Concomittant (don't forget SD 200 lvl course rule)
@@ -45,10 +53,10 @@ Should I ask to see new IT major check sheet?
 
 /* EXTRACT TEXT FROM PDF
 var fs = require('fs');
-var extract = require('pdf-text-extract')
-var path = require('path')
-var filePath = path.join(__dirname, './pdf.pdf')
-extract(filePath, { splitPages: false}, function (err, text) 
+var extract = require('pdf-text-extract');
+var path = require('path');
+var filePath = path.join(__dirname, './pdf.pdf');
+extract(filePath, { splitPages: false}, function (err, text);
 {
     if (err) 
     {
@@ -60,7 +68,7 @@ extract(filePath, { splitPages: false}, function (err, text)
 }
 */
 
-/*  READ IN JSON
+/*  READ IN JSON (then print)
 var deps = require('./dependencies.json');
 var stud = require('./student.json');
 var courses = require('./courses.json');
@@ -115,18 +123,7 @@ for(var i = 0; i < offer.offered.length; i++)
  }
 */
 
-
-var deps = require('./dependencies.json');
-var stud = require('./student.json');
-var courses = require('./courses.json');
-var gened = require('./gened_f11.json');
-var uit = require('./uit_s16.json');
-var offer = require('./offered.json')
-var completed = [];
-var remaining = [];
-
-
-// figure out courses taken and courses remaining
+/*// MAJOR COURSES TAKEN AND REMAINING
 console.log("Required courses: ");
 for(var i = 0; i < uit.uit[0].required.length; i++)
 {
@@ -143,8 +140,7 @@ for(var i = 0; i < uit.uit[0].required.length; i++)
    if (check == false)
    {
        remaining.push(uit.uit[0].required[i]);
-   }
-    
+   } 
 }
 console.log("\n");
 console.log("Completed courses: ")
@@ -158,5 +154,6 @@ for (var i = 0; i < remaining.length; i++)
 {
    console.log(remaining[i]);
 }
+*/
 
 
