@@ -7,6 +7,25 @@ var offer = require('./offered.json');      // being offered this semester
 var completed = [];
 var remaining = [];
 /* 
+
+variable course selected
+FLAG with 'x'
+CSC3xx
+	{
+        "code": "CSC",
+        "higher": "CSC298",
+        "needed": 6,
+        "not": "CSC299"
+    }
+MAT18x
+	{
+        "code": "MAT",
+        "higher": "MAT181",
+        "needed": 1,
+        "not": "MAT224"
+    }
+courses with "higher than" requirements (e.g. higher than mat 181) and NOT courses (not bla bla) 
+
  A. Course Prioritization Filter:
  1. Major requirements + Concomittant (don't forget SD 200 lvl course rule)
     a. Courses with the most satisfied prereqs.
