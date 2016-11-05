@@ -36,7 +36,7 @@ var remaining = [];
 
 
 Assumptions:
-All 300 level courses require 6 CS credits and CS GPA of >=2.25 
+All 300 level courses require 6 CS classes and CS GPA of >=2.25 
 ^[125,130,135,136,242,253]it
 ^[125,135,136,225,235,237]sd
 ^Special exception of 354, which requires 8.
