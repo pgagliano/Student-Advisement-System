@@ -6,25 +6,26 @@ var uit = require('./uit_s16.json');        // uit courses required
 var offer = require('./offered.json');      // being offered this semester
 var completed = [];
 var remaining = [];
-/* 
 
-variable course selected
-FLAG with 'x'
-CSC3xx
+/* 
+For elective course requirements:
+*Provide unique code for each elective needed (generated automatically)
+    CSCxx1
 	{
-        "code": "CSC",
-        "higher": "CSC298",
-        "needed": 6,
-        "not": "CSC299"
+        "higherThan": "CSC200",
+        "not": "CSC130, CSC235, CSC225, CSC237, etc."
     }
-MAT18x
+    CSCxx2
 	{
-        "code": "MAT",
-        "higher": "MAT181",
-        "needed": 1,
+        "higherThan": "CSC300",
+        "not": "CSC310, CSC325", "etc."
+    }
+    MATxx1
+	{
+        "higherThan": "MAT181"
         "not": "MAT224"
     }
-courses with "higher than" requirements (e.g. higher than mat 181) and NOT courses (not bla bla) 
+
 
  A. Course Prioritization Filter:
  1. Major requirements + Concomittant (don't forget SD 200 lvl course rule)
@@ -54,13 +55,11 @@ courses with "higher than" requirements (e.g. higher than mat 181) and NOT cours
     1. Flag on any courses identified
 
 
-Assumptions:
-All 300 level courses require 6 CS classes and CS GPA of >=2.25 
-^[125,130,135,136,242,253]it
-^[125,135,136,225,235,237]sd
-^Special exception of 354, which requires 8.
+Algorithm Rules:
+All 300 level courses require CS GPA of >=2.25 
 All 400 level courses have prereqs exempt for GRAD students	
 All major requirement courses require a C or better
+All courses with prereqs satisfied, must have a C in that satisfied prereq
 
 Questions:
 What happens if student gets a D in a major requirement?
