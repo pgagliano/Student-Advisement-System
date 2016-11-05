@@ -1,33 +1,12 @@
-var deps = require('./dependencies.json');  // cs course prereqs
-var stud = require('./student.json');       // student data
-var courses = require('./courses.json');    // courses taken
-var gened = require('./gened_f11.json');    // gen ed requirements
-var uit = require('./uit_s16.json');        // uit courses required
-var offer = require('./offered.json');      // being offered this semester
-var completed = [];
-var remaining = [];
-
 /* 
-For elective course requirements:
-*Provide unique code for each elective needed (generated automatically)
-    CSCxx1
-	{
-        "higherThan": "CSC200",
-        "not": "CSC130, CSC235, CSC225, CSC237, etc."
-    }
-    CSCxx2
-	{
-        "higherThan": "CSC300",
-        "not": "CSC310, CSC325", "etc."
-    }
-    MATxx1
-	{
-        "higherThan": "MAT181"
-        "not": "MAT224"
-    }
 
+Algorithm Rules:
+All 300 level courses require CS GPA of >=2.25 
+All 400 level courses have prereqs exempt for GRAD students	
+All major requirement courses require a C or better
+All courses with prereqs satisfied, must have a C in that satisfied prereq
 
- A. Course Prioritization Filter:
+ A. Course Prioritization Filter
  1. Major requirements + Concomittant (don't forget SD 200 lvl course rule)
     a. Courses with the most satisfied prereqs.
        i. Run satisfied prereq check (1. number of credits needed, 2. courses needed)
@@ -54,19 +33,31 @@ For elective course requirements:
   D. Identify major req courses with dependencies where grade is less than C
     1. Flag on any courses identified
 
-
-Algorithm Rules:
-All 300 level courses require CS GPA of >=2.25 
-All 400 level courses have prereqs exempt for GRAD students	
-All major requirement courses require a C or better
-All courses with prereqs satisfied, must have a C in that satisfied prereq
-
 Questions:
 What happens if student gets a D in a major requirement?
 What happens if  student gets D in prerequisite, but is already registered for other course? (CSC135=D, registered for 136).
 Do grad courses have different grade requirements? No C's etc?
 Should I assume specific semester courses, or base more off of courses offered?
 Should I ask to see new IT major check sheet?
+
+For elective course requirements:
+*Provide unique code for each elective needed (generated automatically)
+    CSCxx1
+	{
+        "higherThan": "CSC200",
+        "not": "CSC130, CSC235, CSC225, CSC237, etc."
+    }
+    CSCxx2
+	{
+        "higherThan": "CSC300",
+        "not": "CSC310, CSC325", "etc."
+    }
+    MATxx1
+	{
+        "higherThan": "MAT181"
+        "not": "MAT224"
+    }
+    
 */
 
 /* EXTRACT TEXT FROM PDF
@@ -173,5 +164,15 @@ for (var i = 0; i < remaining.length; i++)
    console.log(remaining[i]);
 }
 */
+
+// read in test data
+var deps = require('./dependencies.json');  // cs course prereqs
+var stud = require('./student.json');       // student data
+var courses = require('./courses.json');    // courses taken
+var gened = require('./gened_f11.json');    // gen ed requirements
+var uit = require('./uit_s16.json');        // uit courses required
+var offer = require('./offered.json');      // being offered this semester
+var completed = [];
+var remaining = [];
 
 
