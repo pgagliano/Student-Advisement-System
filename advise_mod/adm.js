@@ -43,11 +43,12 @@ Should I assume specific semester courses, or base more off of courses offered?
 Should I ask to see new IT major check sheet?
 */
 
+/* EXTRACT TEXT FROM PDF
 var fs = require('fs');
 var extract = require('pdf-text-extract')
 var path = require('path')
-var filePath = path.join(__dirname, './trans.pdf')
-extract(filePath, { splitPages: false, eol: "unix" }, function (err, text) 
+var filePath = path.join(__dirname, './pdf.pdf')
+extract(filePath, { splitPages: false}, function (err, text) 
 {
     if (err) 
     {
@@ -55,10 +56,11 @@ extract(filePath, { splitPages: false, eol: "unix" }, function (err, text)
         return;
     }
     console.dir(text);
-    fs.writeFile("./content.txt", text);
-})
+    fs.writeFile("./noeol.txt", text);
+}
+*/
 
-
+/*  READ IN JSON
 var deps = require('./dependencies.json');
 var stud = require('./student.json');
 var courses = require('./courses.json');
@@ -111,3 +113,50 @@ for(var i = 0; i < offer.offered.length; i++)
       console.log(offer.offered[i].start);
       console.log(offer.offered[i].end);
  }
+*/
+
+
+var deps = require('./dependencies.json');
+var stud = require('./student.json');
+var courses = require('./courses.json');
+var gened = require('./gened_f11.json');
+var uit = require('./uit_s16.json');
+var offer = require('./offered.json')
+var completed = [];
+var remaining = [];
+
+
+// figure out courses taken and courses remaining
+console.log("Required courses: ");
+for(var i = 0; i < uit.uit[0].required.length; i++)
+{
+   var check = false;
+   console.log(uit.uit[0].required[i]);
+   for(var j = 0; j < courses.courses.length; j++) 
+   {
+         if(uit.uit[0].required[i] == courses.courses[j].code)
+         {
+           completed.push(uit.uit[0].required[i]);
+           check = true;
+         }
+   }
+   if (check == false)
+   {
+       remaining.push(uit.uit[0].required[i]);
+   }
+    
+}
+console.log("\n");
+console.log("Completed courses: ")
+for (var i = 0; i < completed.length; i++)
+{
+   console.log(completed[i]);
+}
+console.log("\n");
+console.log("Remaining courses: ")
+for (var i = 0; i < remaining.length; i++)
+{
+   console.log(remaining[i]);
+}
+
+
