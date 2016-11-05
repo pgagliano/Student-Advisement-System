@@ -42,22 +42,29 @@ Should I ask to see new IT major check sheet?
 
 For elective course requirements:
 *Provide unique code for each elective needed (generated automatically)
-    CSCxx1
+::Ex::
+"Courses":
+{
+    "CSC125", "CSC126", "CSC127",
+    "CSCxx1":
 	{
         "higherThan": "CSC200",
         "not": "CSC130, CSC235, CSC225, CSC237, etc."
-    }
-    CSCxx2
+    },
+    "CSCxx2":
 	{
         "higherThan": "CSC300",
         "not": "CSC310, CSC325", "etc."
-    }
-    MATxx1
+    },
+    "CSC354", "CSC355", "CSC356",
+    "MATxx1":
 	{
         "higherThan": "MAT181"
         "not": "MAT224"
     }
-    
+}
+
+
 */
 
 /* EXTRACT TEXT FROM PDF
